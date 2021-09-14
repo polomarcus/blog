@@ -1,0 +1,61 @@
+baseURL = "http://polomarcus.github.com/"
+languageCode = "fr-fr"
+title = "Blog"
+description = "Data, climat, sports, congé paternité"
+theme = "anatole"
+enableEmoji = true
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Articles"
+  weight = 200
+  identifier = "articles"
+  url = "/article/"  
+
+[author]
+  name = "Paul Leclercq"
+  
+[params]
+title = "Paul Leclercq 🦖"
+author = "Paul Leclercq 🦖"
+description = "Data, climat, sports, congé paternité"
+profilePicture = "https://avatars.githubusercontent.com/u/4059615?v=4"
+
+favicon = "favicons/"
+displayMode = "dark"
+contentratio = 0.7
+singleDateFormat = "1 January 2006"
+indexDateFormat = "1 January 2006"
+listDateFormat = "January 2"
+readMore = true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://www.github.com/polomarcus"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/paleclercq/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/polomarcus"
+[[params.socialIcons]]
+icon = "fab fa-medium"
+title = "Medium"
+url = "https://medium.com/@polomarcus"
