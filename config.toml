@@ -19,6 +19,12 @@ enableEmoji = true
   identifier = "articles"
   url = "/article/"  
 
+  [[menu.main]]
+  name = "Categories | Tags"
+  weight = 200
+  identifier = "tags"
+  url = "/tags/"
+
 [author]
   name = "Paul Leclercq"
   
