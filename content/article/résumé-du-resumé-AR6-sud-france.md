@@ -211,10 +211,20 @@ Cet outil permet de simuler les conditions de survie des arbres : https://climes
 
 C'est toujours un bonheur que d'entendre la première cigale en juin. Les mâles chantent dès qu'il fait 25 degré, et ça dure parfois jusqu'à tard dans la nuit avec la chaleur des villes. Par contre, leur migrations vers des populations [qui n'y sont pas habitués](https://www.francetvinfo.fr/monde/environnement/climat-les-cigales-toujours-plus-au-nord_1575177.html) peut surprendre [et on peut lire des témoignages vont même à porter plainte](https://www.lci.fr/societe/avec-le-rechauffement-climatique-le-chant-des-cigales-va-devenir-insupportable-2060119.html). Ca peut être un exemple sonore qui prête à sourire, mais ça nous laisse entrevoir les conséquences pour les autres espèces d'insectes dont on ignore encore beaucoup de choses.
 
+De l'autre côté, les moustiques, l'animal le plus dangereux pour l'homme, est aidé dans son developpement par la hausse des témpératures. Le changement de climat n'est pas le seul responsable, mais l'espèce est passé [d'un seul département de présence, Alpes Maritimes (06), à presque la moitié de la France en 15 ans.](https://solidarites-sante.gouv.fr/IMG/pdf/extension_moustique_classement_1_annee_2004_a_2020.pdf).
+
+> Cependant le réchauffement prévu, à un degré modeste, dans les décennies à venir, 
+favorisera  très  probablement  la  croissance  et  l'expansion  des  espèces  dans  les 
+régions de haute latitude. 
+* [*Elise Mourot - Thèse "Biodiversité et moustiques face au changement
+climatique et à la mondialisation"*](https://dumas.ccsd.cnrs.fr/dumas-02938675/document
+)
+
+Si les insectes sont impactés, c'est toute la chaîne qu'il est à son tour :
 > La migration des oiseaux est par exemple impactée : certaines espèces arrivent plus tôt et se retrouvent en décalage avec les ressources alimentaires prélevées auparavant.
 * *[Source Nature France](https://naturefrance.fr/changement-climatique)*
 
-[L'océan s'acidifie par l'absorption du 1/4 du C02 émis](https://bonpote.com/acidification-des-oceans-et-changement-climatique/), c'est génial pour limiter la puissance des gaz à effet de serre, on appel ça un puit de carbone. Mais cela impacte les coquilles calcaires des [phytoplanctons](https://fr.wikipedia.org/wiki/Prymnesiophyceae) et toute la chaîne alimentaire marine est impactée.
+[L'océan s'acidifie par l'absorption du 1/4 du C02 émis](https://bonpote.com/acidification-des-oceans-et-changement-climatique/), c'est génial pour limiter la puissance des gaz à effet de serre, on appel ça un puit de carbone. Mais cela impacte les coquilles calcaires des [phytoplanctons](https://fr.wikipedia.org/wiki/Prymnesiophyceae) et toute la chaîne alimentaire marine est impactée à son tour.
 
 ## Le bouton Stop ? Limiter le futur changement de climat   
 
