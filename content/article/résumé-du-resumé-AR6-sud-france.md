@@ -5,12 +5,11 @@ description: "Ceci est le résumé du résumé pour décideur du groupe 1 'bases
 tags : [
     "climat"
 ]
-featured_image: "https://france3-regions.francetvinfo.fr/image/A_uNRWuTB12NFoyGBkFy4R-RkR0/930x620//filters:format(webp)/regions/2020/06/09/5edf8d095094e_whatsapp_image_2019-11-23_at_14.49.53_1-4530485.jpeg"
+thumbnail: "images/palavas.png"
 date: 2021-10-14T14:41:06+02:00
 ---
 
-# Résumé spécial sud de la France du résumé pour décideur du GIEC
-![https://france3-regions.francetvinfo.fr/occitanie/herault/2040-palavas-flots-1757805.html](https://france3-regions.francetvinfo.fr/image/A_uNRWuTB12NFoyGBkFy4R-RkR0/930x620//filters:format(webp)/regions/2020/06/09/5edf8d095094e_whatsapp_image_2019-11-23_at_14.49.53_1-4530485.jpeg)
+![Palavas sous les eaux](images/palavas.png)
 - ["23 novembre 2019 - Palavas-sous-les-Flots"](https://france3-regions.francetvinfo.fr/occitanie/herault/2040-palavas-flots-1757805.html)
 
 ## Le climat, on s'y intéressera seulement 2100 ?
@@ -35,7 +34,7 @@ Je le fais aussi [car 1 Français sur 5 (1 sur 2 en 2000)](https://librairie.ade
 Il faut absolument garder en tête **qu'on ne peut pas negocier avec la physique**, qui est une science dure, contrairement à l'économie qui, comme le disait Bernard Maris, ancien conseil général de la banque de France, est composée de choix politiques déguisés en [scielle (molle) jalouse de ses cousines les sciences dures : la biologie, la chimie, la physique...](https://www.franceculture.fr/emissions/la-bibliotheque-ideale-de-leco/la-bibliotheque-ideale-de-leco-du-vendredi-11-janvier-2019)
 
 Pas encore convaincu à 100% par la véracité des travaux du GIEC ? Il faut noter que chaque ligne de ce résumé a été validé par le gouvernement Français, et tous les autres membres d'ONU, et que ce rapport fait seulement des projections, et non des recommandations. Difficile, donc, de remettre en question ces rapports, [n'est ce pas David Pujadas ?](https://twitter.com/samgontier/status/1408168391584722949?lang=fr)
-
+{{< twitter_simple 1408168391584722949 >}}
 
 ## Le constat sans précédent
 La concentration de CO2 est plus haute que n'importe quand dans l'histoire depuis au moins 2 millions d'années, seuls les Homo Habilis et Gautengensis ont pu connaitre ces niveaux (Sapiens date de -300 000 ans).
@@ -269,8 +268,7 @@ Egalement, quand on demande aux Français, 57% disent qu'il "faut réorienter en
 
 La majorité est donc du côté de la science, et c'est une note d'espoir qu'il devrait nous motiver à aller encore plus loin, et ne plus se taire lorsqu'on discute avec un climato sceptique ou rassuriste.
 
-> "Autant il y a des lenteurs chez les élus [...], autant dans l'ensemble de la société civile ça bouge de tous les côtés"
-* [Valerie Masson Delmotte, 10 septembre 2021](https://twitter.com/larrouturou/status/1436307466883633157   )
+{{< twitter_simple 1436307466883633157 >}}
 
 ## Comptabilité carbone 
 Toutes ces informations nous font ressentir beaucoup de choses, et ça fait beaucoup à digérer. L'action numéro 1 à prendre en priorité est de faire un calcul d'empreinte carbone avec https://nosgestesclimat.fr/ et de creuser à partir de là les accords de Paris, qui sont la promesse de tout un chacun. *Qui ne s'est pas moqué de Trump lorsqu'il est sorti des accords de Paris ?*
