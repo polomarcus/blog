@@ -1,7 +1,7 @@
 ---
-title: "Résumé spécial sud de la France du résumé AR6 du GIEC"
+title: "Résumé spécial sud de la France du rapport du GIEC"
 draft: true
-description: "Retours sur le Startup Weekend Montpellier de mai 2014"
+description: "Ceci est le résumé du résumé pour décideur du groupe 1 "bases physiques scientifiques" du 6ème rapport du groupe intergouvernemental sur l'evolution du climat"
 tags : [
     "climat"
 ]
@@ -9,18 +9,17 @@ featured_image: "https://france3-regions.francetvinfo.fr/image/A_uNRWuTB12NFoyGB
 date: 2021-10-14T14:41:06+02:00
 ---
 
-# Mon Résumé sud de la France du résumé AR6 du GIEC
+# Résumé spécial sud de la France du résumé pour décideur du GIEC
 ![https://france3-regions.francetvinfo.fr/occitanie/herault/2040-palavas-flots-1757805.html](https://france3-regions.francetvinfo.fr/image/A_uNRWuTB12NFoyGBkFy4R-RkR0/930x620//filters:format(webp)/regions/2020/06/09/5edf8d095094e_whatsapp_image_2019-11-23_at_14.49.53_1-4530485.jpeg)
 - ["23 novembre 2019 - Palavas-sous-les-Flots"](https://france3-regions.francetvinfo.fr/occitanie/herault/2040-palavas-flots-1757805.html)
 
 ## Le climat, on s'y intéressera seulement 2100 ?
-
 Si on ne s'intéresse pas au climat, il s'intéressera à nous.
 
 On parle du sud de la France en se moquant de l'accent (comme si y'en avait qu'un), de gens moins ambitieux (comme si il n'y avait pas de start up ou [d'industries](https://www.lesechos.fr/start-up/deals/swile-leve-200-millions-de-dollars-et-devient-la-nouvelle-licorne-tricolore-1353863)), des jeux (comme si on joueait tous aux boules), et des plages bondées (comme si c'était l'unique attrait du sud) mais aussi pour ces feux de forêt ou ces innondations du mois de septembre, d'octobre, et novembre. Mais ce dont on parle beaucoup moins c'est à quel point les facteurs sont déjà au rouge pour cette région de France, et on peut se poser la question légitime : est ce qu'on parlerait pas plus des constats du GIEC si ces facteurs ciblaient principalement la région Parisienne ?
 
 ## Ecouter la science
-Qu'est ce qu'il se passera dans 10, 20, 30 ans ? Est ce qu'on pourra toujours se déplacer en ville ou faire du sport pour notre santé mentale et physique ? Et pour les rendements agricoles ? Les feux de forêts ou les crues déjà si fréquentes ici et ailleurs ? Que feront ceux qui ne peuvent plus vivre à un endroit ? Voici mes motivations pour creuser des centaines d'heures les enjeux climatiques, à ceux qui me nomme militant, je réponds simplement les faits scientifiques ne sont pas des opinions, et qu'en tant qu'ingénieur je n'ai pas d'autres choix que de me ranger du côté **du consensus et de la méthode scientifique.**
+Qu'est ce qu'il se passera dans 10, 20, 30 ans ? Est ce qu'on pourra toujours se déplacer en ville ou faire du sport pour notre santé mentale et physique ? Et pour les rendements agricoles ? Les feux de forêts ou les crues déjà si fréquentes ici et ailleurs ? Que feront ceux qui ne peuvent plus vivre à un endroit ? Voici mes motivations pour creuser pendant des centaines d'heures les enjeux climatiques, à ceux qui me nomme militant, je réponds simplement que les faits scientifiques ne sont pas des opinions, et qu'en tant qu'ingénieur je n'ai pas d'autres choix que de me ranger du côté **du consensus et de la méthode scientifique.**
 
 **Ceci est le résumé du résumé** pour décideur, [Summary For Policy Maker (SPM)](https://www.ipcc.ch/report/ar6/wg1/#SPM), du groupe 1 "bases physiques scientifiques" pour le 6ème rapport du [groupe intergouvernemental sur l'evolution du climat](https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/). **Il en sortira encore 2 rapports pour les autres groupes de travail (2 et 3) du GIEC cette année et en 2022.**
 
