@@ -6,11 +6,8 @@ tags : [
     "climat"
 ]
 thumbnail: "images/palavas.png"
-date: 2021-10-14T14:41:06+02:00
+date: "2021-10-14"
 ---
-
-![Palavas sous les eaux](images/palavas.png)
-- ["23 novembre 2019 - Palavas-sous-les-Flots"](https://france3-regions.francetvinfo.fr/occitanie/herault/2040-palavas-flots-1757805.html)
 
 ## Le climat, on s'y intéressera seulement 2100 ?
 Si on ne s'intéresse pas au climat, il s'intéressera à nous.
