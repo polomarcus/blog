@@ -1,7 +1,7 @@
 ---
 title: "Résumé spécial sud de la France du rapport du GIEC"
 draft: true
-description: "Ceci est le résumé du résumé pour décideur du groupe 1 "bases physiques scientifiques" du 6ème rapport du groupe intergouvernemental sur l'evolution du climat"
+description: "Ceci est le résumé du résumé pour décideur du groupe 1 'bases physiques scientifiques' du 6ème rapport du groupe intergouvernemental sur l'evolution du climat"
 tags : [
     "climat"
 ]
