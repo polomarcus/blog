@@ -110,7 +110,7 @@ emissions scenario (SSP5-8.5), and by 2150 is 0.37-0.86 m under the very low sce
 0.98-1.88 m under the very high scenario (SSP5-8.5)
 - *extrait du résumé pour décideurs (Summary for Policymakers (SPM))*
 
-On peut apprendre dans cet extrait qu'on estime à 0.44m à 0.76m d'elévation du niveau de la mer par rapport à 1950 pour 2100 dans le cas scénario probable ONU SSP2-4.5. Ce chiffre monte entre 1 mètre et 2 mètre pour le scénario SSP5-8.5.
+On peut apprendre dans cet extrait qu'on estime à 0.44m à 0.76m d'elévation du niveau de la mer par rapport à 1950 pour 2100 dans le cas scénario probable ONU SSP2-4.5. Ce chiffre monte est 1 mètre pour le scénario SSP5-8.5. En 2150, date qu'on voit plus rarement, ce scénario nous amènerait entre 1 mètre et 2 mètre d'élévation.
 
 ![Figure SPM.8:](https://user-images.githubusercontent.com/4059615/136711143-cdf77876-4fac-45cd-9896-19d70f74e528.png)
 * *Figure SPM.8*
@@ -207,7 +207,7 @@ Cet outil permet de simuler les conditions de survie des arbres : https://climes
 
 C'est toujours un bonheur que d'entendre la première cigale en juin. Les mâles chantent dès qu'il fait 25 degré, et ça dure parfois jusqu'à tard dans la nuit avec la chaleur des villes. Par contre, leur migrations vers des populations [qui n'y sont pas habitués](https://www.francetvinfo.fr/monde/environnement/climat-les-cigales-toujours-plus-au-nord_1575177.html) peut surprendre [et on peut lire des témoignages vont même à porter plainte](https://www.lci.fr/societe/avec-le-rechauffement-climatique-le-chant-des-cigales-va-devenir-insupportable-2060119.html). Ca peut être un exemple sonore qui prête à sourire, mais ça nous laisse entrevoir les conséquences pour les autres espèces d'insectes dont on ignore encore beaucoup de choses.
 
-De l'autre côté, les moustiques, l'animal le plus dangereux pour l'homme, est aidé dans son developpement par la hausse des témpératures. Le changement de climat n'est pas le seul responsable, mais l'espèce est passé [d'un seul département de présence, Alpes Maritimes (06), à presque la moitié de la France en 15 ans.](https://solidarites-sante.gouv.fr/IMG/pdf/extension_moustique_classement_1_annee_2004_a_2020.pdf).
+De l'autre côté, les moustiques, en outre de nous empêcher de dormir et de profiter de la plage à la tombée de la nuit, est l'espèce la plus dangereuse pour l'homme. Il est aidé dans son developpement par la hausse des témpératures. Le changement de climat n'est pas le seul responsable, mais l'espèce est passée [d'un seul département de présence, Alpes Maritimes (06), à presque la moitié de la France en 15 ans.](https://solidarites-sante.gouv.fr/IMG/pdf/extension_moustique_classement_1_annee_2004_a_2020.pdf).
 
 > Cependant le réchauffement prévu, à un degré modeste, dans les décennies à venir, 
 favorisera  très  probablement  la  croissance  et  l'expansion  des  espèces  dans  les 
@@ -276,9 +276,8 @@ Toutes ces informations nous font ressentir beaucoup de choses, et ça fait beau
 Cependant, ces accords ont l'objectif d'être à 2 tonnes de tout gaz à effet de serre confondu (= [un aller retour Paris New York](https://monimpacttransport.fr/?km=12200&transportations=6_1_9_3_11_13_14_12_2_8_7_5_4)) en 2050 pour limiter le réchauffement climatique **nettement** en dessous de 2° en 2100. **C'est une économie de guerre.** C'est baissé de 4% les gaz à effet de serre chaque année, cela correspond au paroxyme de la crise de 1929 (1933), ou l'anéantissement industrielle de l'Allemagne et du Japon en 1945 ([Source Jancovici cours 3 des Mines ParisTech](https://jancovici.com/wp-content/uploads/2020/07/Jancovici_Mines_ParisTech_cours_3.pdf))
 
 ![Source BonPote](https://user-images.githubusercontent.com/4059615/137140488-8e39cb9b-ce18-426d-a04d-830c80fb286a.png)
-* *Source BonPote*
 
-On distingue nos meilleures amies/ennemies les energies fossiles : charbon -30% des gaz à effet de serre (GES), gaz - 14% des GES, pétrole - 25% GES.
+* *On distingue nos meilleures amies/ennemies les energies fossiles : charbon -30% des gaz à effet de serre (GES), gaz - 14% des GES, pétrole - 25% GES.*
 
 ## Il n'y a pas que le carbone
 > Si on débat sur les chiffres on débat pas sur le fond du problème. Le plus grave c'est de parler de chiffres mais pas de la réalité.
@@ -292,11 +291,14 @@ Tout ceci peut paraitre comme une perte de temps ou alors se priver de choses, m
 
 **A tous ceux qui pensent que c'est impossible de changer**, il était aussi impossible d'arrêter le travail des enfants, d'avoir des congés payés, ou une assurance maladie et veillesse. Arrêter l'avion et l'hypermobilité, végétaliser son alimentation, acheter moins de choses, reparer, se déplacer à vélo (à assitance electrique ou non) ne sont que **des sacrifices absolument minimes** comparées à tout ce qu'on a vu plus haut.
 
+> Marcheur, il n'y a pas de chemin, le chemin se construit en marchant
+* *Antonio Machado*
+
 Maintenant que vous savez, voici [les 12 excuses (et réponses) à l'inaction climatique](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/) qu'on entendra forcément dès qu'on parle climat dans un groupe :
-![Les 12 excuses de l'inaction climatique - https://twitter.com/valmasdel/status/1426103096715923456/photo/1  ](https://pbs.twimg.com/media/E8qI8r1XMAAZx6y?format=jpg&name=4096x4096)
+![Les 12 excuses de l'inaction climatique - https://twitter.com/valmasdel/status/1426103096715923456/photo/1  ](https://pbs.twimg.com/media/E8qI8r1XMAAZx6y?format=jpg&name=4096x4096).
 
 ## Mots de la fin 
-Si vous êtes humain, vous devriez ressentir de la colère, de la tristesse, j'en ressens, de pas avoir été éduqué, préparé, entouré pour affronter ce défi. Cette phrase me guide dans mes moments délicats, j'espère qu'elle vous aidera aussi :
+Si vous êtes humain, vous devriez ressentir de la colère, de la tristesse, j'en ressens, de pas avoir été éduqué, préparé, entouré dans ma vie pro ou perso pour affronter ce défi. Cette phrase me guide dans mes moments délicats, j'espère qu'elle vous aidera aussi :
 
 > Avec une colère à moitié réprimée, j'ai tendance à me balancer et faire quelque chose d'impétueux et d'ignorant. Mais une colère bien sentie, ancrée, et familière peut me motiver à travers un engagement à vie pour améliorer les choses
 - Donella Meadows, [autrice "Limit to Growth"](https://www.placedeslibraires.fr/livre/9782374250748-les-limites-a-la-croissance-dans-un-monde-fini-dennis-meadows-donella-meadows-jorgen-rangers/)
