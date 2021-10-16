@@ -12,7 +12,7 @@ date: "2021-10-14"
 ## Le climat, on s'y intéressera seulement 2100 ?
 Si on ne s'intéresse pas au climat, il s'intéressera à nous.
 
-On parle du sud de la France en se moquant de l'accent (comme si y'en avait qu'un), de gens moins ambitieux (comme si il n'y avait pas de start up ou [d'industries](https://www.lesechos.fr/start-up/deals/swile-leve-200-millions-de-dollars-et-devient-la-nouvelle-licorne-tricolore-1353863)), des jeux (comme si on joueait tous aux boules), et des plages bondées (comme si c'était l'unique attrait du sud) mais aussi pour ces feux de forêt ou ces innondations du mois de septembre, d'octobre, et novembre. Mais ce dont on parle beaucoup moins c'est à quel point les facteurs sont déjà au rouge pour cette région de France, et on peut se poser la question légitime : est ce qu'on parlerait pas plus des constats du GIEC si ces facteurs ciblaient principalement la région Parisienne ?
+On parle du sud de la France en se moquant de l'accent (comme si y'en avait qu'un), de gens moins ambitieux (comme si il n'y avait pas de start up ou [d'industries](https://www.lesechos.fr/start-up/deals/swile-leve-200-millions-de-dollars-et-devient-la-nouvelle-licorne-tricolore-1353863)), des jeux (comme si on jouait tous aux boules), et des plages bondées (comme si c'était l'unique attrait du sud) mais aussi pour ces feux de forêt ou ces inondations du mois de septembre, d'octobre, et novembre. Mais ce dont on parle beaucoup moins c'est à quel point les facteurs sont déjà au rouge pour cette région de France, et on peut se poser la question légitime : est ce qu'on parlerait pas plus des constats du GIEC si ces facteurs ciblaient principalement la région Parisienne ?
 
 ## Ecouter la science
 Qu'est ce qu'il se passera dans 10, 20, 30 ans ? Est ce qu'on pourra toujours se déplacer en ville ou faire du sport pour notre santé mentale et physique ? Et pour les rendements agricoles ? Les feux de forêts ou les crues déjà si fréquentes ici et ailleurs ? Que feront ceux qui ne peuvent plus vivre à un endroit ? Voici mes motivations pour creuser pendant des centaines d'heures les enjeux climatiques, à ceux qui me nomme militant, je réponds simplement que les faits scientifiques ne sont pas des opinions, et qu'en tant qu'ingénieur je n'ai pas d'autres choix que de me ranger du côté **du consensus et de la méthode scientifique.**
@@ -22,42 +22,45 @@ Qu'est ce qu'il se passera dans 10, 20, 30 ans ? Est ce qu'on pourra toujours se
 Le ratio de réduction va de 400 000 pages de littérature scientifique, à une synthèse de 2000 pages du GIEC (AR6), à 150 pages pour le résumé technique (TS), et 42 pages pour le résumé pour décideur (SPM). De 400 000 pages à quelques pages sur cet article: [un beau ratio qui devrait vous forcer à regarder par vous même ces rapports.](https://www.ipcc.ch/report/ar6/wg1/#SPM) 
 
 >  Une information courte est une information incomplète par construction
-- [Jancovici (cours 5 - les économies d'energie) à 1h27](https://youtu.be/PEY6LmscKc4?t=5139)
+- [Jancovici (cours 5 - les économies d'énergie) à 1h27](https://youtu.be/PEY6LmscKc4?t=5139)
 
 Si je me permets, moi jeune ceinture blanche de la fresque du climat, de faire un résumé c'est pour synthétiser ma lecture **qui a duré seulement 2 heures** en prenant le temps de fouiller certaines données, je vous renvoie d'ailleurs à celle de [BonPote](https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/). 
 
-Je le fais aussi [car 1 Français sur 5 (1 sur 2 en 2000)](https://librairie.ademe.fr/changement-climatique-et-energie/4057-representations-sociales-du-changement-climatique-21-eme-vague.html) pense que l'homme n'est pas responsable du changement de climat. Sociologiquement, ce sont principalement des personnes de plus de 69 ans de droite ou d'extrême droite - *61% des parlementaire de droite, contre 95% de gauche, et 90% la majorité présidentielle* -  [qui continuent de penser que le changement climatique est un cheval de troie pour mettre en place le communisme [voir le documentaire "La fabrique de l'ignorance d'arte](https://peertube.dc.pini.fr/videos/watch/189464c7-a02b-4667-a6d3-186d3a837611)). Les fameuses "pastèque vert à l'extérieur et rouge à l'intérieur". Et quand [certains grands medias](https://twitter.com/MickaCorreia/status/1426098416904454145) continuent d'emettre des doutes sur la science à la manière de Youtubeurs complotistes, ça n'aide pas du tout à la compréhension du problème physique auquel nous devons nous préparer. Si je peux vous donner quelques billes pour argumenter à travers ce résumé, j'en serais ravi.
+Je le fais aussi [car 1 Français sur 5 (1 sur 2 en 2000)](https://librairie.ademe.fr/changement-climatique-et-energie/4057-representations-sociales-du-changement-climatique-21-eme-vague.html) pense que l'homme n'est pas responsable du changement de climat. Sociologiquement, ce sont principalement des personnes de plus de 69 ans de droite ou d'extrême droite - *61% des parlementaire de droite, contre 95% de gauche, et 90% la majorité présidentielle* -  [qui continuent de penser que le changement climatique est un cheval de troie pour mettre en place le communisme [voir le documentaire "La fabrique de l'ignorance d'arte](https://peertube.dc.pini.fr/videos/watch/189464c7-a02b-4667-a6d3-186d3a837611)). Les fameuses "pastèque vert à l'extérieur et rouge à l'intérieur". Et quand [certains grands medias](https://twitter.com/MickaCorreia/status/1426098416904454145) continuent d'émettre des doutes sur la science à la manière de Youtubeurs complotistes, ça n'aide pas du tout à la compréhension du problème physique auquel nous devons nous préparer. Si je peux vous donner quelques billes pour argumenter à travers ce résumé, j'en serais ravi.
 
-Il faut absolument garder en tête **qu'on ne peut pas negocier avec la physique**, qui est une science dure, contrairement à l'économie qui, comme le disait Bernard Maris, ancien conseil général de la banque de France, est composée de choix politiques déguisés en [scielle (molle) jalouse de ses cousines les sciences dures : la biologie, la chimie, la physique...](https://www.franceculture.fr/emissions/la-bibliotheque-ideale-de-leco/la-bibliotheque-ideale-de-leco-du-vendredi-11-janvier-2019)
+Il faut absolument garder en tête **qu'on ne peut pas négocier avec la physique**, qui est une science dure, contrairement à l'économie qui, comme le disait Bernard Maris, ancien conseil général de la banque de France, est composée [de choix politiques déguisés en science](https://www.franceculture.fr/emissions/la-bibliotheque-ideale-de-leco/la-bibliotheque-ideale-de-leco-du-vendredi-11-janvier-2019)
 
 Pas encore convaincu à 100% par la véracité des travaux du GIEC ? Il faut noter que chaque ligne de ce résumé a été validé par le gouvernement Français, et tous les autres membres d'ONU, et que ce rapport fait seulement des projections, et non des recommandations. Difficile, donc, de remettre en question ces rapports, [n'est ce pas David Pujadas ?](https://twitter.com/samgontier/status/1408168391584722949?lang=fr)
 {{< twitter_simple 1408168391584722949 >}}
 
 ## Le constat sans précédent
-La concentration de CO2 est plus haute que n'importe quand dans l'histoire depuis au moins 2 millions d'années, seuls les Homo Habilis et Gautengensis ont pu connaitre ces niveaux (Sapiens date de -300 000 ans).
+La concentration de CO2 est plus haute que n'importe quand dans l'histoire depuis au moins 2 millions d'années, seuls les *Homo Habilis* et *Gautengensis* ont pu connaitre ces niveaux (*Sapiens* date de -300 000 ans).
 
-Ceci donne que la température moyenne en surface comparée au début de l'ère industriel (1850-1900) a augmenté de plus d'un dégré en 2020, et selon les 5 scénarios d'emissions de gaz à effet de serre (coucou le CO2 - energies fossiles, le CH4 - le méthane des vaches et des rizières, et le NO2 - engrais) qui vont dans le graphique ci-dessous du bleu : sobriété, voilier plutôt que jetski, VTT plutôt que quad, ratatouille plutôt que côte de boeuf, au rouge foncé : [on envoie chaque jour des touristes dans l'espace pour 3min30 de gloire](https://bonpote.com/elon-musk-solution-ou-cauchemar-pour-lenvironnement/). 
+Ceci donne que la température moyenne en surface comparée au début de l'ère industriel (1850-1900) a augmenté de plus d'un degré en 2020, et selon les 5 scénarios d'émissions de gaz à effet de serre (coucou le CO2 - énergies fossiles, le CH4 - le méthane des vaches et des rizières, et le NO2 - engrais) qui vont dans le graphique ci-dessous du bleu : sobriété, voilier plutôt que jetski, VTT plutôt que quad, ratatouille plutôt que côte de boeuf, au rouge foncé : [on envoie chaque jour des touristes dans l'espace pour 3min30 de gloire](https://bonpote.com/elon-musk-solution-ou-cauchemar-pour-lenvironnement/). 
 
-Ces 5 scénarios possibles physiquement ont des noms relatif à la puissance du [forçage radiatif](https://bonpote.com/forcage-radiatif-a-la-base-du-changement-climatique/) comparée à avant l'ère industrielle, c'est l'augmentation correspondant à l'energie, comptée en watt par m², restant sur terre piégiée par l'effet de serre. En résumé, plus le chiffre est haut, plus il fait chaud.
+[Ces 5 scénarios "SSP"](https://www.ecologie.gouv.fr/sites/default/files/ONERC_decouvrir_scenarios_Giec.pdf) (*Shared Socioeconomic Pathways* ou Représentation des évolutions sociales et économiques) possibles physiquement ont des noms relatif à la puissance du [forçage radiatif](https://bonpote.com/forcage-radiatif-a-la-base-du-changement-climatique/) comparée à avant l'ère industrielle, c'est l'augmentation correspondant à l'énergie, comptée en watt par m², restant sur terre piégée par l'effet de serre. En résumé, plus le chiffre est haut, plus il fait chaud.
 
 ![](https://user-images.githubusercontent.com/4059615/136711118-47d97b68-de04-407d-abf2-db3d39df2bc9.png)
 * *Figure SPM.8 du résumé du giec Summary for Policymakers (SPM)*
 
-Si on regarde le scénario [probable selon l'ONU, SSP2-4.5](https://www.capital.fr/economie-politique/rechauffement-climatique-lonu-tire-la-sonnette-dalarme-scenario-catastrophe-en-vue-pour-la-planete-1414647), cela veut dire ces températures (source Table SPM.1) comparées à 1850-1900 :
+Si on regarde le scénario [probable selon l'ONU, le SSP2 - 4.5](https://www.capital.fr/economie-politique/rechauffement-climatique-lonu-tire-la-sonnette-dalarme-scenario-catastrophe-en-vue-pour-la-planete-1414647) (pour 4.5 watt par m² en plus comparé à 1850-1900 qui reste piégés par l'effet de serre) cela la correspond à ces températures (source Table SPM.1) comparées à 1850-1900 :
 
 * 2020 - 2040 - mes 30 ans - 50 ans: +1.5° avec une variance de -/+ 0.3°
 * 2040 - 2060- mes 50 - 70 ans : +2.0° avec une variance de -/+ 0.5°
 * Après 2060 - après mes 70 ans : +2.7° avec une variance de -/+ 0.8°
 
-Le scénario SSP2-4.5 est basé sur une diminution des gaz à effet de serre, la physique nous autorise à passer sur d'autres scénarios encore plus destructeurs.
+Le scénario SSP2-4.5 est basé sur une légère augmentation suivi d'une diminution des gaz à effet de serre vers 2030. La physique nous autorise à passer sur d'autres scénarios encore plus destructeurs: comme le SSP3, 4, et 5.
 
-Le climat c'est la température moyenne globale, qu'il fasse nuit et jour à un endroit que ça soit l'hiver et inversement. Ceux qui ont des vagues notions de mathématiques savent que les moyennes sont trompeuses : il suffit par exemple d'un milliardaire dans une salle de réunion pour que mille autres personnes soient **en moyenne** millionnaires.
+![Figure SPM.4](https://user-images.githubusercontent.com/4059615/137589423-71418029-d147-42c0-903d-a38da5295d31.PNG)
+* *Figure SPM.4*
+
+Le climat peut se voir comme la température moyenne globale, qu'il fasse nuit et jour à un endroit que ça soit l'hiver et inversement. Ceux qui ont des vagues notions de mathématiques savent que les moyennes sont trompeuses : il suffit par exemple d'un milliardaire dans une salle de réunion pour que mille autres personnes soient **en moyenne** millionnaires.
 
 Ca fait que si on regarde en France seulement, nous sommes déjà vers les 2 degrés, et la courbe de regression est intimidante.
 ![Moyenne France](https://www.ecologie.gouv.fr/sites/default/files/styles/standard/public/Onerc_Temp%C3%A9rature_France_Moyenne_2017.png?itok=2bapa7tl)
 * **Source https://www.ecologie.gouv.fr/impacts-du-changement-climatique-atmosphere-temperatures-et-precipitations**
 
-**Point "C'est pas sorcier":** 4 degré en plus, ça ne parait pas grand chose, surtout quand il fait 9 degré le matin et 21 degré l'après midi comme dans ce mois d'octobre 2021, mais une analogie avec la témpérature de notre corps, à 37 degré, tout va bien mais à 41 degré, on meurt.
+**Point "C'est pas sorcier":** 4 degrés en plus, ça ne parait pas grand chose, surtout quand il fait 9 degré le matin et 21 degré l'après midi comme dans ce mois d'octobre 2021, mais une analogie avec la témpérature de notre corps, à 37 degré, tout va bien mais à 41 degré, on meurt.
 
 ## L'eau
 
@@ -68,19 +71,18 @@ Ca fait que si on regarde en France seulement, nous sommes déjà vers les 2 deg
 
 - *[Valérie Masson Delmotte](https://fr.wikipedia.org/wiki/Val%C3%A9rie_Masson-Delmotte), paléoclimatologue, co présidente du groupe 1 du GIEC*
 
-Ayant grandi dans les Cévennes, on apprend à redouter début septembre, non pas pour la rentrée des classes, mais car on sait [que des tonnes d'eau, dépassant les 500mm (1 mm = 1litre/m2), vont tomber quelque part en quelques heures et créer des catatrosphes](https://www.youtube.com/watch?v=2jqWTSHXfK0). Pas seulement dans les villages, mais aussi les métropôles: [Marseille](https://www.liberation.fr/societe/inondations-a-marseille-meme-en-1978-quand-on-a-eu-150-metre-dans-la-maison-on-netait-pas-partis-20211004_M2VM3XM5INCJLG2DOASF227HUI/) et [Montpellier, où le train entre Nîmes et Montpellier a été interrompu pendant 10 jours](https://twitter.com/yannvoldoire/status/1438222506675081218) ne sont pas épargnées.
+Ayant grandi dans les Cévennes, on apprend à redouter début septembre, non pas pour la rentrée des classes, mais car on sait [que des tonnes d'eau, dépassant les 500mm (1 mm = 1litre/m2), vont tomber quelque part en quelques heures et créer des **catatrosphes**](https://www.youtube.com/watch?v=2jqWTSHXfK0). Pas seulement dans les villages, mais aussi les métropôles: [Marseille](https://www.liberation.fr/societe/inondations-a-marseille-meme-en-1978-quand-on-a-eu-150-metre-dans-la-maison-on-netait-pas-partis-20211004_M2VM3XM5INCJLG2DOASF227HUI/) et [Montpellier, où le train entre Nîmes et Montpellier a été interrompu pendant 10 jours](https://twitter.com/yannvoldoire/status/1438222506675081218) ne sont pas épargnées.
 
 On apprend en grandissant que ça peut arriver, [mais on ne peut pas sentir avec nos sens que les fréquences de ces crues augmentent](https://bonpote.com/inondations-est-ce-la-faute-du-changement-climatique/), tout comme leur intensité. Ces passages du rapport devraient donner des frissons à n'importe quel citoyen ayant déjà connu une crue.
 
 > B.3 Continued global warming is projected to further intensify the global water cycle, including its variability, global monsoon precipitation and the severity of wet and dry events.
 
-> B.3.2 A warmer climate will intensify very wet and very dry weather and climate events and seasons, with implications for flooding or drough
+> B.3.2 A warmer climate will intensify very wet and very dry weather and climate events and seasons, with implications for flooding or drought
 - *extrait du résumé pour décideurs (Summary for Policymakers (SPM))*
 
+On entend souvent parler des accords de Paris, limiter **à nettement** en dessous de 2 degré par rapport à 1850 le réchauffement, mais on entend moins souvent que chaque 1/10 de degré evité compte. Car avec un **réchauffement à 2 degré, il y a 2 fois plus de chance d'avoir des crues, et 14% plus intense.** 
 
-On entend rarement parler des accords de Paris, limiter à nettement en dessous de 2 degré par rapport à 1850 le rechauffement, et on entend encore moins souvent que chaque 1/10 de degré evité compte. Car avec un **réchauffement à 2 degré, il y a 2 fois plus de chance d'avoir des crues, et 14% plus intense.** 
-
-Avec 4 degré en plus c'est 3 fois plus souvent, pour 30% d'intensité en plus. **Ce n'est pas de la science fiction, c'est de la physique**, qui ne concerne pas seulement "de pauvres africains", mais toi, moi, tes enfants, et ça a déjà commencé.
+Avec 4 degrés en plus c'est 3 fois plus souvent, pour 30% d'intensité en plus. **Ce n'est pas de la science fiction, c'est de la physique**, qui ne concerne pas seulement "de pauvres africains", mais toi, moi, tes enfants, et ça a déjà commencé.
 
 ![Figure SPM.6](https://user-images.githubusercontent.com/4059615/136711073-05171fdd-af36-4029-b0ed-7a52aeca4535.png)
 * *Figure SPM.6 du résumé du giec Summary for Policymakers (SPM)*
@@ -88,16 +90,19 @@ Avec 4 degré en plus c'est 3 fois plus souvent, pour 30% d'intensité en plus. 
 En terme de puissance des évenements, **il faut retenir qu'un degré en plus c'est 7% d'eau en plus dans l'air.**
 
 ### La submersion - le montée du niveaux des mers
-La montée des eaux est liée à la fonte de la calotte glaciaire, des glaciers, mais aussi de l'augmentation de la température de la mer par [dilatation thermique](https://fr.wikipedia.org/wiki/Dilatation_thermique).
-
 > D'ici 2050 la banlieue de Montpellier sera les pieds dans l'eau (...) la Camargue va disparaitre
 
 **[Gaël Giraud citant le climatologue et directeur de recherche au CNRS Hervé Le Treut](https://www.facebook.com/watch/?v=865409967534133)**
 
+La montée des eaux est liée à la fonte de la calotte glaciaire, des glaciers, mais aussi de l'augmentation de la température de la mer par [dilatation thermique](https://fr.wikipedia.org/wiki/Dilatation_thermique) :
+
+> A4.3. Thermal expansion explained 50% of sea level rise during 1971–
+2018, while ice loss from glaciers contributed 22%, ice sheets 20% and changes in land water storage 8%.
+
 J'ai habité Marseille pendant 5 ans, et je suis passé une centaine de fois en courant devant le marégraphe situé idealement sur la corniche JFK. 
 J'ai longtemps ignoré que c'était un des points référant pour mesurer le niveau de la mer en France. [Le marégraphe a mesuré de 1980 à 2012 une augmentation de ~11cm avec un rythme de 3,3 mm par an](https://www.ecologie.gouv.fr/sites/default/files/ONERC_Climat_France_XXI_Volume_5_VF_revisee_27fevrier2015.pdf) qui tend à augmenter chaque année. Ca aussi je l'ignorais. On peut ne pas être impressioné, même être rassuré par ce chiffre, mais encore une fois c'est du jamais vu sur une période si courte et ça peut avoir des conséquences qui bouleversent nos vies.
 
-A Marseille, encore une fois, dans la calanque de la Triperie où je suis passé plusieurs fois sans le savoir, il y [la grotte Cosquer](https://fr.wikipedia.org/wiki/Grotte_Cosquer#Description_de_la_cavit%C3%A9), une grotte submergée comportant des témoignages importants de notre espèce datant de -27 000 à 19 000 ans, durant la dernière ère glacaire où la température moyenne était de - 5° comparé à 1850. Ces petits degrés de différences ont fait que l'entrée de la grotte se situait à l'air libre car le niveau de la mer était de -120 mètres comparé à 1850. Un scénario à +5 degré devrait nous donner des frissons. 
+A Marseille, encore une fois, dans la calanque de la Triperie où je suis passé plusieurs fois sans le savoir, il y [la grotte Cosquer](https://fr.wikipedia.org/wiki/Grotte_Cosquer#Description_de_la_cavit%C3%A9), une grotte submergée comportant des témoignages importants de notre espèce datant de -27 000 à 19 000 ans, durant la dernière ère glaciaire où la température moyenne était de - 5° comparé à 1850. Ces petits degrés de différences ont fait que l'entrée de la grotte se situait à l'air libre car le niveau de la mer était de -120 mètres comparé à 1850. Un scénario à +5 degré devrait nous donner des frissons. 
 
 ![](https://pbs.twimg.com/media/E23kaHsXEAopp2B?format=jpg&name=large)
 * *une augmentation d'un mètre du niveau de la mer - source http://flood.firetree.net/* 
@@ -150,9 +155,9 @@ Ces épisodes de sécheresses vont devenir plus fréquents et plus forts selon l
 
 **Weekend du 12 juin 2021**, à vélo sur le canal du midi, mon corps d'habitude résistant à l'endurance, m'exige une pause de 30 minutes, je n'avançais plus, [la faute au 38 degré à l'ombre](https://www.midilibre.fr/2021/06/11/occitanie-records-de-chaleur-attendue-ce-week-end-jusqua-380c-a-montpellier-9599874.php). 
 
-**Mercredi 11 août 2021**, toujours à vélo, dans les Cévennes gardoise cette fois ci, un dôme de châleur fait monter la température [à 40 degré à l'ombre](https://www.midilibre.fr/2021/08/10/meteo-dome-de-chaleur-attendu-a-partir-de-mercredi-sur-loccitanie-400c-prevu-dans-le-gard-9724392.php), j'arrive à destination complètement sèché et sans force. **Nos corps d'Homo Sapiens** ont clairement des limites et je n'y peux rien malgré ma bonne condition physique. 
+**Mercredi 11 août 2021**, toujours à vélo, dans les Cévennes gardoise cette fois ci, un dôme de châleur fait monter la température [à 40 degré à l'ombre](https://www.midilibre.fr/2021/08/10/meteo-dome-de-chaleur-attendu-a-partir-de-mercredi-sur-loccitanie-400c-prevu-dans-le-gard-9724392.php), j'arrive à destination complètement sèché et sans force. **Nos corps d'*Homo Sapiens*** ont clairement des limites et je n'y peux rien malgré ma bonne condition physique. 
 
-Ces quelques dates prises qui m'ont marqué ne sont pas liées au hasard, on apprend dans le graphique plus bas qu'il y a 6 fois plus de fréquence d'épisode caniculaire extrême avec un réchauffement à 2 degré, et 9 fois avec un à 4 degré
+Ces quelques dates prises qui m'ont marqué ne sont pas liées au hasard, on apprend dans le graphique plus bas que la fréquence des épisodes caniculaires extrêmes est 6 fois plus élevée avec un réchauffement à 2 degrés, et 9 fois avec un à 4 degrés
 
 ![Fréquence des canicules](https://user-images.githubusercontent.com/4059615/136711110-c7436a43-dc80-4797-92d7-d83008b6c3e7.png)
 * *Figure SPM.6*
@@ -182,12 +187,15 @@ included in climate models, such as CO 2 and CH 4 fluxes from wetlands, permafro
 would further increase concentrations of these gases in the atmosphere (high confidence).
 * *extrait du résumé pour décideurs (Summary for Policymakers (SPM))*
 
-## Le vivant - le sud vient à toi
-Je n'ai pas vu de rapport avec le vivant dans le résumé du GIEC mais il fait quand même bon de voir ce qu'il se passe à travers le réchauffement climatique sur la faune et la flore.
+## Le vivant
+Je n'ai pas vu de lien avec le vivant dans le résumé pour décideurs du GIEC, il faut pour cela compter sur le rapport en collaboration avec l'IPBES (**Intergovernmental
+Platform on Biodiversity and Ecosystem Services**). Dans [leur rapport joint](https://ipbes.net/sites/default/files/2021-06/20210609_workshop_report_embargo_3pm_CEST_10_june_0.pdf), on peut y apprendre que le changement climatique et la disparition de la biomasse et de la biodiversité sont étroitement connectés. Et qu'également, les activités humaines sont responsables pour la perte de 83% de la biomasse des mammifères, et de la moitié des plantes. 96% de la biomasse des mammifères sont des humains et leur bétail.
+
+On peut aussi y apprendre que le changement de climat et la perte de biodiversité posent des menaces significantes sur les moyens de subsistance des humains, la sécurité alimentaire, et  la santé. 
 
 ### Flore
 
-Pour la [cryosphère](https://fr.wikipedia.org/wiki/Cryosph%C3%A8re): les montagnes de moyenne altitude comme le Mont Aigoual, qui abrite [le Centre d’interprétation du changement climatique](https://caussesaigoualcevennes.fr/wp-content/uploads/2020/02/Pr%C3%A9sentation-mus%C3%A9o-Centre-dinterpr%C3%A9tation.pdf), ont du mal à ouvrir l'hiver et doivent se réinventer en station de sports d'extérieurs toute saison.
+Pour la [cryosphère](https://fr.wikipedia.org/wiki/Cryosph%C3%A8re): les stations de ski de moyenne altitude comme le Mont Aigoual, qui abrite [le Centre d’interprétation du changement climatique](https://caussesaigoualcevennes.fr/wp-content/uploads/2020/02/Pr%C3%A9sentation-mus%C3%A9o-Centre-dinterpr%C3%A9tation.pdf), ont du mal à ouvrir l'hiver et doivent se réinventer en station de sports d'extérieurs toute saison.
 
 Des récoltes qui se font de plus en plus tôt de mémoire d'homme. J'ai été marqué de la date d'octobre 1990 écrite à la craie dans une cave particulière de ma famille, désormais les routes deviennent collante à partir de fin août. Egalement, les températures plus chaudes donennt aussi des vins avec un degré alcoolique plus elevé [de l'ordre "d'un degré tous les dix ans dans les vignobles du sud du pays"](https://www.francetvinfo.fr/meteo/climat/infographie-rechauffement-climatique-les-vendanges-ont-lieu-15-jours-plus-tot-qu-il-y-a-40-ans_2917833.html).
 
@@ -198,16 +206,16 @@ Certaines essences d'arbres ne pourront pas s'adapter au climat actuel, [l'ONF n
 
 Cet outil permet de simuler les conditions de survie des arbres : https://climessences.fr/
 ![](https://user-images.githubusercontent.com/4059615/137165233-cae47dd1-54a3-47eb-bee9-a76306a6dc5f.png)
- * *Avec cet outil on peut apprendre que le tilleul va devenir de plus en plus incompatible avec le climat sud sud de la France.*
+ * *Avec cet outil on peut apprendre que le tilleul va devenir de plus en plus incompatible avec le climat du sud de la France.*
 
 > Le climat va plus vite que le déplacement des espèces
 * [*Eric Sevrin, centre national de la propriété forestière*](https://www.arte.tv/fr/videos/100627-063-A/climat-l-avenir-incertain-de-la-foret/)
 
-### Faunes
+### Faune
 
-C'est toujours un bonheur que d'entendre la première cigale en juin. Les mâles chantent dès qu'il fait 25 degré, et ça dure parfois jusqu'à tard dans la nuit avec la chaleur des villes. Par contre, leur migrations vers des populations [qui n'y sont pas habitués](https://www.francetvinfo.fr/monde/environnement/climat-les-cigales-toujours-plus-au-nord_1575177.html) peut surprendre [et on peut lire des témoignages vont même à porter plainte](https://www.lci.fr/societe/avec-le-rechauffement-climatique-le-chant-des-cigales-va-devenir-insupportable-2060119.html). Ca peut être un exemple sonore qui prête à sourire, mais ça nous laisse entrevoir les conséquences pour les autres espèces d'insectes dont on ignore encore beaucoup de choses.
+C'est toujours un bonheur que d'entendre la première cigale en juin. Les mâles chantent dès qu'il fait 25 degré, et ça dure parfois jusqu'à tard dans la nuit avec la chaleur des villes. Par contre, leur déplacement [vers des territoires où elles n’y étaient pas connues](https://www.francetvinfo.fr/monde/environnement/climat-les-cigales-toujours-plus-au-nord_1575177.html) peut surprendre. Ca peut être un exemple sonore qui prête à sourire, mais ça nous laisse entrevoir les conséquences pour les autres espèces d'insectes dont on ignore encore beaucoup de choses.
 
-De l'autre côté, les moustiques, en outre de nous empêcher de dormir et de profiter de la plage à la tombée de la nuit, est l'espèce la plus dangereuse pour l'homme. Il est aidé dans son developpement par la hausse des témpératures. Le changement de climat n'est pas le seul responsable, mais l'espèce est passée [d'un seul département de présence, Alpes Maritimes (06), à presque la moitié de la France en 15 ans.](https://solidarites-sante.gouv.fr/IMG/pdf/extension_moustique_classement_1_annee_2004_a_2020.pdf).
+De l'autre côté, les moustiques, en outre de nous empêcher de dormir et de profiter de la plage à la tombée de la nuit, est l'espèce la plus dangereuse pour l'homme. Il est aidé dans son developpement par la hausse **des témpératures**. Le changement de climat n'est pas le seul responsable, mais l'espèce est passée [d'un seul département de présence, Alpes Maritimes (06), à presque la moitié de la France en 15 ans.](https://solidarites-sante.gouv.fr/IMG/pdf/extension_moustique_classement_1_annee_2004_a_2020.pdf).
 
 > Cependant le réchauffement prévu, à un degré modeste, dans les décennies à venir, 
 favorisera  très  probablement  la  croissance  et  l'expansion  des  espèces  dans  les 
@@ -220,7 +228,7 @@ Si les insectes sont impactés, c'est toute la chaîne qu'il est à son tour :
 > La migration des oiseaux est par exemple impactée : certaines espèces arrivent plus tôt et se retrouvent en décalage avec les ressources alimentaires prélevées auparavant.
 * *[Source Nature France](https://naturefrance.fr/changement-climatique)*
 
-[L'océan s'acidifie par l'absorption du 1/4 du C02 émis](https://bonpote.com/acidification-des-oceans-et-changement-climatique/), c'est génial pour limiter la puissance des gaz à effet de serre, on appel ça un puit de carbone. Mais cela impacte les coquilles calcaires des [phytoplanctons](https://fr.wikipedia.org/wiki/Prymnesiophyceae) et toute la chaîne alimentaire marine est impactée à son tour.
+[L'océan s'acidifie par l'absorption du 1/4 du C02 émis](https://bonpote.com/acidification-des-oceans-et-changement-climatique/), c'est génial pour limiter la concentration des gaz à effet de serre, on appelle ça un puit de carbone. Mais cela impacte les coquilles calcaires des [phytoplanctons](https://fr.wikipedia.org/wiki/Prymnesiophyceae) et toute la chaîne alimentaire marine est impactée à son tour. Une boucle de retroaction apparait et fait baisser l’efficacité même de l'océan comme puit de carbone car les coquilles calcaires « stockent » du CO2 et sédimentent si l’acidité n’est pas trop élevée (en complément voir figure SPM7 plus bas).
 
 ## Le bouton Stop ? Limiter le futur changement de climat   
 
@@ -242,14 +250,20 @@ Si les scénarios à faible emissions sont maintenus durablement cela limitera f
 
 > D.2.4 By the end of the century, scenarios with very low and low GHG emissions would strongly limit the change of several CIDs (Climatic impact-drivers), such as the increase in the frequency of extreme sea level events, heavy precipitation and pluvial flooding, and exceedance of dangerous heat thresholds, while limiting the number of regions where such exceedances occur, relative to higher GHG emissions scenarios (high confidence).
 
-De 1850–2019, l'humanité a émis 2390 Giga tonne de CO2 (GtCO), voici ce qu'on peut encore émettre en carbone si on veut avoir 83% de chance de rester à 1.5° : 300 GtCO, et 17% si on émet 900 GtCO. Pour 1.75°, c'est à 83% avec 550 GtCO et 17% pour 1450 GtCO (*Source Table SPM.2*). 
+Si on veut limiter la casse, car chaque 1/10 de degré compte, il faut donc se mettre au **régime carbone** dès maintenant, mais aussi stocker **durablement** le carbone dans des puits de carbone naturels (atmosphère 1/2, océan 1/4, photosynthèse 1/4). Par contre, ces puits de carbone autre que l'atmosphère sont de moins en moins efficace plus il y a d'émission de CO2 :
 
-Si on veut limiter la casse, il faut donc se mettre au **régime carbone** dès maintenant, mais aussi stocker **durablement** le carbone dans des puits de carbone naturel (atmosphère 1/2, océan 1/4, photosynthèse 1/4). Cela passe aussi avec les technologies de Capture et Séquestration de Carbone (CDR en anglais). Cependant cette technologie n'est pas miraculeuse, gourmande en énergie, chère, mais peut contribuer significativement à la réduction de carbone. [En apprendre plus avec cette vidéo du la châine du "Réveilleur".](https://www.youtube.com/watch?v=AQlqQEhVi1M)
+![Puits de carbone naturels Figure SPM.7](https://user-images.githubusercontent.com/4059615/137591426-519d3411-b068-4a2b-af1d-689fdaa62932.PNG)
+* *Figure SPM.7*
+
+Réduire le carbone passe aussi par les technologies de Capture et Séquestration de Carbone (CDR en anglais). Cependant cette technologie n'est pas miraculeuse, gourmande en énergie, chère, mais peut contribuer significativement à la réduction de carbone. [En apprendre plus avec cette vidéo du la châine du "Réveilleur".](https://www.youtube.com/watch?v=AQlqQEhVi1M)
 > D.1.4 Anthropogenic CO 2 removal (CDR) has the potential to remove CO 2 from the atmosphere and
 durably store it in reservoirs (high confidence).
 
-Comme on parle des puits de carbone, comme les arbres, il faut bien avoir en tête que sans sobriété, ça ne marche pas. Cela devient une excuse pour émettre toujours plus. On se sent tellement mieux quand [Air France nous annonce que notre vol est "neutre en CO2"](https://bonpote.com/pourquoi-arreter-lavion-ne-devrait-plus-etre-un-debat/). Pour clarifier la contribution à la neutralité carbone, je vois conseille cette vidéo de [Philoxime](https://www.youtube.com/watch?v=l2j8IaLx0Yk)
+Comme on parle des puits de carbone, comme les arbres, il faut bien avoir en tête que sans sobriété, ça ne marche pas. Cela devient une excuse pour émettre toujours plus. On se sent tellement mieux quand [Air France nous annonce que notre vol est "neutre en CO2"](https://bonpote.com/pourquoi-arreter-lavion-ne-devrait-plus-etre-un-debat/).
 
+L'IPBES nous avertit également que les mesures liées à la technologie peuvent poser de sérieuses ménaces à la biodiversité et la biomasse. (Source: [point 20 du rapport GIEC/IPBES](https://ipbes.net/sites/default/files/2021-06/20210609_workshop_report_embargo_3pm_CEST_10_june_0.pdf))
+
+Pour clarifier la contribution à la neutralité carbone, je vois conseille cette vidéo de [Philoxime](https://www.youtube.com/watch?v=l2j8IaLx0Yk).
 
 ## Tous cuit.e.s ?
 Telles les populations sapiens primitives il semblerait que nous voulions sacrifier nos enfants aujourd'hui (ou hier) sur un autel de la consommation à excès pour satisfaire le noble dieu du Capital qui est pourtant fournisseur de tant de frustrations. Bernard Maris le raconte ci bien ici :
@@ -257,9 +271,9 @@ Telles les populations sapiens primitives il semblerait que nous voulions sacrif
 > Cette génération, la notre encore une fois, fait mine d'adorer et d'idolâtrer ses enfants, au point de les gaver comme des oies et d'en faire des obèses. Comment ne pas voir l'incohérence de ces parents conduisant leur enfants adorés en 4x4 à l’école, souillant l'air qu'ils respirent, rejetant dans les rivières des millions de tonnes de pesticides, et empoissonnant leur nourriture aux hormones ou à la farine animale qui passent directement de l'estomac de la vache à celui des tendres chérubins? Comment peut on se moquer à un tel point de l'avenir de ses enfants ? Je fais l'hypothèse suivante : cette génération n'aime pas ses enfants. 
 
 
-Mais n'oublions pas que le GIEC nous propose **5 projections de gaz à effet de serre**, le scénario le moins destructeur est réalisable selon les lois non néogociables de la physique, il est donc totalement aussi **réalisable** du côté des choix politiques, *rappellez vous que lorsqu'on les déguise en science cela nous donne l'économie*. 
+Mais n'oublions pas que le GIEC nous propose **5 projections de gaz à effet de serre**, le scénario le moins destructeur est réalisable selon les lois non négociables de la physique, il est donc totalement aussi **réalisable** du côté des choix politiques, *rappelez-vous que lorsqu'on les déguise en science cela nous donne l'économie*. 
 
-**Gardons en tête que chaque 1/10 de degré compte.** Surtout que d'après l'INSEE, l'environnement est la 2ème cause la plus importante après l'emploie. Et sur les méthodes d'actions 59% des Français savent qu'il "faut modifier de manière importante nos modes de vie pour limiter l'augmentation du changement climatique" contre 11% se disant la technologie va nous sauver, et 12% sur "il n'y a rien à faire".
+**Gardons en tête que chaque 1/10 de degré compte.** Surtout que d'après l'INSEE, l'environnement est la 2ème cause la plus importante après l'emploie pour les Français. Et sur les méthodes d'actions 59% des Français savent qu'il "faut modifier de manière importante nos modes de vie pour limiter l'augmentation du changement climatique" contre 11% se disant la technologie va nous sauver, et 12% sur "il n'y a rien à faire".
 
 Egalement, quand on demande aux Français, 57% disent qu'il "faut réorienter en profondeur notre économie en soutenant exclusivement les activités qui préservent l'environnement et la santé." plutôt qu'à 43% "relancer l'économie par tous les moyens".
 
@@ -267,13 +281,20 @@ La majorité est donc du côté de la science, et c'est une note d'espoir qu'il 
 
 {{< twitter_simple 1436307466883633157 >}}
 
-## Comptabilité carbone 
-Toutes ces informations nous font ressentir beaucoup de choses, et ça fait beaucoup à digérer. L'action numéro 1 à prendre en priorité est de faire un calcul d'empreinte carbone avec https://nosgestesclimat.fr/ et de creuser à partir de là les accords de Paris, qui sont la promesse de tout un chacun. *Qui ne s'est pas moqué de Trump lorsqu'il est sorti des accords de Paris ?*
+## Comptabilité carbone - les accords de Paris
+Toutes ces informations nous font ressentir beaucoup de choses, et ça fait beaucoup à digérer. L'action numéro 1 à prendre en priorité est de faire un calcul d'empreinte carbone avec https://nosgestesclimat.fr/ et de creuser à partir de là **les accords de Paris**, qui sont la promesse de tout un chacun. *Qui ne s'est pas moqué de Trump lorsqu'il est sorti des accords de Paris ?*
 
 ![Nos gestes climat](https://user-images.githubusercontent.com/4059615/137147596-8fd7482c-e645-4d02-96bc-97aef38a0346.png)
 
+De 1850 à 2019, l'humanité a émis 2390 Giga tonne de CO2 (GtCO2) et en émet 40 GtCO2 par an en 2020 avec un rythme croissant.
+Voici ce qu'on peut encore émettre en carbone **si on veut avoir 83% de chance de respecter les accords de Paris** (*Source Table SPM.2*) :
+* Pour limiter à 1.5° : 300 GtCO2, **c'est à dire 7.5 ans au rythme de l'année 2020**
+* Pour limiter à 1.75° : 550 GtCO2, **soit 13,75 ans au rythme de l'année 2020** 
+* Pour limiter à 2.0° (hors accord de Paris) : 900 GtCO2, **soit 22.5 ans au rythme de l'année 2020**
 
-Cependant, ces accords ont l'objectif d'être à 2 tonnes de tout gaz à effet de serre confondu (= [un aller retour Paris New York](https://monimpacttransport.fr/?km=12200&transportations=6_1_9_3_11_13_14_12_2_8_7_5_4)) en 2050 pour limiter le réchauffement climatique **nettement** en dessous de 2° en 2100. **C'est une économie de guerre.** C'est baissé de 4% les gaz à effet de serre chaque année, cela correspond au paroxyme de la crise de 1929 (1933), ou l'anéantissement industrielle de l'Allemagne et du Japon en 1945 ([Source Jancovici cours 3 des Mines ParisTech](https://jancovici.com/wp-content/uploads/2020/07/Jancovici_Mines_ParisTech_cours_3.pdf))
+Cependant, ces accords ont l'objectif d'être à 2 tonnes de tout gaz à effet de serre confondu (= [un aller retour Paris New York](https://monimpacttransport.fr/?km=12200&transportations=6_1_9_3_11_13_14_12_2_8_7_5_4)) en 2050 pour limiter le réchauffement climatique **nettement** en dessous de 2° en 2100. **C'est une économie de guerre.** C'est baisser de 4% les gaz à effet de serre chaque année pendant 30 ans, "soit 320 kg de CO₂ à émettre en moins chaque année par rapport à la précédent" [nous dit l'équipe Datagir de l'ADEME](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/). -4% correspond aussi au paroxyme de la crise de 1929 (1933), ou l'anéantissement industrielle de l'Allemagne et du Japon en 1945 ([Source Jancovici cours 3 des Mines ParisTech](https://jancovici.com/wp-content/uploads/2020/07/Jancovici_Mines_ParisTech_cours_3.pdf)).
+
+>
 
 ![Source BonPote](https://user-images.githubusercontent.com/4059615/137140488-8e39cb9b-ce18-426d-a04d-830c80fb286a.png)
 
@@ -285,11 +306,11 @@ Cependant, ces accords ont l'objectif d'être à 2 tonnes de tout gaz à effet d
 
 Comme le dit si bien Aurélien Barrau, avec un bulldozer à energie solaire, on émet pas de carbone mais on rase quand même la forêt, c'est ça qu'il nomme le "plus grand défi de l'humanité" avec la disparition [de la biomasse (la quantité totale d'organismes vivants) de 67% en 10 ans.](https://www.nature.com/articles/d41586-019-03241-9)
 
-Ces arguments m'ont fait évoluer, moi qui a été élevé à la viande à excès, je suis [devenu végétarien](https://yuka.io/regime-vegetarien-sante/), et je diminue mon alimentation venant des animaux (la déforestation est principalement liée à l'agriculture et l'élevage "mobilise 85% des surfaces agricoles" - [*Vers la résilience alimentaire* - Grenier d'abondance](https://resiliencealimentaire.org/page-telechargement-guide/)). je ne vais presque plus en supermarché et les rayons me donnent le tourni par leur opulence de sauce tomates. J'achète de saison (note: [il vaut mieux également végétaliser son alimentation plutôt que de continuer à manger local](https://bonpote.com/wp-content/uploads/2021/05/ALIMENTATION-BON-POTE-1.png)) et biologique (7,5 % de la surface agricole française, *source Grenier d'abondance*, qui utilise des pesticide mais beaucoup moins) en direct producteur, je cuisine beaucoup plus, je n'achète pas ou d'occasion (à part pour mon dernier vélo :x), et [je priviliègie le train ou/et les mobilités actives.](https://monimpacttransport.fr/)
+Ces arguments m'ont fait évoluer, moi qui ai été élevé à la viande à excès, je suis [devenu végétarien](https://yuka.io/regime-vegetarien-sante/), et je diminue mon alimentation venant des animaux (la déforestation est principalement liée à l'agriculture et l'élevage "mobilise 85% des surfaces agricoles" - [*Vers la résilience alimentaire* - Grenier d'abondance](https://resiliencealimentaire.org/page-telechargement-guide/)). je ne vais presque plus en supermarché et les rayons me donnent le tourni par leur opulence de sauce tomates. J'achète de saison (note: [il vaut mieux également végétaliser son alimentation plutôt que de continuer à manger local](https://bonpote.com/wp-content/uploads/2021/05/ALIMENTATION-BON-POTE-1.png)) et biologique (7,5 % de la surface agricole française, *source Grenier d'abondance*, qui utilise des pesticide mais beaucoup moins) en direct producteur, je cuisine beaucoup plus, je n'achète pas ou d'occasion (à part pour mon dernier vélo :x), et [je priviliègie le train ou/et les mobilités actives.](https://monimpacttransport.fr/)
 
 Tout ceci peut paraitre comme une perte de temps ou alors se priver de choses, mais au contraire je réponds que ça s'appelle vivre la vie à pleine dent. **Et au dessus de tout, ça me permet de me sentir bien dans ma tête et mon corps, tout en montrant l'exemple autour de moi vers une vie bas carbone qui respecte le vivant un minimum.**
 
-**A tous ceux qui pensent que c'est impossible de changer**, il était aussi impossible d'arrêter le travail des enfants, d'avoir des congés payés, ou une assurance maladie et veillesse. Arrêter l'avion et l'hypermobilité, végétaliser son alimentation, acheter moins de choses, reparer, se déplacer à vélo (à assitance electrique ou non) ne sont que **des sacrifices absolument minimes** comparées à tout ce qu'on a vu plus haut.
+**A tous ceux qui pensent que c'est impossible de changer**, il était aussi impossible d'arrêter le travail des enfants, d'avoir des congés payés, ou une assurance maladie et vieillesse. Arrêter l'avion et l'hypermobilité, végétaliser son alimentation, acheter moins de choses, reparer, se déplacer à vélo (à assistance electrique ou non) ne sont que **des sacrifices absolument minimes** comparées à tout ce qu'on a vu plus haut.
 
 > Marcheur, il n'y a pas de chemin, le chemin se construit en marchant
 * *Antonio Machado*
@@ -302,3 +323,6 @@ Si vous êtes humain, vous devriez ressentir de la colère, de la tristesse, j'e
 
 > Avec une colère à moitié réprimée, j'ai tendance à me balancer et faire quelque chose d'impétueux et d'ignorant. Mais une colère bien sentie, ancrée, et familière peut me motiver à travers un engagement à vie pour améliorer les choses
 - Donella Meadows, [autrice "Limit to Growth"](https://www.placedeslibraires.fr/livre/9782374250748-les-limites-a-la-croissance-dans-un-monde-fini-dennis-meadows-donella-meadows-jorgen-rangers/)
+
+
+*Merci à Mathieu Pelissié, doctorant à l'institut des sciences de l'évolution à Montpellier, pour sa relecture*
