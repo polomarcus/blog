@@ -26,7 +26,7 @@ Le ratio de réduction va de 400 000 pages de littérature scientifique, à une 
 
 Si je me permets, moi jeune ceinture blanche de la fresque du climat, de faire un résumé c'est pour synthétiser ma lecture **qui a duré seulement 2 heures** en prenant le temps de fouiller certaines données, je vous renvoie d'ailleurs à celle de [BonPote](https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/). 
 
-Je le fais aussi [car 1 Français sur 5 (1 sur 2 en 2000)](https://librairie.ademe.fr/changement-climatique-et-energie/4057-representations-sociales-du-changement-climatique-21-eme-vague.html) pense que l'homme n'est pas responsable du changement de climat. Sociologiquement, ce sont principalement des personnes de plus de 69 ans de droite ou d'extrême droite - *61% des parlementaire de droite, contre 95% de gauche, et 90% la majorité présidentielle* -  [qui continuent de penser que le changement climatique est un cheval de troie pour mettre en place le communisme ([voir le documentaire "La fabrique de l'ignorance d'arte](https://peertube.dc.pini.fr/videos/watch/189464c7-a02b-4667-a6d3-186d3a837611)). Les fameuses "pastèques vert à l'extérieur et rouge à l'intérieur". Et quand [certains grands medias](https://twitter.com/MickaCorreia/status/1426098416904454145) continuent d'emettre des doutes sur la science à la manière de Youtubeurs complotistes, ça n'aide pas du tout à la compréhension du problème physique auquel nous devons nous préparer. Si je peux vous donner quelques billes pour argumenter à travers ce résumé, j'en serais ravi.
+Je le fais aussi [car 1 Français sur 5 (1 sur 2 en 2000)](https://librairie.ademe.fr/changement-climatique-et-energie/4057-representations-sociales-du-changement-climatique-21-eme-vague.html) pense que l'homme n'est pas responsable du changement de climat. Sociologiquement, ce sont principalement des personnes de plus de 69 ans de droite ou d'extrême droite - *61% des parlementaire de droite, contre 95% de gauche, et 90% la majorité présidentielle* -  [qui continuent de penser que le changement climatique est un cheval de troie pour mettre en place le communisme [voir le documentaire "La fabrique de l'ignorance d'arte](https://peertube.dc.pini.fr/videos/watch/189464c7-a02b-4667-a6d3-186d3a837611)). Les fameuses "pastèque vert à l'extérieur et rouge à l'intérieur". Et quand [certains grands medias](https://twitter.com/MickaCorreia/status/1426098416904454145) continuent d'emettre des doutes sur la science à la manière de Youtubeurs complotistes, ça n'aide pas du tout à la compréhension du problème physique auquel nous devons nous préparer. Si je peux vous donner quelques billes pour argumenter à travers ce résumé, j'en serais ravi.
 
 Il faut absolument garder en tête **qu'on ne peut pas negocier avec la physique**, qui est une science dure, contrairement à l'économie qui, comme le disait Bernard Maris, ancien conseil général de la banque de France, est composée de choix politiques déguisés en [scielle (molle) jalouse de ses cousines les sciences dures : la biologie, la chimie, la physique...](https://www.franceculture.fr/emissions/la-bibliotheque-ideale-de-leco/la-bibliotheque-ideale-de-leco-du-vendredi-11-janvier-2019)
 
@@ -78,7 +78,7 @@ On apprend en grandissant que ça peut arriver, [mais on ne peut pas sentir avec
 - *extrait du résumé pour décideurs (Summary for Policymakers (SPM))*
 
 
-On entend rarement parler des accords de Paris, limiter à nettement en dessous de 2 degré par rapport à 1850 le rechauffement, mais on entend moins que chaque 1/10 de degré eviter compte car avec un **réchauffement à 2 degré, il y a 2 fois plus de chance d'avoir des crues, et avec 14% plus intense.** 
+On entend rarement parler des accords de Paris, limiter à nettement en dessous de 2 degré par rapport à 1850 le rechauffement, et on entend encore moins souvent que chaque 1/10 de degré evité compte. Car avec un **réchauffement à 2 degré, il y a 2 fois plus de chance d'avoir des crues, et 14% plus intense.** 
 
 Avec 4 degré en plus c'est 3 fois plus souvent, pour 30% d'intensité en plus. **Ce n'est pas de la science fiction, c'est de la physique**, qui ne concerne pas seulement "de pauvres africains", mais toi, moi, tes enfants, et ça a déjà commencé.
 
@@ -152,7 +152,7 @@ Ces épisodes de sécheresses vont devenir plus fréquents et plus forts selon l
 
 **Mercredi 11 août 2021**, toujours à vélo, dans les Cévennes gardoise cette fois ci, un dôme de châleur fait monter la température [à 40 degré à l'ombre](https://www.midilibre.fr/2021/08/10/meteo-dome-de-chaleur-attendu-a-partir-de-mercredi-sur-loccitanie-400c-prevu-dans-le-gard-9724392.php), j'arrive à destination complètement sèché et sans force. **Nos corps d'Homo Sapiens** ont clairement des limites et je n'y peux rien malgré ma bonne condition physique. 
 
-Ces quelques dates prises qui m'ont marqué ne sont pas lié au hasard, on apprend dans le graphique plus bas qu'il y a 6 fois plus de fréquence d'épisode caniculaire extrême avec un réchauffement à 2 degré, et 9 fois avec un à 4 degré
+Ces quelques dates prises qui m'ont marqué ne sont pas liées au hasard, on apprend dans le graphique plus bas qu'il y a 6 fois plus de fréquence d'épisode caniculaire extrême avec un réchauffement à 2 degré, et 9 fois avec un à 4 degré
 
 ![Fréquence des canicules](https://user-images.githubusercontent.com/4059615/136711110-c7436a43-dc80-4797-92d7-d83008b6c3e7.png)
 * *Figure SPM.6*
@@ -295,7 +295,7 @@ Tout ceci peut paraitre comme une perte de temps ou alors se priver de choses, m
 * *Antonio Machado*
 
 Maintenant que vous savez, voici [les 12 excuses (et réponses) à l'inaction climatique](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/) qu'on entendra forcément dès qu'on parle climat dans un groupe :
-![Les 12 excuses de l'inaction climatique - https://twitter.com/valmasdel/status/1426103096715923456/photo/1  ](https://pbs.twimg.com/media/E8qI8r1XMAAZx6y?format=jpg&name=4096x4096).
+![Les 12 excuses de l'inaction climatique - https://twitter.com/valmasdel/status/1426103096715923456/photo/1](https://pbs.twimg.com/media/E8qI8r1XMAAZx6y?format=jpg&name=4096x4096).
 
 ## Mots de la fin 
 Si vous êtes humain, vous devriez ressentir de la colère, de la tristesse, j'en ressens, de pas avoir été éduqué, préparé, entouré dans ma vie pro ou perso pour affronter ce défi. Cette phrase me guide dans mes moments délicats, j'espère qu'elle vous aidera aussi :
