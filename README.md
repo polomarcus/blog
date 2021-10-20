@@ -7,6 +7,9 @@ https://gohugo.io/getting-started/
 ## Blog theme
 https://github.com/lxndrblz/anatole
 
+### Shorcuts
+https://gohugo.io/content-management/shortcodes/#figure
+
 ## Deploy
 https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
