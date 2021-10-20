@@ -6,7 +6,9 @@ tags : [
     "climat"
 ]
 thumbnail: "images/palavas.png"
-images: ["images/palavas.png"]
+images:
+    - "images/palavas.png"
+series: ["climat"]
 date: "2021-10-20"
 ---
 
