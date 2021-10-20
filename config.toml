@@ -1,4 +1,4 @@
-baseURL = "http://polomarcus.github.io/blog/"
+baseURL = "https://polomarcus.github.io/blog/"
 languageCode = "fr-fr"
 title = "Blog"
 description = """
