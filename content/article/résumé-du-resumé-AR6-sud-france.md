@@ -1,13 +1,13 @@
 ---
 title: "Résumé spécial sud de la France du rapport du GIEC"
 draft: false
-description: "Ceci est le résumé du résumé pour décideur du groupe 1 'bases physiques scientifiques' du 6ème rapport du groupe intergouvernemental sur l'evolution du climat"
+description: "Le résumé du résumé pour décideur du groupe 1 'bases physiques scientifiques' du 6ème rapport du groupe intergouvernemental sur l'evolution du climat"
 tags : [
     "climat"
 ]
 thumbnail: "images/palavas.png"
 images: ["images/palavas.png"]
-date: "2021-10-14"
+date: "2021-10-20"
 ---
 
 ## Le climat, on s'y intéressera seulement en 2100 ?
@@ -41,8 +41,7 @@ Ceci donne que la température moyenne en surface comparée au début de l'ère 
 
 [Ces 5 scénarios "SSP"](https://www.ecologie.gouv.fr/sites/default/files/ONERC_decouvrir_scenarios_Giec.pdf) (*Shared Socioeconomic Pathways* ou Représentation des évolutions sociales et économiques) possibles physiquement ont des noms relatifs à la puissance du [forçage radiatif](https://bonpote.com/forcage-radiatif-a-la-base-du-changement-climatique/) comparée à avant l'ère industrielle, c'est l'augmentation correspondant à l'énergie, comptée en watt par m², restant sur terre piégée par l'effet de serre. En résumé, plus le chiffre est haut, plus il fait chaud.
 
-![](https://user-images.githubusercontent.com/4059615/136711118-47d97b68-de04-407d-abf2-db3d39df2bc9.png)
-* *Figure SPM.8 du résumé du giec Summary for Policymakers (SPM)*
+{{< figure alt="" src="https://user-images.githubusercontent.com/4059615/136711118-47d97b68-de04-407d-abf2-db3d39df2bc9.png" title="Figure SPM.8 du résumé du giec Summary for Policymakers (SPM)" >}}
 
 Si on regarde le scénario [probable selon l'ONU, le SSP2 - 4.5](https://www.capital.fr/economie-politique/rechauffement-climatique-lonu-tire-la-sonnette-dalarme-scenario-catastrophe-en-vue-pour-la-planete-1414647) (pour 4.5 watt par m² en plus comparé à 1850-1900 qui reste piégés par l'effet de serre) cela la correspond à ces températures (source Table SPM.1) comparées à 1850-1900 :
 
@@ -52,14 +51,14 @@ Si on regarde le scénario [probable selon l'ONU, le SSP2 - 4.5](https://www.cap
 
 Le scénario SSP2-4.5 est basé sur une légère augmentation suivi d'une diminution des gaz à effet de serre vers 2030. La physique nous autorise à passer sur d'autres scénarios encore plus destructeurs: comme le SSP3, 4, et 5.
 
-![Figure SPM.4](https://user-images.githubusercontent.com/4059615/137589423-71418029-d147-42c0-903d-a38da5295d31.PNG)
-* *Figure SPM.4*
+{{< figure alt="Figure SPM.4" src="https://user-images.githubusercontent.com/4059615/137589423-71418029-d147-42c0-903d-a38da5295d31.PNG" title="Figure SPM.4" >}}
 
 Le climat peut se voir comme la température moyenne globale (autour de 15°) qu'il fasse nuit à un endroit et jour à un autre, que ça soit l'hiver ici ou l'été ailleurs. Ceux qui ont des vagues notions de mathématiques savent que les moyennes sont trompeuses : il suffit par exemple d'un milliardaire dans une salle de réunion pour que mille autres personnes soient **en moyenne** millionnaires.
 
 Si on regarde en France seulement, nous sommes déjà vers les 2 degrés, et la courbe de regression est intimidante.
-![Moyenne France](https://www.ecologie.gouv.fr/sites/default/files/styles/standard/public/Onerc_Temp%C3%A9rature_France_Moyenne_2017.png?itok=2bapa7tl)
-* **Source https://www.ecologie.gouv.fr/impacts-du-changement-climatique-atmosphere-temperatures-et-precipitations**
+
+{{< figure alt="Moyenne France" src="https://www.ecologie.gouv.fr/sites/default/files/styles/standard/public/Onerc_Temp%C3%A9rature_France_Moyenne_2017.png?itok=2bapa7tl" title="Source https://www.ecologie.gouv.fr/impacts-du-changement-climatique-atmosphere-temperatures-et-precipitations" >}}
+
 
 **Point "C'est pas sorcier":** 4 degrés en plus, ça ne parait pas grand chose, surtout quand il fait 9 degrés le matin et 21 degré sl'après midi comme dans ce mois d'octobre 2021, mais une analogie avec la témpérature de notre corps, à 37 degrés, tout va bien mais à 41 degrés, on meurt.
 
@@ -85,8 +84,7 @@ On entend souvent parler des accords de Paris, limiter **à nettement** en desso
 
 Avec 4 degrés en plus c'est 3 fois plus souvent, pour 30% d'intensité en plus. **Ce n'est pas de la science fiction, c'est de la physique**, qui ne concerne pas seulement "de pauvres africains", mais toi, moi, tes enfants, et ça a déjà commencé.
 
-![Figure SPM.6](https://user-images.githubusercontent.com/4059615/136711073-05171fdd-af36-4029-b0ed-7a52aeca4535.png)
-* *Figure SPM.6 du résumé du giec Summary for Policymakers (SPM)*
+{{< figure alt="Figure SPM.6" src="https://user-images.githubusercontent.com/4059615/136711073-05171fdd-af36-4029-b0ed-7a52aeca4535.png" title="Figure SPM.6" >}}
 
 En terme de puissance des évenements, **il faut retenir qu'un degré en plus c'est 7% d'eau en plus dans l'air.**
 
@@ -105,8 +103,7 @@ J'ai longtemps ignoré que c'était un des points référant pour mesurer le niv
 
 A Marseille, encore une fois, dans la calanque de la Triperie où je suis passé plusieurs fois sans le savoir, il y [la grotte Cosquer](https://fr.wikipedia.org/wiki/Grotte_Cosquer#Description_de_la_cavit%C3%A9), une grotte submergée comportant des témoignages importants de notre espèce datant de -27 000 à 19 000 ans, durant la dernière ère glaciaire où la température moyenne était de - 5° comparé à 1850. Ces petits degrés de différences ont fait que l'entrée de la grotte se situait à l'air libre car le niveau de la mer était de -120 mètres comparé à 1850. Un scénario à +5 degrés devrait nous donner des frissons. 
 
-![](https://user-images.githubusercontent.com/4059615/138078470-ab74f321-3a1b-46d5-b310-95d459d7c1ad.png)
-* *une augmentation d'un mètre du niveau de la mer - source http://flood.firetree.net/* 
+{{< figure alt="une augmentation d'un mètre du niveau de la mer - source http://flood.firetree.net/" src="https://user-images.githubusercontent.com/4059615/138078470-ab74f321-3a1b-46d5-b310-95d459d7c1ad.png" title="une augmentation d'un mètre du niveau de la mer - source http://flood.firetree.net/" >}}
 
 Jean Jouzel, paléoclimatologue, ancien vice président du GIEC du temps de [son prix nobel de la paix en 2007](https://www.assemblee-nationale.fr/12/controle/delat/dates_cles/prix_nobel_2007.asp) nous dit qu'un million de personnes peuvent être touchées en France d'ici 2050 par des submersions de plusieurs jours liées (16min45 dans [cet épisode](https://podcast.ausha.co/greenletter-club/episode-17-climat-quel-planet-pour-demain-jean-jouzel-climatologue) du GreenLetterClub) à seulement une trentaine de cm de plus.
 
@@ -118,8 +115,7 @@ emissions scenario (SSP5-8.5), and by 2150 is 0.37-0.86 m under the very low sce
 
 On peut apprendre dans cet extrait qu'on estime à 0.44m à 0.76m d'élévation du niveau de la mer par rapport à 1950 pour 2100 dans le cas scénario probable ONU SSP2-4.5. Ce chiffre monte est 1 mètre pour le scénario SSP5-8.5. En 2150, date qu'on voit plus rarement, ce scénario nous amènerait entre 1 mètre et 2 mètres d'élévation.
 
-![Figure SPM.8:](https://user-images.githubusercontent.com/4059615/136711143-cdf77876-4fac-45cd-9896-19d70f74e528.png)
-* *Figure SPM.8*
+{{< figure alt="Figure SPM.8*" src="https://user-images.githubusercontent.com/4059615/136711143-cdf77876-4fac-45cd-9896-19d70f74e528.png" title="Figure SPM.8*" >}}
 
 Pour creuser le sujet, voici [un article du media BonPote.](https://bonpote.com/hausse-du-niveau-de-la-mer-et-changement-climatique/).
 
@@ -142,15 +138,13 @@ graves sur les cultures et les élevages selon leur intensité et la période o�
 
 Ces épisodes de sécheresses vont devenir plus fréquents et plus forts selon les différents types de scénarios.
 
-![Figure SPM.6](https://user-images.githubusercontent.com/4059615/136845492-903ec8f6-a507-4ff5-a665-e4b5884a8787.png)
-* *Figure SPM.6*
+{{< figure alt="Figure SPM.6" src="https://user-images.githubusercontent.com/4059615/136845492-903ec8f6-a507-4ff5-a665-e4b5884a8787.png" title="Figure SPM.6" >}}
+
 ## Chaleur
 ### Canicule
 **Août 2003**, j'ai 12 ans, 15% des villes Françaises ont connu des témpératures supérieures à 40°, [cela causera 15 000 morts](https://fr.wikipedia.org/wiki/Canicule_europ%C3%A9enne_d%27ao%C3%BBt_2003#En_France).
 
-![En rouge, le coronavirus; en jaune, la canicule de 2003. Source : INSEE](https://i.imgur.com/4ZYhDut.png)
-*Les morts par mois en France : en rouge, le coronavirus - en jaune, la canicule de 2003. Source : [INSEE](https://blog.insee.fr/statistiques-sur-les-deces-le-mode-demploi-des-donnees-de-linsee-en-7-questions-reponses/) et l'[ADEME](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/)*
-
+{{< figure alt="Figure SPM.6" src="https://i.imgur.com/4ZYhDut.png" title="En rouge, le coronavirus; en jaune, la canicule de 2003. Source : INSEE / ADEME https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/" >}}
 
 **Vendredi 28 juin 2019 17h**, je pars de la conférence Sunny Tech à Montpellier, alerte canicule déclenchée par le préfet, j'ai 28 ans, peur de rien "car seuls les vieux souffrent de la chaleur", ce jour là Montpellier, [et la France entière bat une nouvelle fois leur record de témpérature : 43,5 °C à l'ombre](http://www.meteofrance.fr/actualites/73726667-record-absolu-45-9-c-c-est-la-temperature-la-plus-chaude-jamais-mesuree-en-france). Je me déplace à pied au soleil, en quelques minutes ma bouche s'assèche et je perds des litres d'eau en transpiration, [les tramways n'arrivent plus à fonctionner](https://twitter.com/TaMVoyages/status/1144607389452296193) et les véhicules sont transformés en sauna : c'était brutal. Le constat est dur, et une question me vient à l'esprit est ce que je pourrais faire du sport ou me déplacer en ville toute ma vie ? 
 
@@ -160,13 +154,12 @@ Ces épisodes de sécheresses vont devenir plus fréquents et plus forts selon l
 
 Ces quelques dates prises qui m'ont marqué ne sont pas liées au hasard, on apprend dans le graphique plus bas que **la fréquence des épisodes caniculaires extrêmes est 6 fois plus élevée avec un réchauffement à 2 degrés, et 9 fois avec un à 4 degrés.**
 
-![Fréquence des canicules](https://user-images.githubusercontent.com/4059615/136711110-c7436a43-dc80-4797-92d7-d83008b6c3e7.png)
-* *Figure SPM.6*
+{{< figure alt="Fréquence des canicules" src="https://user-images.githubusercontent.com/4059615/136711110-c7436a43-dc80-4797-92d7-d83008b6c3e7.png" title="Fréquence des canicules - Figure SPM.6" >}}
 
 ### Incendies
 Les feux de forêt sont liés à la secheresse, à la température, et au vent. Encore une fois, nos sens nous disent qu'on voit des feux dans les médias (Australie, Californie, Martigues, Var), ou autour de nous, lorsqu'on remarque des grandes colonnes de fumées blanches, mais il est difficile d'avoir une vision d'ensemble. Entre [l'indice forêt météo (IFM)](https://fr.wikipedia.org/wiki/Indice_for%C3%AAt_m%C3%A9t%C3%A9o), d'après Météo France "De nombreuses études ont montré une corrélation claire entre l'IFM moyen et le nombre de départs de feu.". La modélisation pour 2040 (*c'est demain*) fait chaud dans le dos.
 
-![Rapport de la mission interministérielle Changement climatique et extension des zones sensibles aux feux de forêts](https://user-images.githubusercontent.com/4059615/137160644-08b639db-3698-468c-9ad9-a377dcaf4bb9.png)
+{{< figure alt="Rapport de la mission interministérielle Changement climatique et extension des zones sensibles aux feux de forêts" src="https://user-images.githubusercontent.com/4059615/137160644-08b639db-3698-468c-9ad9-a377dcaf4bb9.png" title="Rapport de la mission interministérielle Changement climatique et extension des zones sensibles aux feux de forêts" >}}
 
 > un ordre de grandeur à retenir en attendant est qu'une augmentation de la température moyenne sur le territoire de 1 °C accroît d'environ 20 % l'aléa départ de feux
 * [Rapport de la mission interministérielle Changement climatique et extension des zones sensibles aux feux de forêts](https://www.vie-publique.fr/rapport/31347-changement-climatique-et-extension-des-zones-sensibles-aux-feux-de-foret)
@@ -192,8 +185,6 @@ would further increase concentrations of these gases in the atmosphere (high con
 
 L'Observatoire Pyrénéen du Changement Climatique (OPCC) est une mine d'or d'informations. On peut y apprendre que les glaciers sont des **"super-indicateurs climatiques"**. Pour le glacier d’Ossoue (Vignemale) ['entre 2002 et 2019, le glacier d’Ossoue a perdu 30m d’épaisseur, sa superficie est passée de 58 à 32 hectares et son front a régressé de 125 mètres de longueur !"](https://opcc-ctp.org/fr/noticia/mesure-laccumulation-du-glacier-dossoue-2020). l'OPCC nous dit que ["à une altitude de 1 800 m, l’épaisseur moyenne de la neige pourrait diminuer de moitié d’ici 2050 selon la référence actuelle, tandis que la période de permanence de la neige au sol réduirait de plus d’un mois."](https://opcc-ctp.org/fr/sector/climat-futur).
 
-![le glacier d’Ossoue](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pic_Montferrat.jpg/1280px-Pic_Montferrat.jpg)
-
 Les stations de ski de moyenne altitude comme le Mont Aigoual, qui abrite [le Centre d’interprétation du changement climatique](https://caussesaigoualcevennes.fr/wp-content/uploads/2020/02/Pr%C3%A9sentation-mus%C3%A9o-Centre-dinterpr%C3%A9tation.pdf), ont du mal à ouvrir l'hiver et doivent se réinventer en station de sports d'extérieurs toute saison.
 
 ## Le vivant
@@ -209,14 +200,11 @@ Des récoltes qui se font de plus en plus tôt de mémoire d'homme. J'ai été m
 > En moyenne, les vendanges ont lieu 18 jours plus tôt qu'il y a 40 ans
 * *Source: https://www.ecologie.gouv.fr/impacts-du-changement-climatique-agriculture-et-foret*
 
-![Date des vendanges](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%C3%89volution_des_dates_de_vendanges_en_France_%281892-2014%29.svg/1562px-%C3%89volution_des_dates_de_vendanges_en_France_%281892-2014%29.svg.png)
-* *Source https://fr.wikipedia.org/wiki/Vendange#%C3%89volution_historique_de_la_p%C3%A9riode_des_vendanges*
+{{< figure alt="Date des vendanges" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%C3%89volution_des_dates_de_vendanges_en_France_%281892-2014%29.svg/1562px-%C3%89volution_des_dates_de_vendanges_en_France_%281892-2014%29.svg.png" title="Source https://fr.wikipedia.org/wiki/Vendange#%C3%89volution_historique_de_la_p%C3%A9riode_des_vendanges" >}}
 
 Certaines essences d'arbres ne pourront pas s'adapter au climat actuel, [l'ONF nous indique que "plus de 50% de la forêt française pourrait voir son faciès modifié d'ici 50 ans."](https://www.onf.fr/onf/forets-et-changement-climatique/nos-infographies-et-galeries-dimages/+/95b::infographie-face-au-changement-climatique-un-nouveau-visage-pour-la-foret-francaise.html). Lorsqu'il fait trop chaud, trop sec, les arbres sont plus vulnérables aux maladies et aux insectes. [En 2020 le tiers du bois produit en France avait été abattus pour cette raison.](https://www.arte.tv/fr/videos/100627-063-A/climat-l-avenir-incertain-de-la-foret/)
 
-Cet outil permet de simuler les conditions de survie des arbres : https://climessences.fr/
-![](https://user-images.githubusercontent.com/4059615/137165233-cae47dd1-54a3-47eb-bee9-a76306a6dc5f.png)
- * *Avec cet outil on peut apprendre que le tilleul va devenir de plus en plus incompatible avec le climat du sud de la France.*
+{{< figure alt="Figure SPM.4" src="https://user-images.githubusercontent.com/4059615/137165233-cae47dd1-54a3-47eb-bee9-a76306a6dc5f.png" title="Cet outil permet de simuler les conditions de survie des arbres : https://climessences.fr/" >}}
 
 > Le climat va plus vite que le déplacement des espèces
 * [*Eric Sevrin, centre national de la propriété forestière*](https://www.arte.tv/fr/videos/100627-063-A/climat-l-avenir-incertain-de-la-foret/)
@@ -264,8 +252,7 @@ Si les scénarios **à faible emissions sont maintenus durablement cela limitera
 
 Si on veut limiter la casse, car chaque 1/10 de degré compte, il faut donc se mettre au **régime carbone** dès maintenant, mais aussi stocker **durablement** le carbone dans des puits de carbone naturels : atmosphère 1/2, océan 1/4, photosynthèse 1/4. Par contre, ces puits de carbone autre que l'atmosphère sont de moins en moins efficace plus il y a d'émission de CO2 :
 
-![Puits de carbone naturels Figure SPM.7](https://user-images.githubusercontent.com/4059615/137591426-519d3411-b068-4a2b-af1d-689fdaa62932.PNG)
-* *Figure SPM.7*
+{{< figure alt="Puits de carbone naturels Figure SPM.7" src="https://user-images.githubusercontent.com/4059615/137591426-519d3411-b068-4a2b-af1d-689fdaa62932.PNG" title="Puits de carbone naturels Figure SPM.7" >}}
 
 Réduire le carbone passe aussi par les technologies de Capture et Séquestration de Carbone (CDR en anglais). Cependant cette technologie n'est pas miraculeuse, gourmande en énergie, chère, mais peut contribuer significativement à la réduction de carbone. [En apprendre plus avec cette vidéo de la châine du "Réveilleur".](https://www.youtube.com/watch?v=AQlqQEhVi1M)
 > D.1.4 Anthropogenic CO 2 removal (CDR) has the potential to remove CO 2 from the atmosphere and
@@ -296,7 +283,7 @@ La majorité est donc du côté de la science, et c'est une note d'espoir qui de
 ## Comptabilité carbone - les accords de Paris
 Toutes ces informations nous font ressentir beaucoup de choses, et ça fait beaucoup à digérer. L'action numéro 1 à prendre en priorité est de faire un calcul d'empreinte carbone avec https://nosgestesclimat.fr/ et de creuser à partir de là **les accords de Paris**, qui sont la promesse de tout un chacun. *Qui ne s'est pas moqué de Trump lorsqu'il est sorti des accords de Paris ?*
 
-![Nos gestes climat](https://user-images.githubusercontent.com/4059615/137147596-8fd7482c-e645-4d02-96bc-97aef38a0346.png)
+{{< figure alt="Extrait du site Nos Gestes Climat .fr" src="https://user-images.githubusercontent.com/4059615/137147596-8fd7482c-e645-4d02-96bc-97aef38a0346.png" title="Nos gestes climat" >}}
 
 De 1850 à 2019, l'humanité a émis 2390 Giga tonne de CO2 (GtCO2) et en émet 40 GtCO2 par an en 2020 avec un rythme croissant.
 Voici ce qu'on peut encore émettre en carbone **si on veut avoir 83% de chance de respecter les accords de Paris** (*Source Table SPM.2*) :
@@ -306,11 +293,7 @@ Voici ce qu'on peut encore émettre en carbone **si on veut avoir 83% de chance 
 
 Cependant, ces accords ont l'objectif d'être à 2 tonnes de tout gaz à effet de serre confondu (= [un aller retour Paris New York](https://monimpacttransport.fr/?km=12200&transportations=6_1_9_3_11_13_14_12_2_8_7_5_4)) en 2050 pour limiter le réchauffement climatique **nettement** en dessous de 2° en 2100. **C'est une économie de guerre.** C'est baisser de 4% les gaz à effet de serre chaque année pendant 30 ans, "soit 320 kg de CO₂ à émettre en moins chaque année par rapport à la précédent" [nous dit l'équipe Datagir de l'ADEME](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/). -4% correspond aussi au paroxyme de la crise de 1929 (1933), ou l'anéantissement industrielle de l'Allemagne et du Japon en 1945 ([Source Jancovici cours 3 des Mines ParisTech](https://jancovici.com/wp-content/uploads/2020/07/Jancovici_Mines_ParisTech_cours_3.pdf)).
 
->
-
-![Source BonPote](https://user-images.githubusercontent.com/4059615/137140488-8e39cb9b-ce18-426d-a04d-830c80fb286a.png)
-
-* *On distingue nos meilleures amies/ennemies les energies fossiles : charbon -30% des gaz à effet de serre (GES), gaz - 14% des GES, pétrole - 25% GES.*
+{{< figure alt="On distingue nos meilleures amies/ennemies les energies fossiles : charbon -30% des gaz à effet de serre (GES), gaz - 14% des GES, pétrole - 25% GES." src="https://user-images.githubusercontent.com/4059615/137140488-8e39cb9b-ce18-426d-a04d-830c80fb286a.png" title="On distingue nos meilleures amies/ennemies les energies fossiles : charbon -30% des gaz à effet de serre (GES), gaz - 14% des GES, pétrole - 25% GES." >}}
 
 ## Il n'y a pas que le carbone
 > Si on débat sur les chiffres on débat pas sur le fond du problème. Le plus grave c'est de parler de chiffres mais pas de la réalité.
@@ -328,7 +311,9 @@ Tout ceci peut paraitre comme une perte de temps ou alors se priver de choses, m
 * *Antonio Machado*
 
 Maintenant que vous savez, voici [les 12 excuses (et réponses) à l'inaction climatique](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/) qu'on entendra forcément dès qu'on parle climat dans un groupe :
-![Les 12 excuses de l'inaction climatique - https://twitter.com/valmasdel/status/1426103096715923456/photo/1](https://user-images.githubusercontent.com/4059615/138075050-361db515-6a15-43f0-80dc-3f222152aa04.png).
+
+{{< figure alt="les 12 excuses (et réponses) à l'inaction climatique" src="https://user-images.githubusercontent.com/4059615/138075050-361db515-6a15-43f0-80dc-3f222152aa04.png" title="https://twitter.com/valmasdel/status/1426103096715923456/" >}}
+
 
 ## Mots de la fin 
 Si vous êtes humain, vous devriez ressentir de la colère, de la tristesse, [surtout quand des entreprises reines des énergies fossiles comme Total sont au courant depuis 1971.](https://www.mediapart.fr/journal/international/201021/dereglement-climatique-total-savait-des-1971) Je ressens beaucoup d'émotions, de pas avoir été éduqué, préparé, entouré dans ma vie pro ou perso pour affronter ce défi. 
@@ -339,7 +324,7 @@ Cette phrase me guide dans mes moments délicats, j'espère qu'elle vous aidera 
 
 
 
-
+***
 *Merci à la communauté scientifique de mettre à disposition des connaissances aussi pointues*
 
 *Merci à Mathieu Pelissié, doctorant à l'institut des sciences de l'évolution à Montpellier, pour sa relecture et ses conseils sur l'IPBES*
