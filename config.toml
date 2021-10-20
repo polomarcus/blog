@@ -1,7 +1,11 @@
 baseURL = "http://polomarcus.github.com/blog/"
 languageCode = "fr-fr"
 title = "Blog"
-description = "Data, climat, sports, congé paternité"
+description = """
+"Des nains sur des épaules de géants" - Bernard de Chartres
+
+Data, climat, sports, congé paternité
+"""
 theme = "anatole"
 enableEmoji = true
 
@@ -29,14 +33,18 @@ enableEmoji = true
   name = "Paul Leclercq"
   
 [params]
-title = "Paul Leclercq 🦖"
-author = "Paul Leclercq 🦖"
-description = "Data, climat, sports, congé paternité"
-profilePicture = "https://avatars.githubusercontent.com/u/4059615?v=4"
+title = "Paul Leclercq 🦕"
+author = "Paul Leclercq 🦕"
+description = """
+"Des nains sur des épaules de géants" - Bernard de Chartres
 
+Data, climat, sports, congé paternité
+"""
+profilePicture = "https://avatars.githubusercontent.com/u/4059615?v=4"
+gtagId = "G-W1N7B2KENY"
 favicon = "favicons/"
 displayMode = "dark"
-contentratio = 0.7
+contentratio = 0.78
 singleDateFormat = "1 January 2006"
 indexDateFormat = "1 January 2006"
 listDateFormat = "January 2"
