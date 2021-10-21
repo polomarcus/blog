@@ -200,7 +200,7 @@ On peut aussi y apprendre que le changement de climat et la perte de biodiversit
 
 ### Flore
 
-Des récoltes qui se font de plus en plus tôt de mémoire d'homme. J'ai été marqué de la date d'octobre 1990 écrite à la craie dans une cave particulière de ma famille, désormais les routes deviennent collante à partir de fin août. Egalement, les températures plus chaudes donnent aussi des vins avec un degré alcoolique plus elevé [de l'ordre "d'un degré tous les dix ans dans les vignobles du sud du pays"](https://www.francetvinfo.fr/meteo/climat/infographie-rechauffement-climatique-les-vendanges-ont-lieu-15-jours-plus-tot-qu-il-y-a-40-ans_2917833.html).
+Des récoltes qui se font de plus en plus tôt de mémoire d'homme. J'ai été marqué de la date d'octobre 1990 écrite à la craie dans une cave viticole de ma famille, désormais les routes deviennent collante à partir de fin août. Egalement, les températures plus chaudes donnent aussi des vins avec un degré alcoolique plus elevé [de l'ordre "d'un degré tous les dix ans dans les vignobles du sud du pays"](https://www.francetvinfo.fr/meteo/climat/infographie-rechauffement-climatique-les-vendanges-ont-lieu-15-jours-plus-tot-qu-il-y-a-40-ans_2917833.html).
 
 > En moyenne, les vendanges ont lieu 18 jours plus tôt qu'il y a 40 ans
 * *Source: https://www.ecologie.gouv.fr/impacts-du-changement-climatique-agriculture-et-foret*
