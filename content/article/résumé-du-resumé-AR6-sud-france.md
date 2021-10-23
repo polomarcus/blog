@@ -85,7 +85,7 @@ On apprend en grandissant que ça peut arriver, [mais on ne peut pas sentir avec
 > B.3.2 A warmer climate will intensify very wet and very dry weather and climate events and seasons, with implications for flooding or drought
 - *extrait du résumé pour décideurs (Summary for Policymakers (SPM))*
 
-On entend souvent parler des accords de Paris, limiter **à nettement** en dessous de 2 degrés par rapport à 1850 le réchauffement, mais on entend moins souvent que chaque 1/10 de degré evité compte. Car avec un **réchauffement à 2 degrés, il y a 2 fois plus de chance d'avoir des crues, et 14% plus intenses.** 
+On entend souvent parler de l'accord de Paris, limiter **à nettement** en dessous de 2 degrés par rapport à 1850 le réchauffement, mais on entend moins souvent que chaque 1/10 de degré evité compte. Car avec un **réchauffement à 2 degrés, il y a 2 fois plus de chance d'avoir des crues, et 14% plus intenses.** 
 
 Avec 4 degrés en plus c'est 3 fois plus souvent, pour 30% d'intensité en plus. **Ce n'est pas de la science fiction, c'est de la physique**, qui ne concerne pas seulement "de pauvres africains", mais toi, moi, tes enfants, et ça a déjà commencé.
 
@@ -218,7 +218,7 @@ Certaines essences d'arbres ne pourront pas s'adapter au climat actuel, [l'ONF n
 
 C'est toujours un bonheur d'entendre la première cigale en juin. Les mâles chantent dès qu'il fait 25 degrés, et ça dure parfois jusqu'à tard dans la nuit avec la chaleur des villes. Par contre, leurs déplacements [vers des territoires où elles n’y étaient pas connues](https://www.francetvinfo.fr/monde/environnement/climat-les-cigales-toujours-plus-au-nord_1575177.html) peut surprendre. Ca peut être un exemple *sonore* qui prête à sourire, mais ça nous laisse entrevoir les conséquences pour les autres espèces d'insectes dont on ignore encore beaucoup de choses.
 
-De l'autre côté, les moustiques, en outre de nous empêcher de dormir et de profiter de la plage à la tombée de la nuit, est l'espèce la plus dangereuse pour l'homme. Il est aidé dans son developpement par la hausse **des témpératures**. Le changement de climat n'est pas le seul responsable, mais l'espèce est passée [d'un seul département de présence, Alpes Maritimes (06), à presque la moitié de la France en 15 ans.](https://solidarites-sante.gouv.fr/IMG/pdf/extension_moustique_classement_1_annee_2004_a_2020.pdf).
+De l'autre côté, les moustiques, en outre de nous empêcher de dormir et de profiter de la plage à la tombée de la nuit, est l'espèce la plus dangereuse pour l'homme. Il est aidé dans son developpement par la hausse **des témpératures**. Le changement de climat n'est pas le seul responsable, mais l'espèce du moustique tigre est passée [d'un seul département de présence, Alpes Maritimes (06), à presque la moitié de la France en 15 ans.](https://solidarites-sante.gouv.fr/IMG/pdf/extension_moustique_classement_1_annee_2004_a_2020.pdf).
 
 > Cependant le réchauffement prévu, à un degré modeste, dans les décennies à venir, 
 favorisera  très  probablement  la  croissance  et  l'expansion  des  espèces  dans  les 
@@ -287,13 +287,13 @@ La majorité est donc du côté de la science, et c'est une note d'espoir qui de
 
 {{< twitter_simple 1436307466883633157 >}}
 
-## Comptabilité carbone - les accords de Paris
-Toutes ces informations nous font ressentir beaucoup de choses, et ça fait beaucoup à digérer. L'action numéro 1 à prendre en priorité est de faire un calcul d'empreinte carbone avec https://nosgestesclimat.fr/ et de creuser à partir de là **les accords de Paris**, qui sont la promesse de tout un chacun. *Qui ne s'est pas moqué de Trump lorsqu'il est sorti des accords de Paris ?*
+## Comptabilité carbone - l'accord de Paris
+Toutes ces informations nous font ressentir beaucoup de choses, et ça fait beaucoup à digérer. L'action numéro 1 à prendre en priorité est de faire un calcul d'empreinte carbone avec https://nosgestesclimat.fr/ et de creuser à partir de là **l'accord de Paris**, qui sont la promesse de tout un chacun. *Qui ne s'est pas moqué de Trump lorsqu'il est sorti de l'accord de Paris ?*
 
 {{< figure alt="Extrait du site Nos Gestes Climat .fr" src="https://user-images.githubusercontent.com/4059615/137147596-8fd7482c-e645-4d02-96bc-97aef38a0346.png" title="Nos gestes climat" >}}
 
 De 1850 à 2019, l'humanité a émis 2390 Giga tonne de CO2 (GtCO2) et en émet 40 GtCO2 par an en 2020 avec un rythme croissant.
-Voici ce qu'on peut encore émettre en carbone **si on veut avoir 83% de chance de respecter les accords de Paris** (*Source Table SPM.2*) :
+Voici ce qu'on peut encore émettre en carbone **si on veut avoir 83% de chance de respecter l'accord de Paris** (*Source Table SPM.2*) :
 * Pour limiter à 1.5° : 300 GtCO2, **c'est à dire 7.5 ans au rythme de l'année 2020**
 * Pour limiter à 1.75° : 550 GtCO2, **soit 13,75 ans au rythme de l'année 2020** 
 * Pour limiter à 2.0° (hors accord de Paris) : 900 GtCO2, **soit 22.5 ans au rythme de l'année 2020**
