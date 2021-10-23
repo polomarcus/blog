@@ -251,7 +251,7 @@ De plus, quand n'importe quel PDG doit augmenter son chiffre d'affaire de 4% cha
 > D.2.3 (...) For global surface temperature, differences in 20-year trends would likely emerge during the near term under a very low GHG emission scenario (SSP1-1.9), relative to a high or very high GHG emission
 scenario (SSP3-7.0 or SSP5-8.5).
 
-**Note :** ans un scénario où les émissions de gaz à effet de serre sont nulles, [**il n'y aurait pas cette inertie de 20 ans.**](https://bonpote.com/existe-t-il-vraiment-une-inertie-climatique-de-20-ans/)
+**Note :** dans un scénario où les émissions de gaz à effet de serre sont nulles, [**il n'y aurait pas cette inertie de 20 ans.**](https://bonpote.com/existe-t-il-vraiment-une-inertie-climatique-de-20-ans/)
 
 Si les scénarios **à faible emissions sont maintenus durablement cela limiterait fortement tous les événements extrêmes** à la fin du siècle. En première approximation, cela peut clairement faire penser à un duel de génération, où je veux continuer à vivre sans changer, et tant pis pour ceux qui suivent. Mais on vit déjà ces événements climatiques, et certaines personnes âgées restent en général plus vulnérables aux aléas climatiques comme les canicules. Ca serait clairement un calcul perdant.
 
