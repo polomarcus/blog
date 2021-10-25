@@ -29,7 +29,7 @@ Le ratio de réduction va de 400 000 pages de littérature scientifique, à une 
 
 Si je me permets de faire un résumé, moi jeune ceinture blanche de la fresque du climat, c'est pour synthétiser ma lecture **qui a duré seulement 2 heures** en prenant le temps de fouiller certaines données, je vous renvoie d'ailleurs à la synthèse de [BonPote](https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/) beaucoup plus complète que la mienne. 
 
-Je le fais aussi [car 1 Français sur 5 (1 sur 2 en 2000)](https://librairie.ademe.fr/changement-climatique-et-energie/4057-representations-sociales-du-changement-climatique-21-eme-vague.html) pense que l'homme n'est pas responsable du changement de climat.
+Je le fais aussi [car 1 Français sur 5 (1 sur 2 en 2000)](https://librairie.ademe.fr/changement-climatique-et-energie/4057-representations-sociales-du-changement-climatique-21-eme-vague.html) pense, aujourd'hui encore, que l'homme n'est pas responsable du changement de climat.
 Sociologiquement, ce sont principalement des personnes de plus de 69 ans de droite ou d'extrême droite. Chez les parlementaires (sénat et assemblée nationale), ce sont seulement 61% des parlementaires de droite, contre 95% de gauche, et 90% la majorité présidentielle, qui ont l'assurance d'une cause anthropique pour le changement climatique, alors que c'est un consensus scientifique. Ils pensent certainement que le changement climatique est un cheval de Troie pour mettre en place le communisme ([voir le documentaire "La fabrique de l'ignorance" d'arte](https://peertube.dc.pini.fr/videos/watch/189464c7-a02b-4667-a6d3-186d3a837611)). Les fameuses "pastèques vertes à l'extérieur et rouges à l'intérieur" dont on entend parler depuis la sortie de la guerre froide. Etonnant, lorsqu'un président de droite, Chirac, parlait [d'ouvrir les yeux dès 2002 car "notre maison brûle" et "qu'on ne pourra pas dire que nous ne savions pas".](https://www.youtube.com/watch?v=wmBeHMmMeBQ).
 
 Et lorsque [certains grands medias](https://twitter.com/MickaCorreia/status/1426098416904454145) continuent d'émettre des doutes sur la science à la manière de Youtubeurs complotistes, ça n'aide pas du tout à la compréhension du problème physique auquel nous devons nous préparer.
@@ -42,7 +42,7 @@ Pas encore convaincu à 100% par la véracité des travaux du GIEC ? Il faut not
 ## Le constat sans précédent
 La concentration de CO2 est la plus haute connue dans l'histoire depuis au moins 2 millions d'années, seuls les *Homo habilis* et *hautengensis* ont pu connaitre ces niveaux (*sapiens* date de -300 000 ans).
 
-Ceci donne que la température moyenne en surface comparée au début de l'ère industriel (1850-1900) a augmenté de plus d'un degré en 2020, et selon les 5 scénarios d'émissions de gaz à effet de serre (coucou le CO2 - énergies fossiles, le CH4 - le méthane des vaches et des rizières, et le NO2 - engrais) qui vont dans le graphique ci-dessous du bleu : sobriété, voilier plutôt que jetski, VTT plutôt que quad, ratatouille plutôt que côte de boeuf, au rouge foncé : [on envoie chaque jour des touristes dans l'espace pour 3min30 de gloire](https://bonpote.com/elon-musk-solution-ou-cauchemar-pour-lenvironnement/). 
+Ceci donne que la température moyenne en surface comparée au début de l'ère industrielle (1850-1900) a augmenté de plus d'un degré en 2020, et selon les 5 scénarios d'émissions de gaz à effet de serre (coucou le CO2 - énergies fossiles, le CH4 - le méthane des vaches et des rizières, et le NO2 - engrais) qui vont dans le graphique ci-dessous du bleu : sobriété, voilier plutôt que jetski, VTT plutôt que quad, ratatouille plutôt que côte de boeuf, au rouge foncé : [on envoie chaque jour des touristes dans l'espace pour 3min30 de gloire](https://bonpote.com/elon-musk-solution-ou-cauchemar-pour-lenvironnement/). 
 
 [Ces 5 scénarios "SSP"](https://www.ecologie.gouv.fr/sites/default/files/ONERC_decouvrir_scenarios_Giec.pdf) (*Shared Socioeconomic Pathways* ou Représentation des évolutions sociales et économiques) possibles physiquement ont des noms relatifs à la puissance du [forçage radiatif](https://bonpote.com/forcage-radiatif-a-la-base-du-changement-climatique/) comparée à avant l'ère industrielle, c'est l'augmentation correspondant à l'énergie, comptée en watt par m², restant sur terre piégée par l'effet de serre. En résumé, plus le chiffre est haut, plus il fait chaud.
 
@@ -54,7 +54,7 @@ Si on regarde le scénario [probable selon l'ONU, le SSP2 - 4.5](https://www.cap
 * 2040 - 2060- mes 50 - 70 ans : +2.0° avec une variance de -/+ 0.5°
 * Après 2060 - après mes 70 ans : +2.7° avec une variance de -/+ 0.8°
 
-Le scénario SSP2-4.5 est basé sur une légère augmentation suivi d'une diminution des gaz à effet de serre vers 2030. La physique nous autorise à passer sur d'autres scénarios encore plus destructeurs: comme le SSP3, 4, et 5.
+Le scénario SSP2-4.5 est basé sur une légère augmentation, suivie d'une diminution des gaz à effet de serre vers 2030. La physique nous autorise à passer sur d'autres scénarios encore plus destructeurs: comme le SSP3, 4, et 5.
 
 {{< figure alt="Figure SPM.4" src="https://user-images.githubusercontent.com/4059615/137589423-71418029-d147-42c0-903d-a38da5295d31.PNG" title="Figure SPM.4" >}}
 
@@ -65,7 +65,7 @@ Si on regarde en France seulement, nous sommes déjà vers les 2 degrés, et la 
 {{< figure alt="Moyenne France" src="https://www.ecologie.gouv.fr/sites/default/files/styles/standard/public/Onerc_Temp%C3%A9rature_France_Moyenne_2017.png?itok=2bapa7tl" title="Source https://www.ecologie.gouv.fr/impacts-du-changement-climatique-atmosphere-temperatures-et-precipitations" >}}
 
 
-**Point "C'est pas sorcier":** 4 degrés en plus, ça ne parait pas grand chose, surtout quand il fait 9 degrés le matin et 21 degré sl'après midi comme dans ce mois d'octobre 2021, mais une analogie avec la témpérature de notre corps, à 37 degrés, tout va bien mais à 41 degrés, on meurt.
+**Point "C'est pas sorcier":** 4 degrés en plus, ça ne parait pas grand chose, surtout quand il fait 9 degrés le matin et 21 degrés l'après midi comme dans ce mois d'octobre 2021, mais une analogie avec la témpérature de notre corps, à 37 degrés, tout va bien mais à 41 degrés, on meurt.
 
 ## L'eau
 
@@ -98,7 +98,7 @@ En terme de puissance des évenements, **il faut retenir qu'un degré en plus c'
 
 **[Gaël Giraud citant le climatologue et directeur de recherche au CNRS Hervé Le Treut](https://www.facebook.com/watch/?v=865409967534133)**
 
-La montée des eaux est liée à la fonte de la calotte glaciaire, des glaciers, mais aussi de l'augmentation de la température de la mer par [dilatation thermique](https://fr.wikipedia.org/wiki/Dilatation_thermique) :
+La montée des eaux est liée à la fonte de la calotte glaciaire, des glaciers, mais aussi à l'augmentation de la température de la mer par [dilatation thermique](https://fr.wikipedia.org/wiki/Dilatation_thermique) :
 
 > A4.3. Thermal expansion explained 50% of sea level rise during 1971–
 2018, while ice loss from glaciers contributed 22%, ice sheets 20% and changes in land water storage 8%.
@@ -118,7 +118,7 @@ emissions scenario (SSP5-8.5), and by 2150 is 0.37-0.86 m under the very low sce
 0.98-1.88 m under the very high scenario (SSP5-8.5)
 - *extrait du résumé pour décideurs (Summary for Policymakers (SPM))*
 
-On peut apprendre dans cet extrait qu'on estime à 0.44m à 0.76m d'élévation du niveau de la mer par rapport à 1950 pour 2100 dans le cas scénario probable ONU SSP2-4.5. Ce chiffre monte est 1 mètre pour le scénario SSP5-8.5. En 2150, date qu'on voit plus rarement, ce scénario nous amènerait entre 1 mètre et 2 mètres d'élévation.
+On peut apprendre dans cet extrait qu'on estime à 0.44m à 0.76m l'élévation du niveau de la mer par rapport à 1950 pour 2100 dans le cas scénario probable ONU SSP2-4.5. Ce chiffre monte à 1 mètre pour le scénario SSP5-8.5. En 2150, date qu'on voit plus rarement, ce scénario nous amènerait entre 1 mètre et 2 mètres d'élévation.
 
 {{< figure alt="Figure SPM.8*" src="https://user-images.githubusercontent.com/4059615/136711143-cdf77876-4fac-45cd-9896-19d70f74e528.png" title="Figure SPM.8*" >}}
 
@@ -157,7 +157,7 @@ Ces épisodes de sécheresses vont devenir plus fréquents et plus forts selon l
 
 **Mercredi 11 août 2021**, toujours à vélo, dans les Cévennes gardoise cette fois ci, un dôme de châleur fait monter la température [à 40 degrés à l'ombre](https://www.midilibre.fr/2021/08/10/meteo-dome-de-chaleur-attendu-a-partir-de-mercredi-sur-loccitanie-400c-prevu-dans-le-gard-9724392.php), j'arrive à destination complètement sèché et sans force. **Nos corps d'*Homo sapiens*** ont clairement des limites et je n'y peux rien malgré ma bonne condition physique. 
 
-Ces quelques dates prises qui m'ont marqué ne sont pas liées au hasard, on apprend dans le graphique plus bas que **la fréquence des épisodes caniculaires extrêmes est 6 fois plus élevée avec un réchauffement à 2 degrés, et 9 fois avec un à 4 degrés.**
+Ces quelques dates qui m'ont marqué ne sont pas liées au hasard, on apprend dans le graphique plus bas que **la fréquence des épisodes caniculaires extrêmes est 6 fois plus élevée avec un réchauffement à 2 degrés, et 9 fois avec un à 4 degrés.**
 
 {{< figure alt="Fréquence des canicules" src="https://user-images.githubusercontent.com/4059615/136711110-c7436a43-dc80-4797-92d7-d83008b6c3e7.png" title="Fréquence des canicules - Figure SPM.6" >}}
 
@@ -179,7 +179,7 @@ Les feux de forêt sont liés à la secheresse, à la température, et au vent. 
 
 Egalement dans le monde, un nouveau record a été battu le [dimanche 8 août 2021, 187 114 incendies ont été relevés dans le monde par les satellites.](https://www.sudouest.fr/environnement/incendies-dans-le-monde-la-planete-brule-nouveau-record-de-nombre-de-feux-detectes-4606665.php)
 
-Une mauvaise nouvelle, les modèles climatiques du GIEC ne prennent pas encore totalement en compte les feux de forêt qui cause une augmentation des gaz à effet de serre.
+Une mauvaise nouvelle, les modèles climatiques du GIEC ne prennent pas encore totalement en compte les feux de forêt qui causent une augmentation des gaz à effet de serre.
 
 > B.4.3 Additional ecosystem responses to warming not yet fully
 included in climate models, such as CO 2 and CH 4 fluxes from wetlands, permafrost thaw and wildfires,
@@ -231,11 +231,11 @@ Si les insectes sont impactés, c'est toute la chaîne qui l'est à son tour :
 > La migration des oiseaux est par exemple impactée : certaines espèces arrivent plus tôt et se retrouvent en décalage avec les ressources alimentaires prélevées auparavant.
 * *[Source Nature France](https://naturefrance.fr/changement-climatique)*
 
-[L'océan s'acidifie par l'absorption du 1/4 du C02 émis](https://bonpote.com/acidification-des-oceans-et-changement-climatique/), c'est génial pour limiter la concentration des gaz à effet de serre, on appelle ça un puit de carbone. Mais cela impacte les coquilles calcaires des [phytoplanctons](https://fr.wikipedia.org/wiki/Prymnesiophyceae) et toute la chaîne alimentaire marine est impactée à son tour. Une boucle de retroaction apparait et fait baisser l’efficacité même de l'océan comme puit de carbone, une des raisons vient des coquilles calcaires qui « stockent » du CO2 et sédimentent si l’acidité n’est pas trop élevée (en complément voir figure SPM7 plus bas).
+[L'océan s'acidifie par l'absorption du 1/4 du C02 émis](https://bonpote.com/acidification-des-oceans-et-changement-climatique/), c'est génial pour limiter la concentration des gaz à effet de serre, on appelle ça un puits de carbone. Mais cela impacte les coquilles calcaires des [phytoplanctons](https://fr.wikipedia.org/wiki/Prymnesiophyceae) et toute la chaîne alimentaire marine est impactée à son tour. Une boucle de retroaction apparait et fait baisser l’efficacité même de l'océan comme puits de carbone, une des raisons vient des coquilles calcaires qui « stockent » du CO2 et sédimentent si l’acidité n’est pas trop élevée (en complément voir figure SPM7 plus bas).
 
 ## Le bouton Stop ? Limiter le futur changement de climat   
 
-Si on arrêtait les emissions demain matin de façon **durable et forte**, c'est à dire pas en rattrapant tout comme avec la reprise post COVID, il faudrait attendre des décénies à des millénaires pour renverser graduellement le climat. C'est à dire que le climat qu'on a connu est perdu.
+Si on arrêtait les emissions demain matin de façon **durable et forte**, c'est à dire pas en rattrapant tout comme avec la reprise post COVID, il faudrait attendre des décénnies à des millénaires pour renverser graduellement le climat. C'est à dire que le climat qu'on a connu est perdu.
 
 > D.1.6 If global net negative CO 2 emissions were to be achieved and be sustained, the global CO 2 -induced surface temperature increase would be gradually reversed but other climate changes would continue in their current direction for decades to millennia (high confidence). For instance, it would take several centuries to millennia for global mean sea level to reverse course even under large net negative CO 2 emissions (high confidence)
 
@@ -267,9 +267,9 @@ durably store it in reservoirs (high confidence).
 
 Comme on parle des puits de carbone, comme les arbres, il faut bien avoir en tête que, [comme le dit Jean Jouzel](https://www.franceinter.fr/emissions/la-terre-au-carre/sans-sobriete-on-n-y-arrivera-pas), **sans sobriété, ça ne marche pas.** Les arbres deviennent même une excuse pour émettre toujours plus. On se sent tellement mieux quand [Air France nous annonce que notre vol est "neutre en CO2"](https://bonpote.com/pourquoi-arreter-lavion-ne-devrait-plus-etre-un-debat/).
 
-L'IPBES nous avertit également que les mesures liées à la technologie peuvent poser de sérieuses ménaces à la biodiversité et la biomasse. (Source: [point 20 du rapport GIEC/IPBES](https://ipbes.net/sites/default/files/2021-06/20210609_workshop_report_embargo_3pm_CEST_10_june_0.pdf))
+L'IPBES nous avertit également que les mesures liées à la technologie peuvent poser de sérieuses menaces à la biodiversité et la biomasse. (Source: [point 20 du rapport GIEC/IPBES](https://ipbes.net/sites/default/files/2021-06/20210609_workshop_report_embargo_3pm_CEST_10_june_0.pdf))
 
-Pour clarifier la contribution à la neutralité carbone, je vois conseille cette vidéo de [Philoxime](https://www.youtube.com/watch?v=l2j8IaLx0Yk).
+Pour clarifier la contribution à la neutralité carbone, je vous conseille cette vidéo de [Philoxime](https://www.youtube.com/watch?v=l2j8IaLx0Yk).
 
 ## Tou·te·s cuit·e·s ?
 Telles les populations *sapiens* primitives il semblerait que nous voulions sacrifier nos enfants aujourd'hui (ou hier) sur un autel de la consommation à excès pour satisfaire le noble dieu du Capital qui est pourtant fournisseur de tant de frustrations. Bernard Maris le raconte si bien ici :
@@ -306,9 +306,9 @@ Cependant, ces accords ont l'objectif d'être à 2 tonnes de tout gaz à effet d
 > Si on débat sur les chiffres on débat pas sur le fond du problème. Le plus grave c'est de parler de chiffres mais pas de la réalité.
 - *Bernard Maris*
 
-Comme le dit si bien Aurélien Barrau, avec un bulldozer à energie solaire, on émet pas de carbone mais on rase quand même la forêt, c'est ça qu'il nomme le "plus grand défi de l'humanité" avec la disparition [de la biomasse (la quantité totale d'organismes vivants) de 67% en 10 ans.](https://www.nature.com/articles/d41586-019-03241-9)
+Comme le dit si bien Aurélien Barrau, avec un bulldozer à energie solaire, on n'émet pas de carbone mais on rase quand même la forêt, c'est ça qu'il nomme le "plus grand défi de l'humanité" avec la disparition [de la biomasse (la quantité totale d'organismes vivants) de 67% en 10 ans.](https://www.nature.com/articles/d41586-019-03241-9)
 
-Ces arguments m'ont fait évoluer, moi qui ai été élevé à la viande à excès, je suis [devenu végétarien](https://yuka.io/regime-vegetarien-sante/), et je diminue mon alimentation venant des animaux (la déforestation est principalement liée à l'agriculture et l'élevage "mobilise 85% des surfaces agricoles" - [*Vers la résilience alimentaire* - Grenier d'abondance](https://resiliencealimentaire.org/page-telechargement-guide/)). je ne vais presque plus en supermarché et les rayons me donnent le tourni par leur opulence de sauce tomates. J'achète de saison (note: [il vaut mieux également végétaliser son alimentation plutôt que de continuer à manger local](https://bonpote.com/wp-content/uploads/2021/05/ALIMENTATION-BON-POTE-1.png)) et biologique (7,5 % de la surface agricole française, *source Grenier d'abondance*, qui utilise des pesticides mais beaucoup moins) en direct producteur, je cuisine beaucoup plus, je n'achète pas ou d'occasion (à part pour mon dernier vélo :x), et [je priviliègie le train et/ou les mobilités actives.](https://monimpacttransport.fr/)
+Ces arguments m'ont fait évoluer, moi qui ai été élevé à la viande à excès, je suis [devenu végétarien](https://yuka.io/regime-vegetarien-sante/), et je diminue mon alimentation venant des animaux (la déforestation est principalement liée à l'agriculture et l'élevage "mobilise 85% des surfaces agricoles" - [*Vers la résilience alimentaire* - Grenier d'abondance](https://resiliencealimentaire.org/page-telechargement-guide/)). Je ne vais presque plus en supermarché et les rayons me donnent le tournis par leur opulence de sauce tomates. J'achète de saison (note: [il vaut mieux également végétaliser son alimentation plutôt que de continuer à manger local](https://bonpote.com/wp-content/uploads/2021/05/ALIMENTATION-BON-POTE-1.png)) et biologique (7,5 % de la surface agricole française, *source Grenier d'abondance*, qui utilise des pesticides mais beaucoup moins) en direct producteur, je cuisine beaucoup plus, je n'achète pas ou d'occasion (à part pour mon dernier vélo :x), et [je priviliègie le train et/ou les mobilités actives.](https://monimpacttransport.fr/)
 
 Tout ceci peut paraitre comme une perte de temps ou alors se priver de choses, mais au contraire je réponds que ça s'appelle vivre la vie à pleine dent. **Et au dessus de tout, ça me permet de me sentir bien dans ma tête et mon corps, tout en montrant l'exemple autour de moi vers une vie bas carbone qui respecte le vivant un minimum.**
 
