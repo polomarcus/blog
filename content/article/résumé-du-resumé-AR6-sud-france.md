@@ -233,9 +233,10 @@ Si les insectes sont impactés, c'est toute la chaîne qui l'est à son tour :
 
 [L'océan s'acidifie par l'absorption du 1/4 du C02 émis](https://bonpote.com/acidification-des-oceans-et-changement-climatique/), c'est génial pour limiter la concentration des gaz à effet de serre, on appelle ça un puits de carbone. Mais cela impacte les coquilles calcaires des [phytoplanctons](https://fr.wikipedia.org/wiki/Prymnesiophyceae) et toute la chaîne alimentaire marine est impactée à son tour. Une boucle de retroaction apparait et fait baisser l’efficacité même de l'océan comme puits de carbone, une des raisons vient des coquilles calcaires qui « stockent » du CO2 et sédimentent si l’acidité n’est pas trop élevée (en complément voir figure SPM7 plus bas).
 
-La mer méditerranée est un des endroits au monde les plus touché en terme de température et de d'acidification
+La mer méditerranée est un des endroits au monde les plus touché en terme de température et 
 
 > Des chercheurs ont mis en évidence les changements très rapides qu’a connu l’eau de mer en Méditerranée nord-occidentale entre 2007 et 2015. “L’augmentation de la température y a été plus rapide que partout ailleurs dans l’océan global et celle de son acidité l’une des plus élevées jamais mesurées dans l’océan. En conséquence, plusieurs organismes sont affectés, ce qui pourrait altérer la chaîne alimentaire méditerranéenne“.
+
 * à lire ici : https://bonpote.com/acidification-des-oceans-et-changement-climatique/
 
 ## Le bouton Stop ? Limiter le futur changement de climat   
