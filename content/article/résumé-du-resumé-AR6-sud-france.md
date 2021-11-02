@@ -128,6 +128,13 @@ Pour creuser le sujet, voici [un article du media BonPote.](https://bonpote.com/
 > Une baisse des précipitations annuelles déjà observée dans le sud de la France
 * *Valérie Masson Delmotte*
 
+> À la fin du siècle, on
+pourrait connaitre des sècheresses comparables à celle
+de 2003 trois à quatre fois par décennie et ces sèche-
+resses pourraient atteindre des zones jusque-là épar-
+gnées, telles que les zones montagneuses.
+* [Cahier Régional Occitanie sur les Changements Climatiques](https://reco-occitanie.org/crocc_2021/)
+
 Cet été [certaines villes n'ont pas eu d'eau potable](https://www.midilibre.fr/2021/08/08/six-villages-gardois-sont-confrontes-a-la-penurie-deau-9720285.php), besoin d'en dire plus ? En général ces zones où il ne pleut presque plus, subiront des crues lors de périodes très courtes qui ne permettent pas de remplir les réserves d'eau.
 
 L'eau est aussi critique dans la production de nourriture :
@@ -145,6 +152,15 @@ Ces épisodes de sécheresses vont devenir plus fréquents et plus forts selon l
 
 {{< figure alt="Figure SPM.6" src="https://user-images.githubusercontent.com/4059615/136845492-903ec8f6-a507-4ff5-a665-e4b5884a8787.png" title="Figure SPM.6" >}}
 
+### Energie
+L'hydroelectricité étant la première source d'énergie renouvelable en France, il est normal de questionner nos besoins en energie dans un scénario de demande grandissant :
+
+> L’hydroélectricité produite dans les Pyrénées ne pourra pas contribuer au 
+réseau électrique français comme par le passé. Ces évolutions interrogent donc la contribution de l’hydroélectricité à la 
+production d’électricité dans les prochaines décennies et la vraisemblance de certains scénarios de mix énergétique.
+* [*Cahier Régional Occitanie sur les 
+Changements Climatiques 2021*](https://reco-occitanie.org/wp-content/uploads/2019/05/RECO-2021-CROCC_re%CC%81sume%CC%81-pour-de%CC%81cideurs_VF-1.pdf)
+
 ## Chaleur
 ### Canicule
 **Août 2003**, j'ai 12 ans, 15% des villes Françaises ont connu des témpératures supérieures à 40°, [cela causera 15 000 morts](https://fr.wikipedia.org/wiki/Canicule_europ%C3%A9enne_d%27ao%C3%BBt_2003#En_France).
@@ -157,7 +173,13 @@ Ces épisodes de sécheresses vont devenir plus fréquents et plus forts selon l
 
 **Mercredi 11 août 2021**, toujours à vélo, dans les Cévennes gardoise cette fois ci, un dôme de châleur fait monter la température [à 40 degrés à l'ombre](https://www.midilibre.fr/2021/08/10/meteo-dome-de-chaleur-attendu-a-partir-de-mercredi-sur-loccitanie-400c-prevu-dans-le-gard-9724392.php), j'arrive à destination complètement sèché et sans force. **Nos corps d'*Homo sapiens*** ont clairement des limites et je n'y peux rien malgré ma bonne condition physique. 
 
-Ces quelques dates qui m'ont marqué ne sont pas liées au hasard, on apprend dans le graphique plus bas que **la fréquence des épisodes caniculaires extrêmes est 6 fois plus élevée avec un réchauffement à 2 degrés, et 9 fois avec un à 4 degrés.**
+> Une étude publiée en juillet 2021 par WWF France confirme ces résultats
+et estime qu’à l’échelle nationale, les français pourraient perdre
+24 jours de pratique par an dans un scénario à +2 °C et jusqu’à
+« 2 mois d’activité sportive par an dans un monde à +4 °C ».
+* [Rapport complet Cahier Régional Occitanie sur les Changements Climatiques page 94](https://reco-occitanie.org/crocc_2021/) 
+
+Ces quelques dates prises qui m'ont marqué ne sont pas liées au hasard, on apprend dans le graphique plus bas que **la fréquence des épisodes caniculaires extrêmes est 6 fois plus élevée avec un réchauffement à 2 degrés, et 9 fois avec un à 4 degrés.**
 
 {{< figure alt="Fréquence des canicules" src="https://user-images.githubusercontent.com/4059615/136711110-c7436a43-dc80-4797-92d7-d83008b6c3e7.png" title="Fréquence des canicules - Figure SPM.6" >}}
 
