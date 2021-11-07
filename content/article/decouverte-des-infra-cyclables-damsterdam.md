@@ -1,6 +1,6 @@
 ---
 title: "Découverte des infrastructures cyclables d'Amsterdam"
-draft: true
+draft: false
 description: "44% de la population se déplace à vélo car il y a des infrastructures continues et sécurisées"
 tags : [
     "velo"
