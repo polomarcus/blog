@@ -25,14 +25,14 @@ Dès qu'on crée un réseau, **peu importe leur culture latine ou nordique**, le
 Mais ce véhicule ne doit pas devenir la norme comme depuis 40 ans :
 * [53% des actifs utilisent leur voiture pour faire des trajets domicile/travail inférieurs à 2 km](https://nitter.net/BonPote/status/1404351441846820864)
 * 4 automobilistes sur 10 font des trajets de moins de 3km (source [Stein Van Oosteren](https://www.placedeslibraires.fr/livre/9782897197131-pourquoi-pas-le-velo-envie-d-une-france-cyclable-stein-van-oosteren/)) se bloquant eux mêmes dans des bouchons monstres 
-
+* [50 % des déplacements de moins de 1 km sont effectués en voiture](https://www.insee.fr/fr/statistiques/5013868) - 1km de marche c'est 13 minutes
 L'**omniprésence** de la voiture, [qu'elle soit electrique ou non](https://twitter.com/VuMars/status/1410663643683954688), doit sortir des villes et de nos vies car elle prend énormement de place apprauvisant la qualité de vie, [jusqu'à 0 parfois en tuant des enfants](https://twitter.com/asso_sixteen), contribuant à la pollution de l'air et [ses 48 000 morts par an en France](https://www.ecologie.gouv.fr/pollution-lair-origines-situation-et-impacts), et est [en France responsable de 15% des gaz à effet de serre.](https://ree.developpement-durable.gouv.fr/themes/defis-environnementaux/changement-climatique/emissions-de-gaz-a-effet-de-serre/article/les-emissions-de-gaz-a-effet-de-serre-du-secteur-des-transports)
 
 >  Principal  émetteur  de  CO2 en France et en Occitanie, le secteur des transports joue un rôle considérable dans le changement climatique.
 * [*Cahier Régional Occitanie sur les 
 Changements Climatiques 2021*](https://reco-occitanie.org/wp-content/uploads/2019/05/RECO-2021-CROCC_re%CC%81sume%CC%81-pour-de%CC%81cideurs_VF-1.pdf)
 
-De plus, à la remarque "Le vélo c'est un truc de bobo", il faut savoir qu'1 salarié sur 4 d'un secteur pas des plus écolo, l'aéroportuaire de Toulouse, ne supporte plus d'être prisonier de sa voiture et souhaite **pouvoir** se déplacer à vélo. Ce qui n'est pas possible car il n'y a pas d'infrastructure cyclable sécurisée.
+De plus, à la remarque "Le vélo c'est un truc de bobo", il faut savoir qu'1 salarié sur 4 d'un secteur pas des plus écolo, l'aéroportuaire de Toulouse, ne supporte plus d'être prisonnier de sa voiture et souhaite **pouvoir** se déplacer à vélo. Ce qui n'est pas possible car il n'y a pas d'infrastructure cyclable sécurisée.
 
 > Des enquêtes menées auprès des salariés du secteur
 aéroportuaire de Toulouse ont ainsi montré que 40 %
@@ -101,6 +101,15 @@ Je l'avais rempli pour la ville de Montpellier avant de partir à Amsterdam de f
 
 {{< figure alt="Il y a eu la guerre sur cette piste cycable" src="https://user-images.githubusercontent.com/4059615/140497916-954e7f9e-0368-4e32-b259-0bad7265eaab.png" title="Une infrastructure cyclable pour rejoindre la voie verte de Maugio au centre commercial Odysséum - qui passerait ici avec ses enfants ?" >}}
 
+
+ ## Un culte de la voiture ou un absence de choix ?
+
+Dès l'apparition d'infrastructure, les habitudes changent. Dans mon milieu rural natif où la voiture est reine, j'ai vu les changements de mentalité [qu'une voie verte de 19 km](http://www.cevennes-tourisme.fr/quissac/voie-verte-quissac-sauve/tabid/2967/offreid/72e7915c-a7fb-4c33-af09-7362e20141ad) provoquée : les parents n'utilisent plus leur voiture pour aller au parc, mais sortent la pousette, certaines personnes vont faire leur marché à vélo dans les villes voisines, des personnes retrouvent le bonheur de marcher, et les adolescents **s'emancipent** de leur parents et de leurs voitures pour aller voir leur amis à pied, skate, rollers ou vélo. *Je les regarde avec beaucoup de jalousie quand je les croise car combien de fois j'ai ralé au près de mes parents pour qu'ils aillent me déposer quelque part en voiture...*
+
+Cependant, lors d'une rencontre entre élus "en transition" [lors du camp climat Languedoc](https://campclimat.eu/2021/10/18/edition-2021/), la mobilité reste absente des discussions malgré son 30% d'empreinte carbone en France.
+
+Lorsque le point est soulevé par votre serviteur, ces élus, je le rappelle "en transition", ont l'audace de dire qu'ils sont "pour" le vélo mais "*la vélo n'est pas dans la culture ici*" alors qu'il n'y a **aucune infrastructure**, "*il y a trop de dénivelé** alors que le **vélo à assistance electrique** a la capacité extraordinaire de mettre au vélo des personnes qui n'en ont pas fait depuis 50 ans, et mon excuse de loin la préférée venant d'un élu de Montbazin (34), "*si on construit une voie verte cela créera un tourisme de masse*" comme si on était entrain **de parler de l'extension d'un aéroport et d'une plage Thaïlandaise.** Sans effort de ces décideurs locaux sensés être les alliés du vélo, la voiture a de beau jours devant elle en milieux ruraux.
+
 ### Contre sens climatique
 Ce genre d'infrastructure cyclable est d'autant plus intolérable que la métropole de Montpellier continue de construire des projets routiers jugés par l'opinion public inutiles [par l'effet du trafic induit](https://fr.wikipedia.org/wiki/Trafic_induit) et coûteux, [comme le dédoublement de l'autoroute A9](https://www.midilibre.fr/2018/05/31/doublement-de-l-a9-un-an-apres-c-est-toujours-la-galere-a-l-entree-de-montpellier,1679491.php), et que d'autres métropoles, [comme Lyon](https://tribunedelyon.fr/2021/09/28/a46-sud-letat-enterre-le-grand-contournement-autoroutier-de-la-metropole-de-lyon), abandonnent ce genre de projets digne de la période Pompidou. 
 > "Alors que la promesse du doublement de l'A9 assurait peu ou prou d’en finir avec eux, les embouteillages aux entrées et sorties, le matin et le soir, sont toujours d’actualité."
@@ -127,3 +136,11 @@ En comparaison, le dédoublement de l'A9 sur [25km avait couté 800M d'euros pou
 
 ## Conclusion
 Pour une population en meilleure santé, qui a plus de temps disponible pour elle et qui respecte l'accord de Paris, il faut **donner le choix** de se déplacer à vélo. Cette possibilité de déplacement apparait dès lors qu'il y a **une infrastructure continue et sécurisée**, c'est à dire pas à base de peinture, et séparée du trafic automobile et piéton. Et le fait qu'une population se déplace à vélo n'a rien à voir avec la culture actuellement en place. La culture apparait seulement après coup.
+
+
+----
+Vous voulez en apprendre plus sur les mobilités ? 
+
+* L'excellente série "Le vélo est le futur de nos mobilité" [de 5 articles de BonPote](https://bonpote.com/le-velo-est-le-futur-de-nos-mobilites-1-5/)
+* Le livre ["Pourquoi pas le vélo?" Stein Van Oosteren 2021](https://www.placedeslibraires.fr/livre/9782897197131-pourquoi-pas-le-velo-envie-d-une-france-cyclable-stein-van-oosteren/)
+* L'apero mensuel de votre asso mobilité de votre ville
