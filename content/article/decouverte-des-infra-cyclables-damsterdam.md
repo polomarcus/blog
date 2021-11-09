@@ -25,7 +25,8 @@ Dès qu'on crée un réseau, **peu importe leur culture latine ou nordique**, le
 Mais ce véhicule ne doit pas devenir la norme comme depuis 40 ans :
 * [53% des actifs utilisent leur voiture pour faire des trajets domicile/travail inférieurs à 2 km](https://nitter.net/BonPote/status/1404351441846820864)
 * 4 automobilistes sur 10 font des trajets de moins de 3km (source [Stein Van Oosteren](https://www.placedeslibraires.fr/livre/9782897197131-pourquoi-pas-le-velo-envie-d-une-france-cyclable-stein-van-oosteren/)) se bloquant eux mêmes dans des bouchons monstres 
-* [50 % des déplacements de moins de 1 km sont effectués en voiture](https://www.insee.fr/fr/statistiques/5013868) - 1km de marche c'est 13 minutes
+* [50 % des déplacements de moins de 1 km sont effectués en voiture](https://www.insee.fr/fr/statistiques/5013868) - *rappel : 1km de marche c'est 13 minutes*
+
 L'**omniprésence** de la voiture, [qu'elle soit electrique ou non](https://twitter.com/VuMars/status/1410663643683954688), doit sortir des villes et de nos vies car elle prend énormement de place apprauvisant la qualité de vie, [jusqu'à 0 parfois en tuant des enfants](https://twitter.com/asso_sixteen), contribuant à la pollution de l'air et [ses 48 000 morts par an en France](https://www.ecologie.gouv.fr/pollution-lair-origines-situation-et-impacts), et est [en France responsable de 15% des gaz à effet de serre.](https://ree.developpement-durable.gouv.fr/themes/defis-environnementaux/changement-climatique/emissions-de-gaz-a-effet-de-serre/article/les-emissions-de-gaz-a-effet-de-serre-du-secteur-des-transports)
 
 >  Principal  émetteur  de  CO2 en France et en Occitanie, le secteur des transports joue un rôle considérable dans le changement climatique.
