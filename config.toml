@@ -1,6 +1,7 @@
 baseURL = "https://polomarcus.github.io/blog/"
-languageCode = "fr-fr"
+languageCode = "fr"
 title = "Blog"
+defaultContentLanguage = 'fr'
 description = """
 "Des nains sur des épaules de géants" - Bernard de Chartres
 
@@ -45,9 +46,8 @@ gtagId = "G-W1N7B2KENY"
 favicon = "favicons/"
 displayMode = "dark"
 contentratio = 0.78
-singleDateFormat = "1 January 2006"
-indexDateFormat = "1 January 2006"
-listDateFormat = "January 2"
+singleDateFormat = "2006-01-02"
+indexDateFormat = "2006-01-02"
 readMore = true
 
 [taxonomies]
@@ -58,7 +58,7 @@ readMore = true
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "Github"
-url = "https://www.github.com/polomarcus"
+url = "https://github.com/polomarcus/blog"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
