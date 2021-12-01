@@ -40,35 +40,35 @@ En 30 ans, les espaces agricoles à haute valeur naturelle, intimement associée
 
 En 30 ans, [les zones urbaines ont plus que doublé.](https://ipbes.net/news/Media-Release-Global-Assessment-Fr)
 
-En 30 ans, le CAC40 est passé de 2000 à son record historique à 6900 points, pour toujours plus de personnes vivant sous le seuil de pauvreté.
+En 30 ans, le CAC40 est passé de 2000 à son record historique à 6900 points, pour toujours plus de personnes vivantes sous le seuil de pauvreté.
 
-En 30 ans, on est passé de [120 à 2095 milliardaires](https://en.wikipedia.org/wiki/Billionaire#Statistics), rappel pour devenir un milliardaire il faut par exemple toucher pendant 273 ans 10 000€ par jour. Pour arriver [à 62 personnes qui possèdent plus que 3.5 milliards de personnes](https://www.oxfam.org/fr/communiques-presse/62-personnes-possedent-autant-que-la-moitie-de-la-population-mondiale), et [1% des personnes qui détiennent 50% des richesses.](https://www.oxfamfrance.org/inegalites-et-justice-fiscale/campagne-camera-cachee-terrasse-1-oxfam/)
+En 30 ans, on est passé de [120 à 2095 milliardaires](https://en.wikipedia.org/wiki/Billionaire#Statistics), *rappel pour devenir un milliardaire il faut par exemple toucher pendant 273 ans 10 000€ par jour.* Pour arriver [à 62 personnes qui possèdent plus que 3.5 milliards de personnes](https://www.oxfam.org/fr/communiques-presse/62-personnes-possedent-autant-que-la-moitie-de-la-population-mondiale), et [1% des personnes qui détiennent 50% des richesses.](https://www.oxfamfrance.org/inegalites-et-justice-fiscale/campagne-camera-cachee-terrasse-1-oxfam/)
 
 En 30 ans, 1/4 des français, [et pas les plus stupides et pas forcément les plus vieux](https://twitter.com/GG_RMC/status/1146353941883576320?), ne pensent pas que le réchauffement climatique est lié aux activités humaines, alors que c'est la première étape pour remettre en question notre société productiviste.
 
 En 30 ans, toujours 80% de l’énergie mondiale utilisée pour nos sociétés est à base d’énergies fossiles: charbon, gaz et pétrole, et la consommation totale continue d'augmenter. [Source BP stats review - Page 10](https://www.planete-energies.com/sites/default/files/atoms/files/bp-stats-review-2020-full-report.pdf)
 
-En 30 ans, certains réalisent que ce monde tourne pas rond, et ceux qui le peuvent [quittent leur boulot "à la con"](https://www.france24.com/fr/%C3%A9co-tech/20211015-aux-%C3%A9tats-unis-le-myst%C3%A8re-de-la-grande-d%C3%A9mission-de-millions-d-am%C3%A9ricains) ce qui gènere le phénomène du ["Big Quit"](https://en.wikipedia.org/wiki/Great_Resignation). Ces personnes commencent à critiquer l'utilité de leur travail de surproduction. Ils veulent d'autres imaginaires et de réussites sociales car cela fait longtemps qu'ils savent qu'une voiture de sport neuve n'apporte pas le bonheur.
+En 30 ans, certains réalisent que ce monde ne tourne pas rond, et ceux qui le peuvent [quittent leur boulot "à la con"](https://www.france24.com/fr/%C3%A9co-tech/20211015-aux-%C3%A9tats-unis-le-myst%C3%A8re-de-la-grande-d%C3%A9mission-de-millions-d-am%C3%A9ricains) ce qui gènere le phénomène du ["Big Quit"](https://en.wikipedia.org/wiki/Great_Resignation). Ces personnes commencent à critiquer l'utilité de leur travail de surproduction. Ils veulent d'autres imaginaires et d'autres symbôles de réussites sociales car cela fait longtemps qu'ils savent qu'une voiture de sport neuve n'apporte pas le bonheur.
 
-En 30 ans, la hausse moyenne globale des températures monte pour maintenant atteindre 1.2 degré comparé à 1850, sachant qu'à partir de 1.5 degré le GIEC parle d'insécurité alimentaire généralisée qui est [le premier ferment d'instabilité sociale et de conflits armés.](https://www.lemonde.fr/planete/article/2011/08/26/de-l-effet-du-climat-sur-les-conflits-armes_1563741_3244.html)
+En 30 ans, la moyenne globale des températures monte pour maintenant atteindre 1.2 degré comparé à 1850, sachant qu'à partir de 1.5 degré le GIEC parle d'insécurité alimentaire généralisée qui est [le premier ferment d'instabilité sociale et de conflits armés.](https://www.lemonde.fr/planete/article/2011/08/26/de-l-effet-du-climat-sur-les-conflits-armes_1563741_3244.html)
 
 {{< figure alt="" src="https://img.lemde.fr/2011/08/26/0/0/634/394/664/0/75/0/ill_1563780_05c3_graph_food-revoltes_arabes.jpg" title="Coïncidence entre la courbe de l'index des prix de la FAO (en noir) et le déclenchement de conflits (en rouge). NEW ENGLAND COMPLEX SYSTEMS INSTITUTE" >}}
 
 ## Dans 30 ans
 Dans 30 ans, [l'ONU estime entre 200 et 500 millions de réfugiés climatique](https://www.francetvinfo.fr/meteo/climat/climat-des-refugies-climatiques-s-exilent-deja-de-leurs-terresinhabitables_4835341.html). Et nous n'arrivons pas [à gérer le flux actuel de façon humaine.](https://www.sosmediterranee.fr/medias/rapportactivite2020.pdf)
 
-Dans 30 ans, avec la 6eme extinction de masse, [l'IPBES, le GIEC de la biodiversité, estime à 1 million d'espèces animales et végétales seront, ou qui sont déjà aujourd'hui, menacées d'extinction](https://ipbes.net/sites/default/files/2020-02/ipbes_global_assessment_report_summary_for_policymakers_fr.pdf)
+Dans 30 ans, avec la 6eme extinction de masse, [l'IPBES, le GIEC de la biodiversité, estime à 1 million d'espèces animales et végétales qui seront, ou qui sont déjà aujourd'hui, menacées d'extinction](https://ipbes.net/sites/default/files/2020-02/ipbes_global_assessment_report_summary_for_policymakers_fr.pdf)
 
 Dans 30 ans, [38 % à 46 % des espèces animales et végétales pourraient disparaître de la planète.](https://lejournal.cnrs.fr/articles/biodiversite-letat-durgence)
 
-Dans 30 ans, ceux aux pouvoirs pour limiter la fréquence des catastrophes et une recession économique subie doivent imposer à notre système productiviste **une diminution de 4% de nos emissions de gaz à effet de serre** pour atteindre 0 dans 30 ans.
-Ce rythme de ralentissement à atteindre correspond au confinement mondiale de 2020, **à faire tous les ans, pendant 30 ans.** 
+Dans 30 ans, ceux aux pouvoirs pour limiter la fréquence des catastrophes et une recession économique subie doivent imposer à notre système productiviste **de n'émettre plus de gaz à effet de serre** qui ne soient pas capturés par un puit de carbone. 
+C'est à dire une diminution de 4% par an. Ce rythme de ralentissement à atteindre correspond au confinement mondiale de 2020, **à faire tous les ans, pendant 30 ans.** 
 
 Dans 30 ans, la stratégie nationale bas carbone vise la neutralité carbone, et le travail a déjà commencé grâce à l'ADEME, la CEREMA, la convention citoyenne pour le climat, et la haut conseil pour le climat. Grâce à nous, à la pression citoyenne des marches pour le climat et aux gilets jaunes.
 
 ## Nous n'avons plus 30 ans 
-Nous sommes restés profondément intoxiqués par la mythologie de la croissance, et comme en 1970, nous n'arrivons même pas à imaginer "d'autres alternatives", comme le disait Tchatcher il y a 40 ans, avec une vision du possible et du faisable indigentes. 
-Nous n'écoutons pas les scientifiques alors que nous nous réclamons pro-science et du progrès :
+Nous sommes restés profondément intoxiqués par la mythologie de la croissance, et nous n'arrivons même pas à imaginer "d'autres alternatives", comme le disait Tchatcher il y a 50 ans, avec une vision du possible et du faisable indigentes. 
+Nous n'écoutons pas les scientifiques alors que nous nous réclamons pro-science :
 
 > permettre des visions d’une bonne qualité de vie qui 
 n’impliquent pas une consommation matérielle toujours 
@@ -85,15 +85,17 @@ Des mirages de solutions existent pour nous faire dormir tranquilles jusqu'en 21
 
 * Une solution viendrait de la bouteille d'Évian recyclée, *mais jusqu'à combien de fois recyclable ?*
 
-* Une autre solution de la voiture électrique, mais presque [tout aussi polluante sur son cycle de vie selon le pays où est produit l'electricité.](https://www.youtube.com/watch?v=zjaUqUozwdc)
+* La voiture électrique, mais presque [tout aussi polluante sur son cycle de vie selon le pays où est produit l'electricité.](https://www.youtube.com/watch?v=zjaUqUozwdc)
 
-* [De l'avion vert](https://youtu.be/HR-sZlRqpPk?t=351), sachant qu'il faudrait [40 réacteurs nucléaires pour faire voler les passagers annuels de l'aéroport de Genève soit 16 millions de passager](https://youtu.be/HR-sZlRqpPk?t=581), ou 2900 éoliennes qui tourne à plein régime pendant 1 an pour faire un seul aller retour long-courrier, soit [258 600 L de kérozène](https://youtu.be/HR-sZlRqpPk?t=723).
+* [L'avion vert](https://youtu.be/HR-sZlRqpPk?t=351), sachant qu'il faudrait [40 réacteurs nucléaires pour faire voler les passagers annuels de l'aéroport de Genève soit 16 millions de passager](https://youtu.be/HR-sZlRqpPk?t=581), ou 2900 éoliennes qui tournent à plein régime pendant 1 an pour faire un seul aller retour long-courrier, soit [258 600 L de kérozène](https://youtu.be/HR-sZlRqpPk?t=723).
 
-* Du tour de France et son cortège de camions et de voitures, où les coureurs [ne jettent plus leur bidons](https://www.francetvinfo.fr/sports/cyclisme/environnement-la-chasse-aux-bidons-sur-le-tour-de-france_4688821.html).
+* Ne vous inquiètez pas pour le tour de France et son cortège de camions et de voitures, où les coureurs [ne jettent maintenant plus leur bidons](https://www.francetvinfo.fr/sports/cyclisme/environnement-la-chasse-aux-bidons-sur-le-tour-de-france_4688821.html).
 
-* De la F1 qui ne pollue plus avec [son carburant duracle miraculeux](https://bonpote.com/la-neutralite-carbone-nouveau-greenwashing-ou-reelle-avancee/) fait à partir de dechet.
+* La logistique de la F1 peut continuer [à faire le tour du monde] car elle ne pollue plus avec [son carburant duracle miraculeux](https://bonpote.com/la-neutralite-carbone-nouveau-greenwashing-ou-reelle-avancee/) fait à partir de dechet. Alors que l'essence ne represente que seulement [0.7% de leur empreinte carbone](https://corp.formula1.com/wp-content/uploads/2019/11/Environmental-sustainability-Corp-website-vFINAL.pdf?). D'ailleurs, l'industrie jure d'être neutre en carbone en 2030, dans 9 ans donc. Rappel: Plus la date annoncée pour être neutre en carbone est tôt, plus le bullshit est gros.
 
-* Une technologie qui viendra nous sauver, [alors qu'on gagne 0.5 péniblement d'efficacité energique par an depuis 20 ans, et que tout ce qui a été gagné en efficacité a été compensé par une augmentation des usages par effet rebond.](https://www.youtube.com/watch?v=ed-i5pOwm3Q) 
+* La coupe du monde au [Qatar de 2022 sera "the first-ever carbon neutral FIFA World Cup™" dans le texte](https://www.qatar2022.qa/en/news/qatar-on-track-to-meet-carbon-neutral-commitments-for-fifa-world-cup), ça commence à être gros, non ?
+
+* Une technologie qui n'existe pas encore viendra nous sauver, [alors qu'on gagne 0.5 péniblement d'efficacité energique par an depuis 20 ans, et que tout ce qui a été gagné en efficacité a été compensé par une augmentation des usages par effet rebond.](https://www.youtube.com/watch?v=ed-i5pOwm3Q) 
 
 > La desaccoutumance de la croissance sera douleureuse. Elle sera douloureuse pour la génération de transition, et surtout pour les plus intoxiqués de ses membres.
 * Ivan Illich - La convivialité
