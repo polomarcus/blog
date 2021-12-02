@@ -1,6 +1,6 @@
 ---
 title: "En 30 ans, dans 30 ans"
-draft: true
+draft: false
 description: "Il y a 30 ans la majeure partie des prix Nobel en sciences émettait un avertissement à l'humanité, étant une civilisation basée sur la science tout devrait bien aller aujourd'hui, non ?"
 date: 2021-12-02
 thumbnail: "images/30ans.png"
@@ -16,11 +16,15 @@ Je ne peux que constater en relisant les faits listés que le paradoxe de notre 
 J'ai pour la plus part du temps sourcé l'information que je vous invite à vérifier [et à compléter.](https://github.com/polomarcus/blog)
 
 ## En 30 ans
-En 30 ans, la consommation énergétique moyenne [d’un individu en France a triplé.](https://www.enercoop.fr/content/la-sobriete-energetique-un-concept-pas-si-retrograde)
+En 30 ans, la consommation énergétique moyenne [d’un individu dans le monde a augmenté de 27%.](https://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE)
 
 En 30 ans, le niveau moyen des mers [a augmenté de 9 cm](https://sealevel.nasa.gov/understanding-sea-level/global-sea-level/overview), 11 cm en méditerranée.
 
 En 30 ans, la température moyenne en mer méditerranée se réchauffe à un taux 20% plus rapide que la moyenne mondiale et [a augmenté de 1.27°C.](http://www.calanques-parcnational.fr/fr/actualites/journee-mondiale-des-oceans-ca-chauffe-en-mediterranee)
+
+En 30 ans, la quantité de C02 dans l'atmosphère est passé de 354 à 412 parties par million augmentant l'effet de serre et son [forçage radiatif](https://bonpote.com/forcage-radiatif-a-la-base-du-changement-climatique/).
+
+{{< figure alt="" src="https://gml.noaa.gov/webdata/ccgg/trends/co2_trend_all_gl.png" title="Moyenne mensuelle de CO2 dans l'atmosphère" >}}
 
 En 30 ans, [80% des insectes ont disparu en Europe.](https://media.nature.com/original/magazine-assets/d41586-019-03241-9/d41586-019-03241-9.pdf)
 
@@ -46,7 +50,9 @@ En 30 ans, on est passé de [120 à 2095 milliardaires](https://en.wikipedia.org
 
 En 30 ans, 1/4 des français, [et pas les plus stupides et pas forcément les plus vieux](https://twitter.com/GG_RMC/status/1146353941883576320?), ne pensent pas que le réchauffement climatique est lié aux activités humaines, alors que c'est la première étape pour remettre en question notre société productiviste.
 
-En 30 ans, toujours 80% de l’énergie mondiale utilisée pour nos sociétés est à base d’énergies fossiles: charbon, gaz et pétrole, et la consommation totale continue d'augmenter. [Source BP stats review - Page 10](https://www.planete-energies.com/sites/default/files/atoms/files/bp-stats-review-2020-full-report.pdf)
+En 30 ans, toujours 80% de l’énergie mondiale utilisée pour nos sociétés est à base d’énergies fossiles: charbon, gaz et pétrole et a plus que doublé. [ministère de la transition écologique - Page 37](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-11/datalab_70_chiffres_cles_energie_edition_2020_septembre2020_1.pdf)
+
+{{< figure alt="Les energies fossiles passent de 4.5 milliards de tonnes équivalent pétrole à 10.5" src="/blog/images/energy-consumption.png" title="Les énergies fossiles sont à la base de nos sociétés" >}}
 
 En 30 ans, certains réalisent que ce monde ne tourne pas rond, et ceux qui le peuvent [quittent leur boulot "à la con"](https://www.france24.com/fr/%C3%A9co-tech/20211015-aux-%C3%A9tats-unis-le-myst%C3%A8re-de-la-grande-d%C3%A9mission-de-millions-d-am%C3%A9ricains) ce qui gènere le phénomène du ["Big Quit"](https://en.wikipedia.org/wiki/Great_Resignation). Ces personnes commencent à critiquer l'utilité de leur travail de surproduction. Ils veulent d'autres imaginaires et d'autres symbôles de réussites sociales car cela fait longtemps qu'ils savent qu'une voiture de sport neuve n'apporte pas le bonheur.
 
@@ -91,7 +97,7 @@ Des mirages de solutions existent pour nous faire dormir tranquilles jusqu'en 21
 
 * Ne vous inquiètez pas pour le tour de France et son cortège de camions et de voitures, où les coureurs [ne jettent maintenant plus leur bidons](https://www.francetvinfo.fr/sports/cyclisme/environnement-la-chasse-aux-bidons-sur-le-tour-de-france_4688821.html).
 
-* La logistique de la F1 peut continuer [à faire le tour du monde] car elle ne pollue plus avec [son carburant duracle miraculeux](https://bonpote.com/la-neutralite-carbone-nouveau-greenwashing-ou-reelle-avancee/) fait à partir de dechet. Alors que l'essence ne represente que seulement [0.7% de leur empreinte carbone](https://corp.formula1.com/wp-content/uploads/2019/11/Environmental-sustainability-Corp-website-vFINAL.pdf?). D'ailleurs, l'industrie jure d'être neutre en carbone en 2030, dans 9 ans donc. Rappel: Plus la date annoncée pour être neutre en carbone est tôt, plus le bullshit est gros.
+* La logistique de la F1 peut continuer [à faire le tour du monde](https://bonpote.com/le-sport-de-haut-niveau-est-il-un-non-sens-ecologique/) car elle ne pollue plus avec [son carburant duracle miraculeux](https://bonpote.com/la-neutralite-carbone-nouveau-greenwashing-ou-reelle-avancee/) fait à partir de dechet. Alors que l'essence ne represente que seulement [0.7% de leur empreinte carbone](https://corp.formula1.com/wp-content/uploads/2019/11/Environmental-sustainability-Corp-website-vFINAL.pdf). D'ailleurs, l'industrie jure d'être neutre en carbone en 2030, dans 9 ans donc. Rappel: Plus la date annoncée pour être neutre en carbone est tôt, plus le bullshit est gros.
 
 * La coupe du monde au [Qatar de 2022 sera "the first-ever carbon neutral FIFA World Cup™" dans le texte](https://www.qatar2022.qa/en/news/qatar-on-track-to-meet-carbon-neutral-commitments-for-fifa-world-cup), ça commence à être gros, non ?
 
