@@ -97,7 +97,7 @@ Des mirages de solutions existent pour nous faire dormir tranquilles jusqu'en 21
 
 * Ne vous inquiètez pas pour le tour de France et son cortège de camions et de voitures, où les coureurs [ne jettent maintenant plus leur bidons](https://www.francetvinfo.fr/sports/cyclisme/environnement-la-chasse-aux-bidons-sur-le-tour-de-france_4688821.html).
 
-* La logistique de la F1 peut continuer [à faire le tour du monde](https://bonpote.com/le-sport-de-haut-niveau-est-il-un-non-sens-ecologique/) car elle ne pollue plus avec [son carburant duracle miraculeux](https://bonpote.com/la-neutralite-carbone-nouveau-greenwashing-ou-reelle-avancee/) fait à partir de dechet. Alors que l'essence ne represente que seulement [0.7% de leur empreinte carbone](https://corp.formula1.com/wp-content/uploads/2019/11/Environmental-sustainability-Corp-website-vFINAL.pdf). D'ailleurs, l'industrie jure d'être neutre en carbone en 2030, dans 9 ans donc. Rappel: Plus la date annoncée pour être neutre en carbone est tôt, plus le bullshit est gros.
+* La logistique de la F1 peut continuer [à faire le tour du monde](https://bonpote.com/le-sport-de-haut-niveau-est-il-un-non-sens-ecologique/) car elle ne pollue plus avec [son carburant durable miraculeux](https://bonpote.com/la-neutralite-carbone-nouveau-greenwashing-ou-reelle-avancee/) fait à partir de dechet. Alors que l'essence ne represente que seulement [0.7% de leur empreinte carbone](https://corp.formula1.com/wp-content/uploads/2019/11/Environmental-sustainability-Corp-website-vFINAL.pdf). D'ailleurs, l'industrie jure d'être neutre en carbone en 2030, dans 9 ans donc. Rappel: Plus la date annoncée pour être neutre en carbone est tôt, plus le bullshit est gros.
 
 * La coupe du monde au [Qatar de 2022 sera "the first-ever carbon neutral FIFA World Cup™" dans le texte](https://www.qatar2022.qa/en/news/qatar-on-track-to-meet-carbon-neutral-commitments-for-fifa-world-cup), ça commence à être gros, non ?
 
@@ -118,7 +118,7 @@ devraient se poursuivre jusqu’en 2050 et au-delà, en
 raison des incidences prévues des changements 
 d’utilisation des terres et des mers, de l’exploitation des 
 organismes et des changements climatiques croissants.
-* Point C4, résumé pour décideurs - IPBES
+* Point C4, [résumé pour décideurs - IPBES](https://ipbes.net/sites/default/files/2020-02/ipbes_global_assessment_report_summary_for_policymakers_fr.pdf)
 
 Au délà de la nécessité de changer, faire évoluer nos imaginaires nous permettra surtout d'avoir plus de temps libre, libéré de notre cage à hamster voulant toujours tourner plus vite, pour nos familles, nos amis, nos nouvelles passions. *Saurais tu me dire si tu as au moins 12 passions ?*
 
@@ -130,10 +130,10 @@ Et quand on sera rassasié de tout ce bonheur, on aura enfin du temps pour réfl
 > L'habitude de l'inattention doit être considérée comme le plus grand vice de l'esprit démocratique.
 * Alexis de Tocqueville - De la démocratie en Amerique
 
-
+---
 Le désastre est en cours et ne relève pas d'une projection à long terme.
 
-Réévaluons les évidences et les certitudes trop bien établies, entrons en résistance. Mettons fin aux energies fossiles.
+Réévaluons les évidences et les certitudes trop bien établies, entrons en résistance. **Mettons fin aux energies fossiles.**
 
 
 **Nous n'avons plus 30 ans à perdre, j'ai 30 ans.**
