@@ -106,7 +106,7 @@ Des mirages de solutions existent pour nous faire dormir tranquilles jusqu'en 21
 > La desaccoutumance de la croissance sera douleureuse. Elle sera douloureuse pour la génération de transition, et surtout pour les plus intoxiqués de ses membres.
 * Ivan Illich - La convivialité
 
-Cet eco-blanchissement qui ne questionne pas notre consommation infinie de ressources et d'énergie nous cache l'évidence : [une transition](https://transitions2050.ademe.fr/) vers [la sobriété et une société moins productive est nécessaire](https://www.franceinter.fr/emissions/la-terre-au-carre/sans-sobriete-on-n-y-arrivera-pas) mais sera aussi plus joyeuse. *Adios* le quad mais bonjour les joies du VTT, bye bye la moto neige, bienvenue aux balades en raquettes, ciao le weekend de 3j à Dubaï pour un weekend en camargues, *mais tant qu'elle reste insubmersible.* 
+Cet eco-blanchissement qui ne questionne pas notre consommation infinie de ressources et d'énergie nous cache l'évidence : [une transition](https://transitions2050.ademe.fr/) vers [la sobriété et une société moins productive est nécessaire](https://www.franceinter.fr/emissions/la-terre-au-carre/sans-sobriete-on-n-y-arrivera-pas) mais sera aussi plus joyeuse. *Adios* le quad mais bonjour les joies du VTT, bye bye la moto neige, bienvenue aux balades en raquettes, ciao le weekend de 3j à Dubaï pour un weekend en Camargue, *mais tant qu'elle reste insubmersible.*
 
 Ce refus de regarder la science en face doit être considéré comme **criminel**. Vous trouvez ça extrême de dire ça ? Voici ce que dit le GIEC de la biodiversité, l'IPBES :
 
