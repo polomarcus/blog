@@ -1,0 +1,45 @@
+blockquote {
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 10px;
+    color: var(--heading-color);
+    border-left: 0.30em solid var(--chr-p-color);
+    font-style: italic;
+}
+.sidebar .logo-title {
+    padding-top: 40px !important;
+}
+
+.content {
+    margin-top: 0px;
+}
+
+figcaption h4 {
+    margin: 0
+}
+.post .post-title h1 {
+    text-transform: none;
+    margin-top: 10px;
+}
+
+.post .post-thumbnail {
+    padding-bottom: 0em;
+}
+
+.sidebar .logo-title .title h3 {
+    margin: 0em;
+}
+
+@media screen and (max-width: 600px) {
+    .sidebar .description {
+        display: none;
+    }
+
+    .sidebar .title img {
+        display: none;
+    }
+
+    .post {
+        margin: 10px
+    }
+}

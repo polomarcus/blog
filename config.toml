@@ -9,7 +9,7 @@ Data, climat, sports, congé paternité
 """
 theme = "anatole"
 enableEmoji = true
-
+summarylength = 10
 [menu]
 
   [[menu.main]]
@@ -42,9 +42,10 @@ description = """
 Data, climat, sports, congé paternité
 """
 profilePicture = "https://avatars.githubusercontent.com/u/4059615?v=4"
+customCss = ["css/custom.css"]
 gtagId = "G-W1N7B2KENY"
 favicon = "favicons/"
-displayMode = "dark"
+#displayMode = "dark"
 contentratio = 0.78
 singleDateFormat = "2006-01-02"
 indexDateFormat = "2006-01-02"

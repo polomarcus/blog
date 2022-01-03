@@ -1,6 +1,10 @@
 # Blog
 To centralize my blog posts from dev.to / medium
 
+## Code
+```
+hugo serve --buildDrafts --buildFuture
+```
 ## Blog engine
 https://gohugo.io/getting-started/
 
