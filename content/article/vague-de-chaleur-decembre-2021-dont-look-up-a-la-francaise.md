@@ -21,7 +21,7 @@ Des nouveaux records de températures ont été établis dans plusieurs villes :
 
 Et c'est une tendance de fond de plus en plus fréquente :
 
-> Parmi les 20 périodes en fin d’années les plus douces à l’échelle de la France depuis 1947 (24 au 31 décembre), on dénombre huit années appartenant au 21e siècle: 2002, 2015, 2012, 2013, 2017, 2009, 2019 et 2021 [source Météo-France.][https://twitter.com/meteofrance/status/1475793593860304897]
+> Parmi les 20 périodes en fin d’années les plus douces à l’échelle de la France depuis 1947 (24 au 31 décembre), on dénombre huit années appartenant au 21e siècle: 2002, 2015, 2012, 2013, 2017, 2009, 2019 et 2021 [source Météo-France.](https://twitter.com/meteofrance/status/1475793593860304897)
 
 Lors du rapport du groupe 1 du GIEC de 2021, l'augmentation des extrêmes de chaleur liée au changement climatique venant de la consommation d'énergies fossiles des Hommes est claire :
 
@@ -90,7 +90,7 @@ Ce même prévisionniste de Météo France a été interviewé par les journalis
 
 
 [Au 13h de France 2 du 30 décembre](https://www.francetvinfo.fr/meteo/climat/meteo-des-temperatures-tres-douces-pour-la-derniere-semaine-de-l-annee-2021_4898877.html), nous avons droit à 1min30 (noter la durée) sur le sujet, **mais sans évoquer l'augmentation des fréquences liée au changement climatique.** 
-Apparement, la courte intervion de Jean Yves Choplin 2 jours avant n'a pas marqué les journalistes qui ont préparé le sujet. Chloé Nabédian, celle qui présente ce sujet, est ["journaliste spécialisée sur l'environnement et le climat" et a déjà couvert la COP21](https://fr.wikipedia.org/wiki/Chlo%C3%A9_Nab%C3%A9dian). Elle avait parlé du changement climatique pour le même genre de sujet dans [un JT de France 2 en 2016](https://www.youtube.com/watch?v=rhqtw4EUCUQ). Pourquoi une personne compétente sur le sujet n'en parle pas tout simplement pas ? Limite de temps ? Excuses des vacances de Noël ? Le manque de régularité pose questions.
+Apparement, la courte intervion de Jean Yves Choplin 2 jours avant n'a pas marqué les journalistes qui ont préparé le sujet. Chloé Nabédian, celle qui présente ce sujet, est ["journaliste spécialisée sur l'environnement et le climat" et a déjà couvert la COP21](https://fr.wikipedia.org/wiki/Chlo%C3%A9_Nab%C3%A9dian). Elle avait parlé du changement climatique pour le même genre de sujet dans [un JT de France 2 en 2016](https://www.youtube.com/watch?v=rhqtw4EUCUQ). Pourquoi une personne compétente sur le sujet n'en parle tout simplement pas : Limite de temps ? Excuses des vacances de Noël ? Le manque de régularité pose questions.
 
 {{< figure alt="La fonte de la banquise et les températures extrêmes au Groenland" src="/blog/images/dontlookup/2016.png" title="Dans ce reportage de 2016 par la même journaliste, le constat était clair" >}}
 
