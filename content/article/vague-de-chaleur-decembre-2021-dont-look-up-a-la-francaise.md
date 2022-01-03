@@ -2,7 +2,7 @@
 title: "Chaleur de décembre : 'Don't Look Up' version Française ?"
 draft: false
 description: "Analyse des JTs regardés par 10 millions de personnes chaque soir. Le journal télé est la fin d’un téléphone arabe dont vous ne connaissez ni le nombre de maillons intermédiaires, ni la qualité de transmission entre chaque maillon"
-date: 2022-01-03T16:50:07+02:00
+date: 2022-01-03T08:50:07+02:00
 thumbnail: "images/dontlookup/dont-look.png"
 images:
     - "images/dontlookup/dont-look.png"
