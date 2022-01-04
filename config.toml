@@ -39,8 +39,7 @@ author = "Paul Leclercq 🦕"
 description = """
 "Des nains sur des épaules de géants" - Bernard de Chartres
 
-Data, climat, sports, congé paternité
-"""
+Data, climat, sports, congé paternité"""
 profilePicture = "https://avatars.githubusercontent.com/u/4059615?v=4"
 customCss = ["css/custom.css"]
 gtagId = "G-W1N7B2KENY"
