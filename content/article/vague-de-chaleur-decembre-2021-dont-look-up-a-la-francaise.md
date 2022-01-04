@@ -15,7 +15,9 @@ Il y a eu fin décembre 2021 des records de température dans tout le sud de l'E
 
 {{< twitter_simple 1477651622201282560 >}}
 
-## Avant propos : les faits de sources sûres
+## Avant propos
+Je liste les les faits de sources sûres avant de commencer car après plusieurs reportages j'ai moi même commencé à douter de l'effet du changement climatique sur les vagues de chaleur.
+
 Des nouveaux records de températures ont été établis dans plusieurs villes :
 > Il s'agit bien de la semaine entre Noël & le nouvel an la plus douce jamais enregistrée depuis 1947. - [Source Météo France](https://twitter.com/meteofrance/status/1476910557634732079)
 
@@ -88,12 +90,12 @@ Ce même prévisionniste de Météo France a été interviewé par les journalis
 
 
 [Au 13h de France 2 du 30 décembre](https://www.francetvinfo.fr/meteo/climat/meteo-des-temperatures-tres-douces-pour-la-derniere-semaine-de-l-annee-2021_4898877.html), nous avons droit à 1min30 (noter la durée) sur le sujet, **mais sans évoquer l'augmentation des fréquences liée au changement climatique.** 
-Apparement, la courte intervion de Jean Yves Choplin 2 jours avant n'a pas marqué les journalistes qui ont préparé le sujet. Chloé Nabédian, celle qui présente ce sujet, est ["journaliste spécialisée sur l'environnement et le climat" et a déjà couvert la COP21](https://fr.wikipedia.org/wiki/Chlo%C3%A9_Nab%C3%A9dian). Elle avait parlé du changement climatique pour le même genre de sujet dans [un JT de France 2 en 2016](https://www.youtube.com/watch?v=rhqtw4EUCUQ). Pourquoi une personne compétente sur le sujet n'en parle tout simplement pas : Limite de temps ? Excuses des vacances de Noël ? Le manque de régularité pose questions.
+Apparremment, la courte intervion de Jean Yves Choplin 2 jours avant n'a pas marqué les journalistes qui ont préparé le sujet. Chloé Nabédian, celle qui présente ce sujet, est ["journaliste spécialisée sur l'environnement et le climat" et a déjà couvert la COP21](https://fr.wikipedia.org/wiki/Chlo%C3%A9_Nab%C3%A9dian). Elle avait parlé du changement climatique pour le même genre de sujet dans [un JT de France 2 en 2016](https://www.youtube.com/watch?v=rhqtw4EUCUQ). Pourquoi une personne compétente sur le sujet n'en parle tout simplement pas : Limite de temps ? Excuses des vacances de Noël ? Défaut de culture scientifique dans les rédactions ? Le manque de régularité pose questions.
 
 {{< figure alt="La fonte de la banquise et les températures extrêmes au Groenland" src="/blog/images/dontlookup/2016.png" title="Dans ce reportage de 2016 par la même journaliste, le constat était clair" >}}
 
 ## Sur la télévision
-Ceux qui ont suivi les cours des Mines ont pu être marqués par [comment apprécier le traitement d'une information par les médias.](https://youtu.be/PEY6LmscKc4?t=4963) En quelques mots, on vit dans un monde avec l'information imparfaite **où le nouveau passe devant l'important.**
+Ceux qui ont suivi les cours des Mines de Jancovici ont pu être marqués par [comment apprécier le traitement d'une information par les médias.](https://youtu.be/PEY6LmscKc4?t=4963) En quelques mots, on vit dans un monde avec l'information imparfaite **où le nouveau passe devant l'important.**
 
 > Le journal est la fin d'un téléphone arabe dont vous ne connaissez ni le nombre de maillons intermédiaires, ni la qualité de transmission entre chaque maillon - [Cours des Mines 5 - Jancovici](https://youtu.be/PEY6LmscKc4?t=5425)
 
@@ -112,7 +114,9 @@ Je n'en ai pas voulu aux 2 journalistes qui m'ont interviewé, et avec qui les �
 
 Si je parle de ça, c'est que Jean Yves Choplin, le prévisionniste à Météo France interviewé par [TF1](https://www.tf1.fr/tf1/jt-20h/videos/climat-lhiver-de-tous-les-extremes-12707249.html) et France 2, a forcément parlé du changement climatique pour justifier son argument de l'augmentation des fréquences comme l'ont fait d'autres collègues comme Christine Berne qui explique à l'AFP que **["ces vagues de douceur en hiver sont le marqueur du changement climatique"](https://www.francesoir.fr/afp-afp-france/meteo-2021-se-cloture-sur-un-record-de-douceur)**. 
 
-Ce passage sur le changement climatique a a été coupé au montage **et cela enlève tout la substance à son intervention.** Surtout qu'il avait déjà pu justifier du changement climatique dans d'autres interventions comme [sur FranceInfo lors d'une des canicules de 2020](https://twitter.com/franceinfoplus/status/1288746537691086851)
+Ce passage sur le changement climatique a a été coupé au montage **et cela enlève tout la substance à son intervention.** De plus que son employeur, Météo France, est engagé dans ce combat de diffusion de l'information et a notamment pour photo de couverture sur les réseaux sociaux [les rayures d'anomalies de température](https://showyourstripes.info/s/globe). Et que cette même personne avait déjà pu justifier du changement climatique dans d'autres interventions comme [sur France Info lors d'une des canicules de 2020](https://twitter.com/franceinfoplus/status/1288746537691086851).
+
+{{< figure alt="Les anomalies de témpératures par année de bleu en rouge, on observe que le rouge est majoritaire de plus en plus fréquemment" src="/blog/images/dontlookup/meteofrance.png" title="Photo de couverture Twitter de Météo France, l'employeur de M. Choplin" >}}
 
 ## Conclusion
 Cette vague de chaleur traitée comme un fait décorrélé [du plus grand défi de l'humanité](https://www.youtube.com/watch?v=tk-QuMCbw2I), montre à quel point nous sommes loins d'être prêts à affronter [le changement climatique déjà en cours](https://bonpote.com/les-10-photos-qui-ont-marque-lannee-2021/) et des solutions pour le combattre : [-5% des émissions de gaz à effet de serre par an pendant 30 ans.](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/) **C’est une économie de guerre.**
