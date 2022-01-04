@@ -16,7 +16,7 @@ Il y a eu fin décembre 2021 des records de température dans tout le sud de l'E
 {{< twitter_simple 1477651622201282560 >}}
 
 ## Avant propos
-Je liste les les faits de sources sûres avant de commencer car après plusieurs reportages j'ai moi même commencé à douter de l'effet du changement climatique sur les vagues de chaleur.
+Je liste les faits de sources sûres avant de commencer car après plusieurs reportages j'ai moi même commencé à douter de l'effet du changement climatique sur les vagues de chaleur.
 
 Des nouveaux records de températures ont été établis dans plusieurs villes :
 > Il s'agit bien de la semaine entre Noël & le nouvel an la plus douce jamais enregistrée depuis 1947. - [Source Météo France](https://twitter.com/meteofrance/status/1476910557634732079)
