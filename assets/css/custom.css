@@ -10,9 +10,7 @@ blockquote {
     padding-top: 40px !important;
 }
 
-.content {
-    margin-top: 0px;
-}
+
 
 figcaption h4 {
     margin: 0
@@ -33,6 +31,10 @@ figcaption h4 {
 @media screen and (max-width: 600px) {
     .sidebar .description {
         display: none;
+    }
+
+    .content {
+        margin-top: 0px;
     }
 
     .sidebar .title img {
