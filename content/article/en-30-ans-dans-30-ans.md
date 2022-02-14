@@ -34,7 +34,7 @@ En 30 ans, [30% des oiseaux ont disparu.](https://www.lemonde.fr/planete/article
 
 En 30 ans, nous avons [émis autant de gaz à effet de serre que depuis 230 ans.](https://twitter.com/V_Auriac/status/1412115670934986756?s=20)
 
-En 30 ans, la population mondiale d'Homme [a augmenté de 2.5 milliards pour atteindre 7.8 milliards d'individus.](https://fr.wikipedia.org/wiki/Population_mondiale)
+En 30 ans, la population mondiale d'Homme [a augmenté de 2.5 milliards pour atteindre 7.8 milliards d'individus.](https://fr.wikipedia.org/wiki/Population_mondiale). Le problème étant que nous sommes [toujours plus à vouloir le style de vie américain ou qatarien](https://youtu.be/xITfaSfYAJo).
 
 En 30 ans, [20% de la vie sur terre a disparu.](https://fr.wikipedia.org/wiki/Fichier:Global_Living_Planet_Index,1970-2012.svg)
 
