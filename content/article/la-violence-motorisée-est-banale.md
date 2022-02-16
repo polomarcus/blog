@@ -2,7 +2,7 @@
 title: "La violence motorisée est banale"
 draft: false
 description: "Pourquoi les raisons d’un accident ne causent pas le même émoi alors que le résultat est le même. La rhétorique des articles de presse en cause ?"
-date: 2022-02-16T08:50:07+02:00
+date: 2022-02-16T02:50:07+02:00
 thumbnail: "images/violence-motorisee/pieton.png"
 images:
     - "images/violence-motorisee/pieton.png"
@@ -32,7 +32,7 @@ A croire que ces accidents sont inévitables, de la même manière que certains 
 
 Et construire des infrastructures cyclables séparées du traffic automobile marche, les Pays Bas sont le pays qui [a le moins de cyclistes tués par milliards de kilomètres parcourus](https://www.lemonde.fr/blog/transports/2019/05/11/10-chiffres-sur-le-velo-en-europe/) et où le casque n’est pas obligatoire. Ce serait seulement une question de volonté, et **une peur que l’industrie automobile perde quelque part de marché au prix du vélo et de la marche, et avec cela une amélioration de la santé.**
 
-{{< twitter 1489682709219790851 >}}
+{{< tweet user="LigneOrange" id="1489682709219790851" >}}
 
 ## "Mais tu es anti bagnole, bobo va !"
 Non, [lorsque 98% des accidents sur un passage piéton sont causés par un véhicule motorisé](https://twitter.com/PolGM1/status/1489965194470117376/photo/1), c'est bien qu'il y a un problème systémique à corriger pour sauver des vies.
@@ -113,7 +113,7 @@ Cela n’a pas toujours été comme cela. Il y a quelques décennies les enfants
 
 Une sorte d’aménisie général nous a frappé, et on est incapable de se souvenir de cela. A l’image de cette élue incapable de savoir que les Grecques qui ont fondé Marseille ne sont pas venus en voiture.
 
-{{< twitter 1167452293488361472 >}}
+{{< tweet user="MurielDIRUOCCO" id="1167452293488361472" >}}
 
 ## Conclusion
 N’acceptons pas les techniques rhétoriques dans les articles de presse : voix passive, agentivité et proximité. Rappelons nous l’importance des conséquences de la presse dans nos vies, car c’est avec un article intitulé [”Stop aux meutres d’enfants”](https://lesvelosdesetangs.wordpress.com/2020/03/22/des-militants-neerlandais-expliquent-pourquoi-les-pays-bas-sont-desormais-si-favorables-au-velo/) qu’un pays a déclenché sa vélorution dans les années 1970, et une interview de France 3 que Montpellier a lancé son mouvement vélo [#JeSuisUnDesDeux](https://www.youtube.com/watch?v=aW9kfwnk29w). 
