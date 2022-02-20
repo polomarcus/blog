@@ -80,7 +80,7 @@ Dans notre exemple précédent - "Un piéton violemment percuté par **une voitu
 
 En remplaçant “une voiture” par un humain, et potentiellement une faute habituelle comme regarder son téléphone, fumer au volant, ou était en excès de vitesse, notre colère est démultipliée et n’a rien à voir avec notre première lecture d’”une voiture”.
 
-**Cette technique pour déresponsabiliser la conduite** est massivement utilisé dans la presse :
+**Cette technique pour déresponsabiliser la conduite** est massivement utilisée dans la presse :
 * ["Un bébé de 4 mois fauché par **une voiture**" - Ouest France](https://www.ouest-france.fr/ile-de-france/poissy-78300/yvelines-un-bebe-de-4-mois-fauche-par-une-voiture-l-automobiliste-a-pris-la-fuite-97fe30d6-69bf-4edc-b2de-a6c0242cfe72)
 * ["Un couple de retraité ardéchois a été percuté par **une voiture**. L’homme de 75 ans décédait sur les lieux." - Midi Libre](https://www.midilibre.fr/2022/01/30/cycliste-tue-sur-la-route-de-la-grande-motte-au-grau-du-roi-les-zones-dombre-10077109.php)
 * [“**La voiture** renverse deux femmes et ne s’arrête pas" - Ouest France](https://www.ouest-france.fr/pays-de-la-loire/piriac-sur-mer-44420/piriac-sur-mer-la-voiture-renverse-deux-femmes-et-ne-s-arrete-pas-78c4e2c8-87f1-11ec-937e-83af349e51ad)
@@ -98,7 +98,7 @@ On pourrait se demander pourquoi critiquer ces titres “neutres”. Simplement 
 Lisez ce titre et estimez à combien de temps de retrait de permis cette personne a eu selon vous ? 
 * [“Un policier condamné pour avoir roulé avec 2,25g d’alcool dans le sang à contresens sur l’autoroute”](https://www.champagnefm.com/un-policier-condamne-pour-avoir-roule-a-contresens-alcoolise-entre-rethel-et-reims). 
 
-10 ans ? 5 ans ? 3 ans ? **Non, 15 mois de retrait.**
+10 ans ? 5 ans ? 3 ans ? **Non, 15 mois de retrait de permis.**
 
 [Un des drames les plus marquants](https://www.estrepublicain.fr/edition-de-vesoul-haute-saone/2019/10/18/jeune-cycliste-decede-deux-ans-ferme-pour-l-homme-qui-l-a-percute) que j’ai pu lire, l'auteur a eu **seulement 5 ans d’interdiction de permis**, comme l'accident a eu lieu en 2017, cette personne peut de nouveau conduire en 2022. Rassurant.
 
@@ -117,4 +117,4 @@ Une sorte d’aménisie général nous a frappé, et on est incapable de se souv
 ## Conclusion
 N’acceptons pas les techniques rhétoriques dans les articles de presse : voix passive, agentivité et proximité. Rappelons nous l’importance des conséquences de la presse dans nos vies, car c’est avec un article intitulé [”Stop aux meutres d’enfants”](https://lesvelosdesetangs.wordpress.com/2020/03/22/des-militants-neerlandais-expliquent-pourquoi-les-pays-bas-sont-desormais-si-favorables-au-velo/) qu’un pays a déclenché sa vélorution dans les années 1970, et une interview de France 3 que Montpellier a lancé son mouvement vélo [#JeSuisUnDesDeux](https://www.youtube.com/watch?v=aW9kfwnk29w). 
 
-Comment conlure sans aussi requestionner les relations que la presse avec l'industrie automobile qui a un des plus gros budgets publicitaires, notamment en lisant [Julia Cagé](https://www.placedeslibraires.fr/livre/9782021497397-pour-une-tele-libre-contre-bollore-julia-cage/) et l'importance de l'indépendance des rédactions car **"l'information est un bien public"**.
+Comment conlure sans aussi requestionner les relations de la presse avec l'industrie automobile qui a un des plus gros budgets publicitaires, notamment en lisant [Julia Cagé](https://www.placedeslibraires.fr/livre/9782021497397-pour-une-tele-libre-contre-bollore-julia-cage/) et l'importance de l'indépendance des rédactions car **"l'information est un bien public"**.
