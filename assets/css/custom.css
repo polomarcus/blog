@@ -10,8 +10,6 @@ blockquote {
     padding-top: 40px !important;
 }
 
-
-
 figcaption h4 {
     margin: 0
 }
@@ -28,6 +26,10 @@ figcaption h4 {
     margin: 0em;
 }
 
+.post h3 {
+    font-size: 2.0rem !important;
+}
+
 @media screen and (max-width: 600px) {
     .sidebar .description {
         display: none;
@@ -42,6 +44,15 @@ figcaption h4 {
     }
 
     .post {
-        margin: 10px
+        margin: 10px;
     }
 }
+
+
+@media screen and (min-width: 800px) {
+    figure.small {
+        max-width: 60%;
+        margin: auto;
+    }
+}
+

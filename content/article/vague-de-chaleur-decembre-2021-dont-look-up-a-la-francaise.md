@@ -1,11 +1,12 @@
 ---
-title: "Chaleur de décembre : 'Don't Look Up' version Française ?"
+title: "Chaleur de décembre : 'Don't Look Up' version Française dans les JT ?"
 draft: false
 description: "Analyse des JTs regardés par 10 millions de personnes chaque soir. Le journal télé est la fin d’un téléphone arabe dont vous ne connaissez ni le nombre de maillons intermédiaires, ni la qualité de transmission entre chaque maillon"
 date: 2022-01-03T08:50:07+02:00
 thumbnail: "images/dontlookup/dont-look.png"
 images:
     - "images/dontlookup/dont-look.png"
+series: ["jt"]
 ---
 
 ["Don't Look Up"](https://www.theguardian.com/commentisfree/2021/dec/29/climate-scientist-dont-look-up-madness) a été ma surprise de la fin d'année, et ça a réveillé en moi à quel point on regarde ailleurs dès qu'on a un sujet de fond.
