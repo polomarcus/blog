@@ -11,14 +11,14 @@ series: ["jt"]
 
 Suite aux vagues de chaleur de décembre 2021 et aux reportages des JT de TF1 et France 2 [avec des personnes buvant le rosé en terrasse innocemment](https://polomarcus.github.io/blog/article/vague-de-chaleur-decembre-2021-dont-look-up-a-la-francaise/) sans comprendre la puissance [des changements climatiques en cours](https://bonpote.com/les-10-photos-qui-ont-marque-lannee-2021/) comme dans le film "Don't Look Up". Il m'a fallu analyser les reportages sur le changement climatique plus en profondeur et sur la durée.
 
-J'ai pour cela [scanner avec un projet numérique](https://github.com/polomarcus/television-news-analyser) tous les textes des 60 000 reportages disponibles sur le site de France 2 et TF1 pour les JT de 20h jusqu'en 2013. Les méthodes de récupération de données, qui sont en libres accès, sont expliquées dans [cet article](https://polomarcus.github.io/blog/article/publication-donn%C3%A9es-de-60000-reportages-de-jt/). Et je vous invite à consulter [le site web du projet](https://polomarcus.github.io/television-news-analyser/website/) d'où est tiré la photo de couverture de cet article.
+J'ai pour cela [scanné avec un projet numérique](https://github.com/polomarcus/television-news-analyser) tous les textes des 60 000 reportages disponibles sur le site de France 2 et TF1 pour les JT de 20h jusqu'en 2013. Les méthodes de récupération de données, qui sont en libres accès, sont expliquées dans [cet article](https://polomarcus.github.io/blog/article/publication-donn%C3%A9es-de-60000-reportages-de-jt/). Et je vous invite à consulter [le site web du projet](https://polomarcus.github.io/television-news-analyser/website/) d'où est tiré la photo de couverture de cet article.
 
-Il en ressort que **99.2% des reportages ne contiennent pas le mot réchauffement, dérèglement ou changement climatique**, soit 481 sur les 60 000 analysés. **J'en ai conclu que mon producteur de légumes me parle plus de climat que les JT de TF1 et de France 2.**
+Il en ressort que **99.2% des reportages ne contiennent pas le mot réchauffement, dérèglement ou changement climatique**, seulement 481 en parlent sur les 60 000 analysés. **J'en ai conclu que mon producteur de légumes me parle plus de climat que les JT de TF1 et de France 2.**
 
-Un constat partagé par des journalistes, comme ici par ce journaliste de France Info dont le tweet a été liké par la rédactrice en chef de France Info et certains journalistes des Echos ou du Temps : 
+Un constat partagé par des journalistes comme Thomas Baëito dont le tweet a été liké par la rédactrice en chef de France Info et certains journalistes des Echos ou du Temps : 
 {{< tweet user="ThomasBaietto" id="1478987314433040385" >}}
 
-Un article qui **prend largement appuie sur le sociologue Jean Baptiste Comby, dans sa thèse ["La question climatique"](https://www.placedeslibraires.fr/livre/9782912107817-la-question-climatique-genese-et-depolitisation-d-un-probleme-public-jean-baptiste-comby/)**. Il a conduit 70 entretiens avec des journalistes en charge de l’environnement dans les médias généralistes nationaux, et analysé 663 reportages sur les enjeux climatiques dans les JT.
+Cet article qui **prend largement appuie sur les travaux du sociologue Jean Baptiste Comby, dans sa thèse ["La question climatique"](https://www.placedeslibraires.fr/livre/9782912107817-la-question-climatique-genese-et-depolitisation-d-un-probleme-public-jean-baptiste-comby/)**. Il a conduit 70 entretiens avec des journalistes en charge de l’environnement dans les médias généralistes nationaux, et analysé 663 reportages sur les enjeux climatiques dans les JT.
 
 ## Avant de commencer
 Un point vocabulaire sur le changement climatique du sociologue Jean Baptiste Comby :
