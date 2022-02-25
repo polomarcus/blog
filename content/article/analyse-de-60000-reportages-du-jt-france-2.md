@@ -214,7 +214,7 @@ Sur ces derniers, qui contiennent le mot ["capitalisme"](https://www.francetvinf
 
 Je vous déconseille donc d'utiliser le mot "capitalisme" dans vos discours car il est connoté négativement et l'employer fera de vous des personnes **"au mieux comme sympathiques, anecdotiques ou guère généralisables, et au pire comme farfelus ou utopistes”** comme le décrit Jean Baptiste Comby dans sa thèse.
 
-> L’alternative écologique, si elle ne disparaît pas complètement des médias généralistes, demeure présentée, dans les rares reportages qui la médiatisent, sur le registre de l’exotisme ou de l”’expérience originale et sympathique
+> L’alternative écologique, si elle ne disparaît pas complètement des médias généralistes, demeure présentée, dans les rares reportages qui la médiatisent, sur le registre de l’exotisme ou de "l’expérience originale et sympathique"
 
 {{< figure class="small" alt="Des manifestants occupant les rues pour faire un rapport de force" src="/blog/images/jts-analyse/clown.png" title="Des farfelus qui ne vont pas 'durer très très longtemps' d'après ce reportage de TF1" >}}
 
