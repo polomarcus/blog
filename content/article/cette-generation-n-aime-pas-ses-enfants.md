@@ -7,7 +7,7 @@ thumbnail: "images/generation/plage.jpg"
 images:
     - "images/generation/plage.jpg"
 ---
-*Texte de Bernard Maris - ["Antimanuel d'économie tome 2: les fourmis" (2006)](https://www.placedeslibraires.fr/livre/9782749539508-antimanuel-d-economie-t-2-les-fourmis-bernard-maris/), chapitre 13 "Economie et écologie ou 'comment j'ai tué maman'"* :
+*Texte de Bernard Maris - ["Antimanuel d'économie tome 2: les cigales" (2006)](https://www.placedeslibraires.fr/livre/9782749539508-antimanuel-d-economie-t-2-les-fourmis-bernard-maris/), chapitre 13 "Economie et écologie ou 'comment j'ai tué maman'"* :
 
 Aujourd'hui, la génération active détruit la planète, sans se préoccuper des suivantes. Transfert des dettes : les générations futures payeront pour nous, qui consommons sans entraves. Ce trésor que nous constituons de génération en génération est appelé à grossir. Mais ce sont **des montagnes de déchets que nous accumulons et que nous offrons à nos enfants.** 
 
