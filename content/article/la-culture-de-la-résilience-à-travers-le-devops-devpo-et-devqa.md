@@ -7,7 +7,7 @@ thumbnail: "https://cdn-images-1.medium.com/max/800/1*S44E7BO_Ft09Mri7uJ6zRg.jpe
 
 > **La résilience** peut être définie comme la capacité d’un système à maintenir ou retrouver ses fonctions essentielles lorsqu’il est soumis à une perturbation. — source : [Les Greniers d’abondance](https://resiliencealimentaire.org/definition-de-la-resilience/)
 
-Front, back, data, PO, … La division du travail permet d’être expert sur un sujet mais sans vraiment tout maîtriser. A l’inverse on peut être un peu bon partout sans être expert nul part, nos amis anglophones utilisent l’expression _“jack of all trades, master of none”_.
+Front, back, data, PO, … La division du travail permet d’être expert sur un sujet mais sans vraiment tout maîtriser. A l’inverse on peut être un peu bon partout sans être expert nulle part, nos amis anglophones utilisent l’expression _“jack of all trades, master of none”_.
 
 En s’attardant trop sur un sujet précis on peut avoir du mal à se comprendre et employer un vocabulaire commun dès lors qu’on travaille en équipe, victime de l’effet bulle, et des malentendus et des aller-retours commencent avec le risque d’être le seul capable d’effectuer certaines opérations.
 
