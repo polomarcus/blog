@@ -93,7 +93,7 @@ La réponse, si cette révolution nous plonge dans un monde à +4°c, oui.
 Pour creuser plus loin, Philippe Bihouix a également répondu à toutes les "révolutions" venant du numérique dans [son thinkerview “Le futur, entre 5G et Amish ?”](https://www.youtube.com/watch?v=E7QnwVx2fY0&).
 
 ## [20:00](https://youtu.be/gxWwxqIrCa8?t=1201) - Sur la 5G
-En effet la 5G pousse notamment au pire impact sur l'environnement, c'est-à-dire à encourager les utilisateurs à renouveler leur appareils pour être compatible 5G,comme justement rappelé à 34:00. Il n’y a qu’à aller sur les sites de nos opérateurs préférés pour voir les offres spéciales sur les téléphones compatibles 5G. *Et bien entendu si t’es pas compatible t’es tout naze socialement, alors achète toi vite un nouvel télépĥone.*
+En effet la 5G pousse notamment au pire impact sur l'environnement, c'est-à-dire à encourager les utilisateurs à renouveler leur appareils pour être compatible 5G,comme justement rappelé à 34:00. Il n’y a qu’à aller sur les sites de nos opérateurs préférés pour voir les offres spéciales sur les téléphones compatibles 5G. *Et bien entendu si t’es pas compatible t’es tout naze socialement, alors achète toi vite un nouveau télépĥone.*
 
 {{< figure alt="Une offre pour changer son mobile et qu'il soit enfin compatible 5G" src="/blog/images/poisson/5g.png" title="Une offre à pas louper" >}}
 
