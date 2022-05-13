@@ -59,7 +59,7 @@ Ou le greenwashing des cloud provider comme Google qui annonce [**"24x7 carbon-f
 > Nous misons tout sur nos objectifs et nos actions pour construire une planète plus belle.
 
 ## En guerre face à la “sobriété numérique” ?
-Il est vrai que lorsqu’on entend [un cadre d’Air France parlait de sobriété numérique comme du "feel good" au travail et d’un axe de "talent management"](https://twitter.com/polomarcus/status/1332295290477547520), on a envie de distribuer livres à certains.
+Il est vrai que lorsqu’on entend [un cadre d’Air France parlait de sobriété numérique comme du "feel good" au travail et d’un axe de "talent management"](https://twitter.com/polomarcus/status/1332295290477547520), on a envie de distribuer des livres à certains.
 
 Et je peux donc comprendre sa colère lorsque Quentin Adam reproche à ceux qui coupent leur webcam par "sobriété numérique”, alors que cela a tendance à faire flipper leur middle management (sur leur inutilité?) qui les force ensuite à venir, [en SUV](https://monimpacttransport.fr/), au travail pour mieux les contrôler.
 
