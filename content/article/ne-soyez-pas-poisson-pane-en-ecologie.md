@@ -161,7 +161,7 @@ Le problème c'est que 80% de l'économie, nos sociétés d'abondance, tourne av
 Comme Edgar Morin est cité dans la conférence pour sa pensée complexe, je propose de le citer dans un autre contexte pour prendre un peu plus de hauteur, et de présenter avec beaucoup plus de nuance le projet de décroissance.
 
 > Le confinement fut un enfermement, mais ce fut aussi une libération intérieure par rapport au temps chronométré, au métro boulot dodo des travailleurs, aux horaires surchargés des professions libérales. Nos existences, jusqu'alors régies par une temps de plus en plus accéléré, ont pu à nouveau être managées, ménagées, ralenties (sauf évidemment là où il y  eut surcharge d'obligation)
-Une fois déconfinement, reprendrons nous la course infernale? Garderons nous le goût de la lenteur? Cesserons nous de subordonner le principal, notre propre épanouissement et notre lien affectueux à autrui, au secondaire voire au futile?
+Une fois déconfinés, reprendrons nous la course infernale? Garderons nous le goût de la lenteur? Cesserons nous de subordonner le principal, notre propre épanouissement et notre lien affectueux à autrui, au secondaire voire au futile?
 - Edgar Morin - Changeons de voie 2020
 
 ## “The free lunch is over”
