@@ -8,12 +8,12 @@ images:
     - "images/poisson/kaya.png"
 ---
 
-Texte en réaction ["Comprendre les enjeux de consommation de ressource et d’énergie"](https://www.youtube.com/watch?v=gxWwxqIrCa8) Devoxx 2022 par Pierre Beysac et Quentin Adam. Titre en référence [à cet article de 2017](https://waxzce.medium.com/je-nembauche-jamais-de-poisson-pan%C3%A9-alors-arr%C3%AAtez-de-vous-pr%C3%A9senter-comme-tel-1eb318ee8a20).
+Texte en réaction ["Comprendre les enjeux de consommation de ressource et d’énergie"](https://www.youtube.com/watch?v=gxWwxqIrCa8) Devoxx 2022 par Pierre Beysac et Quentin Adam. Titre en référence [à cet article de 2017 "Je n’embauche jamais de poisson pané. Alors arrêtez de vous présenter comme tel."](https://waxzce.medium.com/je-nembauche-jamais-de-poisson-pan%C3%A9-alors-arr%C3%AAtez-de-vous-pr%C3%A9senter-comme-tel-1eb318ee8a20)
 
 Je publierai ici leur réaction s'ils le souhaitent.
 
-## Commentaire générale sur la vidéo
-Excellente vidéo dont je partage les conclusions à [45:43](https://youtu.be/gxWwxqIrCa8?t=2742) : le système mondial est en "segfault", *une situation quie ne peut pas physiquement perdurer*, et il faut combattre l'obsolescence des machines, utiliser des data centers placés dans [des zones géographiques avec de l'électricité bas carbone](https://app.electricitymap.org/map) et aligner vos valeurs à votre travail (éviter de travailler pour la Société Générale comme j'ai pu le faire). 
+## Commentaire général sur la vidéo
+Excellente vidéo dont je partage les conclusions à [45:43](https://youtu.be/gxWwxqIrCa8?t=2742) : le système mondial est en "segfault", *une situation qui ne peut pas physiquement perdurer*, et il faut combattre l'obsolescence des machines, utiliser des data centers placés dans [des zones géographiques avec de l'électricité bas carbone](https://app.electricitymap.org/map) et aligner vos valeurs à votre travail (éviter de travailler pour la Société Générale comme j'ai pu le faire). 
 
 Et je les remercie chaudement de parler de ces sujets à Devoxx plutôt qu’un énième talk sur la configuration de load balancer écrit en Rust. A leur façon, ils m'ont fait penser à Aurélien Barrau :
 
@@ -57,7 +57,7 @@ Ou le greenwashing des cloud provider comme Google qui annonce [**"24x7 carbon-f
 > Nous misons tout sur nos objectifs et nos actions pour construire une planète plus belle.
 
 ## En guerre face à la “sobriété numérique” ?
-Il est vrai que lorsqu’on entend [un cadre d’Air France parlait de sobriété numérique comme du "feel good" au travail et d’un axe de "talent management"](https://twitter.com/polomarcus/status/1332295290477547520), on a envie de faire lire des livres à certains.
+Il est vrai que lorsqu’on entend [un cadre d’Air France parlait de sobriété numérique comme du "feel good" au travail et d’un axe de "talent management"](https://twitter.com/polomarcus/status/1332295290477547520), on a envie de distribuer livres à certains.
 
 Et je peux donc comprendre sa colère lorsque Quentin Adam reproche à ceux qui coupent leur webcam par "sobriété numérique”, alors que cela a tendance à faire flipper leur middle management (sur leur inutilité?) qui les force ensuite à venir, [en SUV](https://monimpacttransport.fr/), au travail pour mieux les contrôler.
 
@@ -66,7 +66,7 @@ Cependant, encore une fois tout n’est pas linéaire et simple, et [l'ADEME a p
 En quelques mots, ne prenons pas pour des doux dingues ceux qui parlent de sobriété, car l’ancien président du GIEC, Jean Jouzel dit bien que ["sans sobriété on n’y arrivera pas"](https://www.franceinter.fr/emissions/la-terre-au-carre/sans-sobriete-on-n-y-arrivera-pas). Et que de la sobriété dans le numérique fait aussi du bien à notre santé mentale [si atteinte par notre constante connexion et l'abondance de notifications.](https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle)
 
 ## [12:06](https://youtu.be/gxWwxqIrCa8?t=727) - Toujours plus efficace énergétiquement ? 
-Il est vrai que des progrès ont été fait en énergie. Le problème de montrer cette image sur l'efficacité énergétique, c’est qu’on pourrait croire qu’il suffit de compter sur les ingénieurs et d'attendre pour résoudre le problème climatique : 
+Il est vrai que des progrès ont été faits en énergie. Le problème de montrer cette image sur l'efficacité énergétique, c’est qu’on pourrait croire qu’il suffit de compter sur les ingénieurs et d'attendre pour résoudre le problème climatique : 
 
 {{< figure alt="Les emissions de cO2 pour 1 kwh produite, la tendance est à la baisse depuis 30 ans" src="/blog/images/poisson/efficacite.png" title="" >}}
 
@@ -77,7 +77,7 @@ Cependant, on observe qu’on gagne péniblement 30% en efficacité en un peu pl
 
 {{< figure alt=" la quantité d’électricité qu’on utilise aujourd’hui dans le monde a considérablement augmenté par rapport à il y a quelques dizaines d’années, principalement liée au pétrole, gaz et charbon" src="/blog/images/poisson/janco-mines-usage-energie.png" title="" >}}
 
-Si nous voulons regarder le problème dans son ensemble, nous nous retrouvons dans “l’enfer de la règle de trois” et [de l’équation de Kaya](https://jancovici.com/changement-climatique/economie/quest-ce-que-lequation-de-kaya/). Nous devons réduire les émissions de gaz à effet de serre par 5 en France d'ici 2050 en joueant sur les varialbes de cette équation :
+Si nous voulons regarder le problème dans son ensemble, nous nous retrouvons dans “l’enfer de la règle de trois” et [de l’équation de Kaya](https://jancovici.com/changement-climatique/economie/quest-ce-que-lequation-de-kaya/). Nous devons réduire les émissions de gaz à effet de serre par 5 en France d'ici 2050 en jouant sur les variables de cette équation :
 
 {{< figure alt="Emissions de GES =Contenu en GES de l’energie ×Intensite energetique de l’economie×Production par personne×Population" src="/blog/images/poisson/kaya.png" title="" >}}
 
@@ -93,7 +93,7 @@ La réponse, si cette révolution nous plonge dans un monde à +4°c, oui.
 Pour creuser plus loin, Philippe Bihouix a également répondu à toutes les "révolutions" venant du numérique dans [son thinkerview “Le futur, entre 5G et Amish ?”](https://www.youtube.com/watch?v=E7QnwVx2fY0&).
 
 ## [20:00](https://youtu.be/gxWwxqIrCa8?t=1201) - Sur la 5G
-En effet la 5G pousse notamment au pire impact sur l'environnement, c'est-à-dire à encourager les utilisateurs à renouveler leur appareils pour être compatible 5G,comme justement rappelé à 34:00. Il n’y a qu’à aller sur les sites de nos opérateurs préférés pour voir les offres spéciales sur les téléphones compatibles 5G. *Et bien entendu si t’es pas compatible t’es tout naze socialement, alors achète toi vite un nouveau télépĥone.*
+En effet la 5G pousse notamment au pire impact sur l'environnement, c'est-à-dire à encourager les utilisateurs à renouveler leur appareils pour être compatible 5G, comme rappelé à 34:00. Il n’y a qu’à aller sur les sites de nos opérateurs préférés pour voir les offres spéciales sur les téléphones compatibles 5G. *Et bien entendu si t’es pas compatible t’es tout naze socialement, alors achète toi vite un nouveau télépĥone.*
 
 {{< figure alt="Une offre pour changer son mobile et qu'il soit enfin compatible 5G" src="/blog/images/poisson/5g.png" title="Une offre à pas louper" >}}
 
@@ -115,11 +115,12 @@ En bref, on consomme de plus en plus d'énergie pour extraire des mines toujours
 
 {{< figure alt="Slide de la conférence: vivre à 8 milliards sur la planète OU juste avoir peur du futur" src="/blog/images/poisson/population-bomb.png" title="" >}}
 
-Certainement car ils n'avaient plus beaucoup de temps, ce passage devient hors sol. Premièrement, un [sophisme de l’homme de paille](https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique)) est utilisé pour qualifier les critiques de “réactionnaires” et qui ont “peur du futur”. Sans la nommer, on entend parler de décroissance mais complètement caricaturée comme la [première page de Valeurs Actuelles](https://www.linkedin.com/posts/bon-pote_daezcroissance-croissanceverte-dictatureverte-activity-6685817418171879424-pUm_/).
+Certainement car ils n'avaient plus beaucoup de temps, ce passage devient hors sol. Premièrement, un [sophisme de l’homme de paille](https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique)) est utilisé pour qualifier les critiques de “réactionnaires” et qui ont “peur du futur”. Sans la nommer, on entend parler de décroissance mais complètement caricaturée comme la [première page de Valeurs Actuelles](https://www.linkedin.com/posts/bon-pote_daezcroissance-croissanceverte-dictatureverte-activity-6685817418171879424-pUm_/). 
+Est ce que les chercheurs du MIT Donella Meadows, Dennis Meadows et Jorden Randers sont simplement des "réactionnaires" dans leur rapport ["The Limits To Growth"](https://en.wikipedia.org/wiki/The_Limits_to_Growth) ?
 
 Comme on ne peut certainement pas encore parler décroissance à Devoxx en 2022, je fais une parenthèse sur le [projet de décroissance](https://bonpote.com/propos-6-la-decroissance-subie-nexiste-pas/). Ce n'est absolument pas "un retour à la bougie" mais bien un projet de société, comme on peut le lire dans [le rapport du group 3 du GIEC de 2022](https://timotheeparrique.com/degrowth-in-the-ipcc-ar6-wgiii/) ou bien [le Plan de Transformation de l'Economie Française du Shift Project.](https://youtu.be/dmBRwFVQk_M?t=6687)
 
-{{< figure alt="Un tweet retweeté par Quentin Adam de l'édiotorialiste Emmanuelle Ducros" src="/blog/images/poisson/decroissants.png" title="Une éditioraliste, voulant faire du click, tente de faire croire que la décroissance n'a pas de sens car il existe un robot désherbant" >}}
+{{< figure alt="Un tweet retweeté par Quentin Adam de l'édiotorialiste Emmanuelle Ducros" src="/blog/images/poisson/decroissants.png" title="Une éditorialiste, voulant faire du click, tente de faire croire que la décroissance n'a pas de sens car il existe un robot désherbant" >}}
 
 En réponse courte face à un tweet tristement provocateur, on peut citer Ivan Illich dans "La convivialité"
 
@@ -144,6 +145,11 @@ et que pour respecter la vitesse de baisser des émissions pour respecter l’ac
 
 {{< figure class="small" alt="" src="/blog/images/poisson/toutvabien.jpeg" title="GIEC AR6 (2022) - WG3 - Tim Parrique - https://twitter.com/timparrique/status/1516673024728182790" >}}
 
+### Sur la peur et les émotions
+"Avoir peur" face à l'extermination du vivant et les crises climatiques actuelles s'appelle avoir de la lucidité. En tant qu'ingénieur, il est temps d'accepter nos émotions, car c'est elles qui nous mettent en mouvement.
+
+> Avec une colère à moitié réprimée, j’ai tendance à me balancer et faire quelque chose d’impétueux et d’ignorant. Mais une colère bien sentie, ancrée, et familière peut me motiver à travers un engagement à vie pour améliorer les choses - **Donella Meadows, autrice “Limit to Growth”**
+
 
 ## [45:30](https://youtu.be/gxWwxqIrCa8?t=2685) - Critique de la comptabilité carbone
 > la comptabilité carbone, juste fait avec des additions et des soustractions, j'y crois pas
@@ -152,7 +158,7 @@ Le problème c'est que 80% de l'économie, nos sociétés d'abondance, tourne av
 
 Comme Edgar Morin est cité dans la conférence pour sa pensée complexe, je propose de le citer dans un autre contexte pour prendre un peu plus de hauteur, et de présenter avec beaucoup plus de nuance le projet de décroissance.
 
-> Le confinement fut un enfermement, mais ce fut aussi une libération intérieure par rapport au temps chronométré, au métro boulot dodo des travailleurs, aux horaires surchargés des professions libérales. Nos existences, jusqu'alors régies par une temps de plus en plus accéléré, ont pu a nouveau être managées, ménagées, ralenties (sauf évidemment là où il y  eut surcharge d'obligation)
+> Le confinement fut un enfermement, mais ce fut aussi une libération intérieure par rapport au temps chronométré, au métro boulot dodo des travailleurs, aux horaires surchargés des professions libérales. Nos existences, jusqu'alors régies par une temps de plus en plus accéléré, ont pu à nouveau être managées, ménagées, ralenties (sauf évidemment là où il y  eut surcharge d'obligation)
 Une fois déconfinement, reprendrons nous la course infernale? Garderons nous le goût de la lenteur? Cesserons nous de subordonner le principal, notre propre épanouissement et notre lien affectueux à autrui, au secondaire voire au futile?
 - Edgar Morin - Changeons de voie 2020
 
