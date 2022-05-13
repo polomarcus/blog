@@ -2,13 +2,15 @@
 title: "Ne soyez pas un poisson pané en écologie"
 draft: false
 description: "L'écologie est un sujet complexe et qui a besoin de nuances. Texte en réaction 'Comprendre les enjeux de consommation de ressource et d’énergie' Devoxx 2022"
-date: 2022-05-12T08:50:07+02:00
+date: 2022-05-13T08:50:07+02:00
 thumbnail: "images/poisson/kaya.png"
 images:
     - "images/poisson/kaya.png"
 ---
 
-Texte en réaction ["Comprendre les enjeux de consommation de ressource et d’énergie"](https://www.youtube.com/watch?v=gxWwxqIrCa8) Devoxx 2022 par Pierre Beysac et Quentin Adam. Titre en référence [à cet article de 2017 "Je n’embauche jamais de poisson pané. Alors arrêtez de vous présenter comme tel."](https://waxzce.medium.com/je-nembauche-jamais-de-poisson-pan%C3%A9-alors-arr%C3%AAtez-de-vous-pr%C3%A9senter-comme-tel-1eb318ee8a20)
+Texte en réaction ["Comprendre les enjeux de consommation de ressource et d’énergie"](https://www.youtube.com/watch?v=gxWwxqIrCa8) Devoxx 2022 par Pierre Beysac et Quentin Adam. 
+
+Titre en référence [à cet article de 2017 "Je n’embauche jamais de poisson pané. Alors arrêtez de vous présenter comme tel."](https://waxzce.medium.com/je-nembauche-jamais-de-poisson-pan%C3%A9-alors-arr%C3%AAtez-de-vous-pr%C3%A9senter-comme-tel-1eb318ee8a20)
 
 Je publierai ici leur réaction s'ils le souhaitent.
 
@@ -116,9 +118,9 @@ En bref, on consomme de plus en plus d'énergie pour extraire des mines toujours
 {{< figure alt="Slide de la conférence: vivre à 8 milliards sur la planète OU juste avoir peur du futur" src="/blog/images/poisson/population-bomb.png" title="" >}}
 
 Certainement car ils n'avaient plus beaucoup de temps, ce passage devient hors sol. Premièrement, un [sophisme de l’homme de paille](https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique)) est utilisé pour qualifier les critiques de “réactionnaires” et qui ont “peur du futur”. Sans la nommer, on entend parler de décroissance mais complètement caricaturée comme la [première page de Valeurs Actuelles](https://www.linkedin.com/posts/bon-pote_daezcroissance-croissanceverte-dictatureverte-activity-6685817418171879424-pUm_/). 
-Est ce que les chercheurs du MIT Donella Meadows, Dennis Meadows et Jorden Randers sont simplement des "réactionnaires" dans leur rapport ["The Limits To Growth"](https://en.wikipedia.org/wiki/The_Limits_to_Growth) ?
+Est ce que les chercheurs du MIT Donella Meadows, Dennis Meadows et Jorden Randers sont des "réactionnaires" dans leur rapport ["The Limits To Growth"](https://en.wikipedia.org/wiki/The_Limits_to_Growth) ?
 
-Comme on ne peut certainement pas encore parler décroissance à Devoxx en 2022, je fais une parenthèse sur le [projet de décroissance](https://bonpote.com/propos-6-la-decroissance-subie-nexiste-pas/). Ce n'est absolument pas "un retour à la bougie" mais bien un projet de société, comme on peut le lire dans [le rapport du group 3 du GIEC de 2022](https://timotheeparrique.com/degrowth-in-the-ipcc-ar6-wgiii/) ou bien [le Plan de Transformation de l'Economie Française du Shift Project.](https://youtu.be/dmBRwFVQk_M?t=6687)
+Comme on ne peut certainement pas encore parler décroissance à Devoxx en 2022, je fais une parenthèse sur le [projet de décroissance](https://bonpote.com/propos-6-la-decroissance-subie-nexiste-pas/). Ce n'est absolument pas "un retour à la bougie" mais bien un projet de société, comme on peut le lire dans [le rapport du group 3 du GIEC de 2022](https://timotheeparrique.com/degrowth-in-the-ipcc-ar6-wgiii/) ou bien [le Plan de Transformation de l'Economie Française du Shift Project.](https://ilnousfautunplan.fr/)
 
 {{< figure alt="Un tweet retweeté par Quentin Adam de l'édiotorialiste Emmanuelle Ducros" src="/blog/images/poisson/decroissants.png" title="Une éditorialiste, voulant faire du click, tente de faire croire que la décroissance n'a pas de sens car il existe un robot désherbant" >}}
 
@@ -163,7 +165,9 @@ Une fois déconfinement, reprendrons nous la course infernale? Garderons nous le
 - Edgar Morin - Changeons de voie 2020
 
 ## “The free lunch is over”
-En mots de la fin, je souhaite partager cet article de 2004 qui a marqué mes années d’étudiant
+En mots de la fin, je souhaite partager cet article de 2004 qui a marqué mes années d’étudiant :
 > The key question is: When will it end? After all, Moore’s Law predicts exponential growth, and clearly exponential growth can’t continue forever before we reach hard physical limits; light isn’t getting any faster. The growth must eventually slow down and even end.
 [The Free Lunch Is Over](http://www.gotw.ca/publications/concurrency-ddj.htm)
 
+---
+Merci à Olivier Rodriguez pour sa relecture.
