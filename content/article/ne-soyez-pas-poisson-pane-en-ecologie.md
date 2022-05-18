@@ -45,7 +45,7 @@ Je vois qu'il y a plein de gens qui se bougent à l’image de [Boavizta](https:
 {{< figure alt="Comparaison entre le réchauffement climatique et le corps humain, à 1 degré de plus on a une fièvre, à +5 degré on meurt." src="/blog/images/poisson/human.png" title="TL; DR : l'accord de Paris" >}}
 
 ## L’agacement partagé
-Je les comprends, car quand des fausses informations sur l’impact du numérique comme celle de l’email et des vidéos continuent de circuler après avoir été débunké 14 fois par leur propre auteur, il est normal de prendre moins délicatesse :
+Je les comprends, car quand des fausses informations sur l’impact du numérique comme celle de l’email et des vidéos continuent de circuler après avoir été débunké 14 fois par leur propre auteur, il est normal de prendre moins de délicatesse :
 
 > “videz vos boîtes mail, ce serait déjà pas mal.”
 La ministre de la Transition écologique [Pompili à la Convention climat - 2020](https://www.huffingtonpost.fr/entry/trier-ses-mails-la-mauvaise-idee-de-pompili-a-la-convention-climat_fr_5fd7ab24c5b62f31c1ff59f7)
@@ -59,7 +59,7 @@ Ou le greenwashing des cloud provider comme Google qui annonce [**"24x7 carbon-f
 > Nous misons tout sur nos objectifs et nos actions pour construire une planète plus belle.
 
 ## En guerre face à la “sobriété numérique” ?
-Il est vrai que lorsqu’on entend [un cadre d’Air France parlait de sobriété numérique comme du "feel good" au travail et d’un axe de "talent management"](https://twitter.com/polomarcus/status/1332295290477547520), on a envie de distribuer des livres à certains.
+Il est vrai que lorsqu’on entend [un cadre d’Air France parler de sobriété numérique comme du "feel good" au travail et d’un axe de "talent management"](https://twitter.com/polomarcus/status/1332295290477547520), on a envie de distribuer des livres à certains.
 
 Et je peux donc comprendre sa colère lorsque Quentin Adam reproche à ceux qui coupent leur webcam par "sobriété numérique”, alors que cela a tendance à faire flipper leur middle management (sur leur inutilité?) qui les force ensuite à venir, [en SUV](https://monimpacttransport.fr/), au travail pour mieux les contrôler.
 
@@ -141,7 +141,7 @@ Il y a aussi l'excuse de la redirection de la responsabilité. Autrement dit, le
 > Global data centre electricity use in 2020 was 200-250 TWh1, or around 1% of global final electricity demand. This excludes energy used for cryptocurrency mining, which was ~100 TWh in 2020.
 https://www.iea.org/reports/data-centres-and-data-transmission-networks
 
-Il faut garder en tête que nos industries du numérique se base sur l'énergie fossile 
+Il faut garder en tête que nos industries du numérique se basent sur l'énergie fossile 
 et que pour respecter la vitesse de baisser des émissions pour respecter l’accord de Paris, comme [le rappel BonPote](https://bonpote.com/pourquoi-arreter-lavion-ne-devrait-plus-etre-un-debat/), **“toute baisse d’émissions est bonne à prendre. Ce n’est pas parce que l’autre pollue plus que toi que tu ne dois pas faire d’efforts."** Surtout que la direction actuelle est clairement dirigée vers [une augmentation de gaz à effet de serre.](https://twitter.com/Peters_Glen/status/1522830086906400768)
 
 
