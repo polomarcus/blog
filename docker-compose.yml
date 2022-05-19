@@ -1,0 +1,9 @@
+version: '3'
+services:
+  blog:
+    image: klakegg/hugo:latest
+    command: server --buildDrafts --buildFuture
+    volumes:
+      - ".:/src"
+    ports:
+      - "1313:1313"

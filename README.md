@@ -1,10 +1,21 @@
 # Blog
 To centralize my blog posts from dev.to / medium
 
-## Code
+## Start the blog locally
+```
+docker-compose up
+# check http://localhost:1313/blog/
+```
+
+Or
+
 ```
 hugo serve --buildDrafts --buildFuture
 ```
+
+## How to write an article
+Create a markdown file inside `content/article` 
+
 ## Blog engine
 https://gohugo.io/getting-started/
 
