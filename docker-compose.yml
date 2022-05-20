@@ -10,11 +10,6 @@ services:
       - ${PWD}:/src
     command:
       - server
+      - --bind=0.0.0.0
       - --buildDrafts
       - --buildFuture
-  test-prod:
-    image: "peaceiris/hugo:v0.99.1"
-    volumes:
-      - ${PWD}:/src
-    command:
-      - --minify
