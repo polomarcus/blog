@@ -3,7 +3,7 @@ version: '3'
 services:
   blog:
     container_name: hugo
-    image: "peaceiris/hugo:v0.98.0"
+    image: "peaceiris/hugo:v0.99.1"
     ports:
       - 1313:1313
     volumes:
@@ -13,7 +13,7 @@ services:
       - --buildDrafts
       - --buildFuture
   test-prod:
-    image: "peaceiris/hugo:v0.98.0"
+    image: "peaceiris/hugo:v0.99.1"
     volumes:
       - ${PWD}:/src
     command:
