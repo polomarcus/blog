@@ -1,9 +1,20 @@
 version: '3'
+
 services:
   blog:
-    image: klakegg/hugo:latest
-    command: server --buildDrafts --buildFuture
-    volumes:
-      - ".:/src"
+    container_name: hugo
+    image: "peaceiris/hugo:v0.98.0"
     ports:
-      - "1313:1313"
+      - 1313:1313
+    volumes:
+      - ${PWD}:/src
+    command:
+      - server
+      - --buildDrafts
+      - --buildFuture
+  test-prod:
+    image: "peaceiris/hugo:v0.98.0"
+    volumes:
+      - ${PWD}:/src
+    command:
+      - --minify
