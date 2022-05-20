@@ -10,12 +10,12 @@ images:
 
 Texte en réaction ["Comprendre les enjeux de consommation de ressource et d’énergie"](https://www.youtube.com/watch?v=gxWwxqIrCa8) Devoxx 2022 par Pierre Beysac et Quentin Adam. 
 
-Titre en référence [à cet article de 2017 "Je n’embauche jamais de poisson pané. Alors arrêtez de vous présenter comme tel."](https://waxzce.medium.com/je-nembauche-jamais-de-poisson-pan%C3%A9-alors-arr%C3%AAtez-de-vous-pr%C3%A9senter-comme-tel-1eb318ee8a20)
+Le titre en référence [à cet article de 2017 "Je n’embauche jamais de poisson pané. Alors arrêtez de vous présenter comme tel."](https://waxzce.medium.com/je-nembauche-jamais-de-poisson-pan%C3%A9-alors-arr%C3%AAtez-de-vous-pr%C3%A9senter-comme-tel-1eb318ee8a20)
 
-Je publierai ici leur réaction s'ils le souhaitent.
+Un autre texte complémentaire a été écrit [par Romain Lorenzini](https://airloren.github.io/devoxxfr/retour-conf-adam-beyssac)
 
 ## Commentaire général sur la vidéo
-Excellente vidéo dont je partage les conclusions à [45:43](https://youtu.be/gxWwxqIrCa8?t=2742) : le système mondial est en "segfault", *une situation qui ne peut pas physiquement perdurer*, et il faut combattre l'obsolescence des machines, utiliser des data centers placés dans [des zones géographiques avec de l'électricité bas carbone](https://app.electricitymap.org/map) et aligner vos valeurs à votre travail (éviter de travailler pour la Société Générale comme j'ai pu le faire). 
+Excellentes conclusions à [45:43](https://youtu.be/gxWwxqIrCa8?t=2742) : le système mondial est en "segfault", *une situation qui ne peut pas physiquement perdurer*, et il faut combattre l'obsolescence des machines, utiliser des data centers placés dans [des zones géographiques avec de l'électricité bas carbone](https://app.electricitymap.org/map) et aligner vos valeurs à votre travail (éviter de travailler pour la Société Générale comme j'ai pu le faire). 
 
 Et je les remercie chaudement de parler de ces sujets à Devoxx plutôt qu’un énième talk sur la configuration de load balancer écrit en Rust. A leur façon, ils m'ont fait penser à Aurélien Barrau :
 
