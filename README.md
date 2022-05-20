@@ -15,11 +15,6 @@ hugo serve --buildDrafts --buildFuture
 ## How to write an article
 Create a markdown file inside `content/article` 
 
-## Test
-```
-docker-compose run test-prod
-```
-
 ## Blog engine
 https://gohugo.io/getting-started/
 
