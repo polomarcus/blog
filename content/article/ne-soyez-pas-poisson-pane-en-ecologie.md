@@ -47,6 +47,9 @@ Je vois qu'il y a plein de gens qui se bougent à l’image de [Boavizta](https:
 ## L’agacement partagé
 Je les comprends, car quand des fausses informations sur l’impact du numérique comme celle de l’email et des vidéos continuent de circuler après avoir été débunké 14 fois par leur propre auteur, il est normal de prendre moins de délicatesse :
 
+> on va envoyer un mail un peu rigolo avec une pièce jointe et on va consommer beaucoup plus d'énergie
+- [Ministre de la transition énergétique - Agnès Pannier-Runacher - Mai 2022]( https://mobile.twitter.com/polomarcus/status/1529011430514741248)
+
 > “videz vos boîtes mail, ce serait déjà pas mal.”
 La ministre de la Transition écologique [Pompili à la Convention climat - 2020](https://www.huffingtonpost.fr/entry/trier-ses-mails-la-mauvaise-idee-de-pompili-a-la-convention-climat_fr_5fd7ab24c5b62f31c1ff59f7)
 
