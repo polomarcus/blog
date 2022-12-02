@@ -29,6 +29,11 @@ figcaption h4 {
 
 .post .post-thumbnail {
     padding-bottom: 0em;
+    height: 0px!;
+}
+
+.post__thumbnail {
+    height: auto;
 }
 
 .sidebar .logo-title .title h3 {
