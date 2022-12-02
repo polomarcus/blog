@@ -1,6 +1,7 @@
 ---
 title: "Ailleurs"
 date: 2022-12-02T08:00:10+01:00
+draft: false
 description: "Notre maison brûle et nous ailleurs, sur Mars."
 type: "featured"
 thumbnail: "images/ailleurs/chirac.png"
