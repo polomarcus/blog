@@ -19,20 +19,22 @@ tags:
 
 20 ans que cette phrase du président de la 5ème puissance mondiale a été popularisée. Malgré cela, les mêmes sujets d'actualité sont mis en avant depuis 20 ans, et on peut se questionner sur le sens du mot "**ailleurs**".
 
-Est ce qu'on doit regarder du côté du [dernier mot épouvantaille, choisir votre préféré parmis : woke, islamo-gauchisme, bobo, cancel culture...](https://www.youtube.com/watch?v=9-xtduLc3Ig) ? Ces mots qui ne veulent rien dire mais dont tout le monde a sa propre définition. 
+On regarde du côté du [dernier mot épouvantaille, choisir votre préféré parmis : woke, islamo-gauchisme, bobo, écolo, cancel culture...](https://www.youtube.com/watch?v=9-xtduLc3Ig). Ces mots qui ne veulent rien dire mais dont tout le monde a sa propre définition.
 
-Est ce qu'"**ailleurs**" serait seulement les 2 discours les plus clivants d'un thème vite analysés et aussitôt oubliés, plutôt que ceux nuancés qui demandent des heures d'analyse ? A se demander ce qui est devenu le plus irréaliste : croire qu'on colonisera Mars, *à condition de savoir la localiser dans le ciel et prendre le temps de l'observer filé au fil des saisons*, ou dédier 20 heures à un sujet ou à un livre pour dialoguer en tête à tête avec les plus grands esprits, *sans que le thème soit lié à un travail rémunérateur.*
 
 > Nous abîmons le langage par le fait que les phrases sont courtes, que l'argumentation disparait, qu'on provoque des clashs plutôt que de laisser place à la nuance
 > [Étienne Klein - L'importance de la nuance](https://www.youtube.com/watch?v=J-haYVS6dc4)
 
-Doit on regarder un influenceur qui présente bien recommandé par des [algorithmes de selection hors de (notre) contrôle](https://www.lemonde.fr/pixels/article/2021/10/26/comment-l-algorithme-de-facebook-echappe-au-controle-de-ses-createurs_6099888_4408996.html), ou [une conférence de 2 heures d'une scientifique de renommée mondial](https://www.youtube.com/watch?v=9X4bV9fYkfs) ?
+On regarde un influenceur qui présente bien recommandé par des [algorithmes de selection hors de (notre) contrôle](https://www.lemonde.fr/pixels/article/2021/10/26/comment-l-algorithme-de-facebook-echappe-au-controle-de-ses-createurs_6099888_4408996.html), plutôt qu'[une conférence de 2 heures d'une scientifique de renommée mondial](https://www.youtube.com/watch?v=9X4bV9fYkfs).
 
-Doit on regarder un flux continue de notifications [où seul le titre est lu](http://www.slate.fr/story/119811/reseaux-sociaux-lisent-titre) quitte à subir de l'[infobésité](https://fr.wikipedia.org/wiki/Surcharge_informationnelle) où une [information chasse](https://github.com/badele/je-n-ai-pas-oublie#je-n-ai-pas-oubli%C3%A9) l'autre rendant le recul analytique impossible ? 
+On regarde un flux continue de notifications [où seul le titre est lu](http://www.slate.fr/story/119811/reseaux-sociaux-lisent-titre) quitte à subir de l'[infobésité](https://fr.wikipedia.org/wiki/Surcharge_informationnelle) où une [information chasse](https://github.com/badele/je-n-ai-pas-oublie#je-n-ai-pas-oubli%C3%A9) l'autre rendant le recul analytique impossible.
 
 > Une information courte est une information incomplète par construction - 
 > [Jancovici - Mines cours 5 - les économies d’énergie](https://www.youtube.com/watch?t=5139&v=PEY6LmscKc4&feature=youtu.be)
 
+
+Est ce qu'"**ailleurs**" serait seulement les 2 discours les plus clivants d'un thème vite analysés et aussitôt oubliés, plutôt que ceux nuancés qui demandent des heures d'analyse ? 
+A se demander ce qui est devenu le plus irréaliste : croire qu'on colonisera Mars, *à condition de savoir la localiser dans le ciel et prendre le temps de l'observer filé au fil des saisons*, ou dédier 20 heures à un sujet ou à un livre pour dialoguer en tête à tête avec les plus grands esprits, *et ce sans que le thème soit lié à un travail rémunérateur.*
 
 ## Notre maison ne s'est pas réchauffée, elle brûle
 
@@ -50,7 +52,7 @@ On pourrait croire qu'on a compris depuis le temps, [avec ces incendies monstrue
 
 Mais on continue toujours plus fort avec les mêmes causes, à croire qu'on consommera [jusqu'à la dernière goutte de pétrole](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-11/datalab_70_chiffres_cles_energie_edition_2020_septembre2020_1.pdf) et qu'on continuera à tourner toujours plus vite dans notre cage à hamster ["dont le triste destin est la mort par épuisement" comme le disait Bernard Maris avec comme espoir de devenir l'homme ou la femme le plus riche du cimetière.](https://www.liberation.fr/futurs/2015/01/07/bernard-maris-l-alter-economiste_1175811/) *Après tout, on est obligé de faire ce taf en temps plein, et tu laisseras le soin à ta femme de passer au 4 jours par semaine pour s'occuper des enfants. Ces choses considérées souvent comme gênant la productivité des adultes.*
 
-Est ce qu'on peut penser que le problème est compris quand on voit que l'avion et la voiture restent les modes de déplacements [qui ont la plus forte croissance de 2013 à 2019 ?](https://mobile.twitter.com/AurelienBigo/status/1466707464016089090) Ou quand on voit [la rage bouillonnante des éditioralistes](https://www.youtube.com/watch?v=Q0ap0geykko) dirigée envers des routes enfin ouvertes aux piétons plutôt que dirigée vers la sédentarité chez les enfants et les adultes.
+Est ce qu'on peut penser que le problème est compris quand on voit que l'avion et la voiture restent les modes de déplacements [qui ont la plus forte croissance de 2013 à 2019 ?](https://mobile.twitter.com/AurelienBigo/status/1466707464016089090) Ou quand on voit [la rage bouillonnante des éditioralistes](https://www.youtube.com/watch?v=Q0ap0geykko) dirigée envers des routes enfin ouvertes aux piétons plutôt que dirigée vers la sédentarité systémique chez les enfants et les adultes.
 
 >  L’inactivité physique est devenue l’un des principaux facteurs de risque pour les problèmes de santé et est à l’origine d’environ 10% de la mortalité totale dans la Région européenne de l’Organisation mondiale de la santé (OMS). - *[Ministère de la santé et de la prévention](https://solidarites-sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)*
 
