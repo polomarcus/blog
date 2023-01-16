@@ -34,6 +34,11 @@ figcaption h4 {
 
 .post__thumbnail {
     height: auto;
+    
+}
+
+.post__thumbnail-wrapper {
+    max-width: 800px;
 }
 
 .sidebar .logo-title .title h3 {
