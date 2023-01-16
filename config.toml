@@ -1,4 +1,4 @@
-baseURL = "https://polomarcus.github.io/blog/"
+baseURL = "http://www.epauler.fr/"
 languageCode = "fr"
 title = "Blog"
 defaultContentLanguage = 'fr'
@@ -49,6 +49,8 @@ contentratio = 0.78
 singleDateFormat = "2006-01-02"
 indexDateFormat = "2006-01-02"
 readMore = true
+
+params.assets.disableFingerprinting = true
 
 [taxonomies]
     category = "categories"

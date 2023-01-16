@@ -45,15 +45,25 @@ figcaption h4 {
 }
 
 @media screen and (max-width: 600px) {
-    .sidebar .description {
+    .sidebar__introduction-description {
         display: none;
     }
 
-    .content {
-        margin-top: 0px;
+    .wrapper__sidebar {
+        padding: 16px 0 0 0;
     }
 
-    .sidebar .title img {
+    .post__content p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .post__content h3 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .sidebar__introduction-profileimage{
         display: none;
     }
 
