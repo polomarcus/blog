@@ -30,7 +30,7 @@ Lors du rapport du groupe 1 du GIEC de 2021, l'augmentation des extrêmes de cha
 
 > A.3.1 Il est pratiquement certain que les canicules (y compris les vagues de chaleurs) sont devenues plus fréquentes et plus intenses à travers la plupart des régions continentales depuis les années 1950 - [Source Résumé pour décideurs GIEC 2021](https://resumegiec.wordpress.com/2021/08/11/rapport-du-giec-resume-pour-les-decideurs/)
 
-{{< figure alt="Augmentation des vagues de chaleur liées aux activités humaines fossiles" src="/blog/images/dontlookup/giec_resume_decideurs_temperature.png" title="Augmentation des vagues de chaleur liées aux activités humaines fossiles - source GIEC SPM-12" >}}
+{{< figure alt="Augmentation des vagues de chaleur liées aux activités humaines fossiles" src="/images/dontlookup/giec_resume_decideurs_temperature.png" title="Augmentation des vagues de chaleur liées aux activités humaines fossiles - source GIEC SPM-12" >}}
 
 ## Méthodologie
 J'avais déjà fait l'exercice sociologique de regarder certains JTs, mais je n'avais pas continué l'expérience longtemps car cela prend du temps et que j'aurais certainement fini en convalescence. J'ai remercié 1000 fois [l'équipe d'Arret sur Images d'avoir fait cette expérience pendant **36 heures** pour la sortie du rapport du groupe 1 du GIEC cet été : résultat moins d'une heure cumulée sur le sujet...](https://www.arretsurimages.net/articles/climat-bfmtv-et-cnews-regardent-ailleurs)
@@ -51,22 +51,22 @@ Voici des citations extraites des reportages de 1 min 30 à 2 min 20, où on ne 
 Mon extrait préféré : 
 > Avec cette douceur, on trinque comme en été : au rosé - [JT du 20h de TF1, 29 décembre 2021](https://www.tf1.fr/tf1/jt-20h/videos/22-degres-en-decembre-des-records-de-douceur-27070617.html)
 
-{{< figure alt="Deux personnes trinquant au rosé en terrasse un 31 décembre" src="/blog/images/dontlookup/rosé.png" title="Santé !" >}}
+{{< figure alt="Deux personnes trinquant au rosé en terrasse un 31 décembre" src="/images/dontlookup/rosé.png" title="Santé !" >}}
 
 > Des températures largement positives, et de la pluie : à 2 000 mètres d’altitude en Savoie, la douceur est remarquable. - [JT du 20h de France 2, 29 décembre 2021](https://www.francetvinfo.fr/meteo/montagne-des-conditions-meteo-delicates-sur-les-pistes-de-ski-tres-frequentees_4897963.html)
 
 > La douceur estivale profite aux commerçants de Biarritz - [JT du 13h de France 2, 30 décembre 2021](https://www.francetvinfo.fr/meteo/meteo-la-douceur-estivale-profite-aux-commercants-de-biarritz_4898879.html)
 
-{{< figure alt="Une personne buvant un café et un jus d'orange" src="/blog/images/dontlookup/cafe.png" title="'Il va faire 22 cette après midi : c'est toppisme !'" >}}
+{{< figure alt="Une personne buvant un café et un jus d'orange" src="/images/dontlookup/cafe.png" title="'Il va faire 22 cette après midi : c'est toppisme !'" >}}
 
 
 > Le glacier se frotte les mains - [JT du 20h de France 2, 30 décembre 2021](https://www.francetvinfo.fr/meteo/meteo-des-temperatures-printanieres-pour-les-vacanciers-d-hiver_4899073.html)
 
-{{< figure alt="Un glacier vendant des glaces un 31 décembre" src="/blog/images/dontlookup/glacier.png" title="'Le glacier se frotte les mains'" >}}
+{{< figure alt="Un glacier vendant des glaces un 31 décembre" src="/images/dontlookup/glacier.png" title="'Le glacier se frotte les mains'" >}}
 
 > On est en t-shirt c'est très très très agréable - [JT de 20h TF1, 30 décembre 2021](https://www.tf1.fr/tf1/jt-20h/videos/temperatures-record-une-canicule-dhiver-61808760.html)
 
-{{< figure alt="Une personne en camping en maillot en décembre" src="/blog/images/dontlookup/camping.png" title="'Il fait bon, là !'" >}}
+{{< figure alt="Une personne en camping en maillot en décembre" src="/images/dontlookup/camping.png" title="'Il fait bon, là !'" >}}
 
 A noter dans ce reportage de TF1 qu'une femme **est inquiète des température**, mais les journalistes ont préféré rebondir avec cette phrase comme [dans cette scène du film](https://www.youtube.com/watch?v=RiJdBAOtL5Y) où les scientifiques annoncent une nouvelle bouleversante pour l'humanité et que les journalistes passent sans transition vers un nouveau médicament :
 > Et en terrasse, on est nombreux à en profiter - [JT de 20h TF1, 30 décembre 2021](https://www.tf1.fr/tf1/jt-20h/videos/temperatures-record-une-canicule-dhiver-61808760.html)
@@ -81,19 +81,19 @@ Sur ce, la voix off enchaîne telle une séquence du "Zapping" de Patrick Menay 
 Même la restauratrice a droit à son témoignage :
 > On a eu beaucoup de monde pour les crèpes, les gauffres...
 
-{{< figure alt="Une partie de pétanque en décembre" src="/blog/images/dontlookup/petanque.png" title="'Les amateurs de pétanque vont pouvoir en profiter'" >}}
+{{< figure alt="Une partie de pétanque en décembre" src="/images/dontlookup/petanque.png" title="'Les amateurs de pétanque vont pouvoir en profiter'" >}}
 
 Ce même prévisionniste de Météo France a été interviewé par les journalistes de TF1, le problème reste le même, lorsque Jean Yves Choplin parle de la variabilité de la météo et qu'il enchaîne avec le problème de l'augmentation des fréquences sans que la cause ne soit citée... ([voir à 0:50 de ce JT de TF1 du 28 décembre 2021](https://www.tf1.fr/tf1/jt-20h/videos/climat-lhiver-de-tous-les-extremes-12707249.html)). Enfin la cause a le mérite d'être cité seulement par TF1, mais c'est à la fin du reportage et **avec moins de temps de parole que les skieurs qui sont sous la pluie.** Cela donne l'impression que le réchauffement climatique vient d'une source [magique, inconnue et qu'on est impuissant pour le combattre](https://polomarcus.github.io/blog/article/r%C3%A9sum%C3%A9-du-resum%C3%A9-ar6-sud-france/) : 
 
 > En Arctique, le réchauffement climatique est 3 fois plus rapide que dans le reste du monde. - [JT du 20h de TF1, 28 décembre 2021](https://www.tf1.fr/tf1/jt-20h/videos/climat-lhiver-de-tous-les-extremes-12707249.html)
 
-{{< figure alt="La fonte de la banquise et les températures extrêmes au Groenland" src="/blog/images/dontlookup/groenland.png" title="9 secondes sur le réchauffement climatique" >}}
+{{< figure alt="La fonte de la banquise et les températures extrêmes au Groenland" src="/images/dontlookup/groenland.png" title="9 secondes sur le réchauffement climatique" >}}
 
 
 [Au 13h de France 2 du 30 décembre](https://www.francetvinfo.fr/meteo/climat/meteo-des-temperatures-tres-douces-pour-la-derniere-semaine-de-l-annee-2021_4898877.html), nous avons droit à 1min30 (noter la durée) sur le sujet, **mais sans évoquer l'augmentation des fréquences liée au changement climatique.** 
 Apparremment, la courte intervention de Jean Yves Choplin 2 jours avant n'a pas marqué les journalistes qui ont préparé le sujet. Chloé Nabédian, celle qui présente ce sujet, est ["journaliste spécialisée sur l'environnement et le climat" et a déjà couvert la COP21](https://fr.wikipedia.org/wiki/Chlo%C3%A9_Nab%C3%A9dian). Elle avait parlé du changement climatique pour le même genre de sujet dans [un JT de France 2 en 2016](https://www.youtube.com/watch?v=rhqtw4EUCUQ) ou devant François Hollande en [novembre 2021](https://www.facebook.com/watch/?v=203203001948217). Pourquoi une personne compétente sur le sujet n'en parle tout simplement pas : Limite de temps ? Excuses des vacances de Noël ? Défaut de culture scientifique dans les rédactions ? Le manque de régularité pose questions.
 
-{{< figure alt="La fonte de la banquise et les températures extrêmes au Groenland" src="/blog/images/dontlookup/2016.png" title="Dans ce reportage de 2016 par la même journaliste, le constat était clair" >}}
+{{< figure alt="La fonte de la banquise et les températures extrêmes au Groenland" src="/images/dontlookup/2016.png" title="Dans ce reportage de 2016 par la même journaliste, le constat était clair" >}}
 
 ## Sur la télévision
 Ceux qui ont suivi les cours des Mines de Jancovici ont pu être marqués par [comment apprécier le traitement d'une information par les médias.](https://youtu.be/PEY6LmscKc4?t=4963) En quelques mots, on vit dans un monde avec l'information imparfaite **où le nouveau passe devant l'important.**
@@ -117,7 +117,7 @@ Si je parle de ça, c'est que Jean Yves Choplin, le prévisionniste à Météo F
 
 Ce passage sur le changement climatique a a été coupé au montage **et cela enlève tout la substance à son intervention.** De plus que son employeur, Météo France, est engagé dans ce combat de diffusion de l'information et a notamment pour photo de couverture sur les réseaux sociaux [les rayures d'anomalies de température](https://showyourstripes.info/s/globe). Cette même personne avait déjà pu justifier du changement climatique dans d'autres interventions comme [sur France Info lors d'une des canicules de 2020](https://twitter.com/franceinfoplus/status/1288746537691086851).
 
-{{< figure alt="Les anomalies de témpératures par année de bleu en rouge, on observe que le rouge est majoritaire de plus en plus fréquemment" src="/blog/images/dontlookup/meteofrance.png" title="Photo de couverture Twitter de Météo France, l'employeur de M. Choplin" >}}
+{{< figure alt="Les anomalies de témpératures par année de bleu en rouge, on observe que le rouge est majoritaire de plus en plus fréquemment" src="/images/dontlookup/meteofrance.png" title="Photo de couverture Twitter de Météo France, l'employeur de M. Choplin" >}}
 
 ## Conclusion
 Cette vague de chaleur traitée comme un fait décorrélé [du plus grand défi de l'humanité](https://www.youtube.com/watch?v=tk-QuMCbw2I), montre à quel point nous sommes loins d'être prêts à affronter [le changement climatique déjà en cours](https://bonpote.com/les-10-photos-qui-ont-marque-lannee-2021/) et des solutions pour le combattre : [-5% des émissions de gaz à effet de serre par an pendant 30 ans.](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/) **C’est une économie de guerre.**

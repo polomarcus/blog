@@ -41,7 +41,7 @@ A se demander ce qui est devenu le plus irréaliste : croire qu'on colonisera Ma
 
 A travers les rapports du Groupe d'experts Intergouvernemental sur l'Evolution du Climat (GIEC) et les faits météos ["qui battent des records"](https://france3-regions.francetvinfo.fr/occitanie/gard/intemperies-gard-un-episode-cevenol-qui-bat-des-records-historiques-de-pluie-et-de-foudre-2251345.html) et qui confirment les prévisions scientifiques sur l'évolution de [l'intensité](https://www.20minutes.fr/planete/3167891-20211111-intemperies-pluviometres-confirment-intensification-pluies-extremes-cevennes) et [des fréquences](https://bonpote.com/inondations-est-ce-la-faute-du-changement-climatique/), les éditorialistes ont de moins en moins le choix d'ignorer le problème. Même si des [sujets insignifiants volent toujours la vedette aux sujets de fond](https://www.arretsurimages.net/articles/climat-bfmtv-et-cnews-regardent-ailleurs). 
 
-{{< figure alt="This is fine (un meme avec un chien qui boit un café dans un incendie)" src="/blog/images/ailleurs/this-is-fine.jpg" title="" >}}
+{{< figure alt="This is fine (un meme avec un chien qui boit un café dans un incendie)" src="/images/ailleurs/this-is-fine.jpg" title="" >}}
 
 
 > Notre maison brûle, et nous regardons Messi arriver au PSG.
@@ -61,7 +61,7 @@ Est ce qu'on a compris lorsqu'il est difficile [d'argumenter sur la nécessité 
 
 Est ce que le problème est compris lorsque des abbérations sont écrites [sur les maillots](https://twitter.com/OL/status/1462477659561095169) des équipes de foot les plus populaires du pays ?
 
-{{< figure alt="Messi avec un brassard 'save the planet'" src="/blog/images/ailleurs/save-the-planet.png" title="Save the planet with private jets and AC" >}}
+{{< figure alt="Messi avec un brassard 'save the planet'" src="/images/ailleurs/save-the-planet.png" title="Save the planet with private jets and AC" >}}
 
 
 [Des startups privées](https://www.lemonde.fr/campus/article/2021/11/22/sur-facebook-la-generation-z-trolle-la-culture-start-up-et-le-monde-de-l-entreprise_6103086_4401467.html) proposées comme ultimes solutions pour mieux gérer comme ["un bon père de famille"](https://www.monde-diplomatique.fr/publications/manuel_d_economie_critique/a57207) le [service public](https://nosservicespublics.fr/perte-de-sens) alors que [ses moyens diminuent d'années en années](https://nosservicespublics.fr/externalisation) malgré son rôle essentiel dans l'éducation, la santé, la sécurité, [les transports](https://youtu.be/oweVFXFFh04?t=3104) et l'énergie.

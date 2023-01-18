@@ -28,7 +28,7 @@ Malgré tout, j'ai détecté un manque de nuance et 3 excuses pour [l'inaction](
 * L’efficacité énergétique, avec de l'énergie toujours moins carbonée
 * La redirection de la responsabilité vers d'autres secteurs plus polluant 
 
-{{< figure alt="Tweet : Cette vidéo est absolument à regarder" src="/blog/images/poisson/absolue.png" title="Tweet d'un fondateur de start up qui ne voit rien à redire sur la présentation" >}}
+{{< figure alt="Tweet : Cette vidéo est absolument à regarder" src="/images/poisson/absolue.png" title="Tweet d'un fondateur de start up qui ne voit rien à redire sur la présentation" >}}
 
 **Il y a aussi un décalage entre savoir et faire.** Pour l'illustrer, je peux citer ces amis d'une start up qui ont planifié, *avec un prix de l'essence à 2€ le litre*, de faire 200 km pour aller manger de la viande à volonté en afterwork. La dissonance entre leurs consciences du problème et leurs actions avait troublé mon sommeil ce soir là. Je le répète, **ce système ne peut pas perdurer physiquement.**
 
@@ -42,7 +42,7 @@ En tant que membre de la communauté tech, j’essaie de suivre les conférences
 Également, depuis 3 ans, après m’être pris une claque à [une fresque du climat](https://www.linkedin.com/posts/paleclercq_giec-activity-6929346959409332224-zXMj), je fais attention à ce que disent les influenceurs de la communauté tech sur l'écologie, et je suis parfois surpris par leur agacement sur les reproches qu’on peut faire au numérique. Ils me font penser à certains pilotes d’avion qui refusent de voir que leur industrie n’a pas d’autres choix que de se transformer pour avoir une chance de respecter l’accord de Paris. 
 Je vois qu'il y a plein de gens qui se bougent à l’image de [Boavizta](https://boavizta.org/blog/empreinte-de-la-fabrication-d-un-serveur), des influenceurs tech comme [Tristan Nitot](https://standblog.org/blog/post/2021/10/20/Num%C3%A9rique-et-climat-se-focaliser-sur-ce-qui-est-important), GreenIT, [EcoInfo](https://ecoinfo.cnrs.fr/2022/03/17/les-neutralites-carbone-des-entreprises-du-numerique/)...
 
-{{< figure alt="Comparaison entre le réchauffement climatique et le corps humain, à 1 degré de plus on a une fièvre, à +5 degré on meurt." src="/blog/images/poisson/human.png" title="TL; DR : l'accord de Paris" >}}
+{{< figure alt="Comparaison entre le réchauffement climatique et le corps humain, à 1 degré de plus on a une fièvre, à +5 degré on meurt." src="/images/poisson/human.png" title="TL; DR : l'accord de Paris" >}}
 
 ## L’agacement partagé
 Je les comprends, car quand des fausses informations sur l’impact du numérique comme celle de l’email et des vidéos continuent de circuler après avoir été débunké 14 fois par leur propre auteur, il est normal de prendre moins de délicatesse :
@@ -73,18 +73,18 @@ En quelques mots, ne prenons pas pour des doux dingues ceux qui parlent de sobri
 ## [12:06](https://youtu.be/gxWwxqIrCa8?t=727) - Toujours plus efficace énergétiquement ? 
 Il est vrai que des progrès ont été faits en énergie. Le problème de montrer cette image sur l'efficacité énergétique, c’est qu’on pourrait croire qu’il suffit de compter sur les ingénieurs et d'attendre pour résoudre le problème climatique : 
 
-{{< figure alt="Les emissions de cO2 pour 1 kwh produite, la tendance est à la baisse depuis 30 ans" src="/blog/images/poisson/efficacite.png" title="" >}}
+{{< figure alt="Les emissions de cO2 pour 1 kwh produite, la tendance est à la baisse depuis 30 ans" src="/images/poisson/efficacite.png" title="" >}}
 
 > C’est le boulot des ingénieurs. Faites-moi des machines plus efficaces, et faites-moi une énergie plus décarbonée. Allez-y ! Au boulot, bande de fainéants !
 [Jancovici - Cours des Mines](https://jancovici.com/wp-content/uploads/2020/07/Jancovici_Mines_ParisTech_cours_5.pdf)
 
 Cependant, on observe qu’on gagne péniblement 30% en efficacité en un peu plus de 50 ans, et qu’en même temps on consomme de plus en plus d’énergie, évidemment carbonée. Et certains gains sont liés à la montée en puissance du gaz, qui est la moins carbonée des energies fossiles. Mais quand même une saloperie finançant de très belles personnes.
 
-{{< figure alt=" la quantité d’électricité qu’on utilise aujourd’hui dans le monde a considérablement augmenté par rapport à il y a quelques dizaines d’années, principalement liée au pétrole, gaz et charbon" src="/blog/images/poisson/janco-mines-usage-energie.png" title="" >}}
+{{< figure alt=" la quantité d’électricité qu’on utilise aujourd’hui dans le monde a considérablement augmenté par rapport à il y a quelques dizaines d’années, principalement liée au pétrole, gaz et charbon" src="/images/poisson/janco-mines-usage-energie.png" title="" >}}
 
 Si nous voulons regarder le problème dans son ensemble, nous nous retrouvons dans “l’enfer de la règle de trois” et [de l’équation de Kaya](https://jancovici.com/changement-climatique/economie/quest-ce-que-lequation-de-kaya/). Nous devons réduire les émissions de gaz à effet de serre par 5 en France d'ici 2050 en jouant sur les variables de cette équation :
 
-{{< figure alt="Emissions de GES =Contenu en GES de l’energie ×Intensite energetique de l’economie×Production par personne×Population" src="/blog/images/poisson/kaya.png" title="" >}}
+{{< figure alt="Emissions de GES =Contenu en GES de l’energie ×Intensite energetique de l’economie×Production par personne×Population" src="/images/poisson/kaya.png" title="" >}}
 
 > Parce que, à tout prendre, **c’est peut-être mieux d’avoir un PIB en baisse plutôt que de se faire la guerre, de mourir de maladies, ou de mourir de faim.** - Jancovici - cours 5 des Mines
 
@@ -100,7 +100,7 @@ Pour creuser plus loin, Philippe Bihouix a également répondu à toutes les "r�
 ## [20:00](https://youtu.be/gxWwxqIrCa8?t=1201) - Sur la 5G
 En effet la 5G pousse notamment au pire impact sur l'environnement, c'est-à-dire à encourager les utilisateurs à renouveler leur appareils pour être compatible 5G, comme rappelé à 34:00. Il n’y a qu’à aller sur les sites de nos opérateurs préférés pour voir les offres spéciales sur les téléphones compatibles 5G. *Et bien entendu si t’es pas compatible t’es tout naze socialement, alors achète toi vite un nouveau télépĥone.*
 
-{{< figure alt="Une offre pour changer son mobile et qu'il soit enfin compatible 5G" src="/blog/images/poisson/5g.png" title="Une offre à pas louper" >}}
+{{< figure alt="Une offre pour changer son mobile et qu'il soit enfin compatible 5G" src="/images/poisson/5g.png" title="Une offre à pas louper" >}}
 
 
 ## [36:00](https://youtu.be/gxWwxqIrCa8?t=2155) - Une fuite en avant technologique assumée
@@ -109,23 +109,23 @@ En effet la 5G pousse notamment au pire impact sur l'environnement, c'est-à-dir
 
 Cette phrase [néoschumpétérienne](https://www.mediapart.fr/journal/economie/080522/le-travail-face-aux-impasses-du-capitalisme-contemporain),  voire cornucopienne, fait mal à entendre car de nombreuses références sont disponibles et nous empêchent de tenir ce genre de phrase : [les pics des énergies fossiles facilement accessible avec la baisse des Energy return on investment](https://podcast.ausha.co/dernieres-limites/episode-7) (rassurez vous il y a en assez pour nous amener à un monde à +5°) ou en écoutant [Aurore Stéphant sur la concentration des mines](https://www.youtube.com/watch?v=xx3PsG2mr-Y). Spécialement dans un climat qui change et [qui perturbe les usines.](https://www.leblogauto.com/actualite/taiwan-industrie-puces-menacee-par-une-secheresse-critique-71371) 
 
-{{< figure alt="Le prix du lithium a fait fois 7 depuis 2020 en mai 2022" src="/blog/images/poisson/lithium.png" title="Un remplaçant au lithium ?" >}}
+{{< figure alt="Le prix du lithium a fait fois 7 depuis 2020 en mai 2022" src="/images/poisson/lithium.png" title="Un remplaçant au lithium ?" >}}
 
 En bref, on consomme de plus en plus d'énergie pour extraire des mines toujours moins abondantes
 
-{{< figure alt="Vue d'artiste d'une mine à ciel ouvert avec tout ce qu'elle a extraite en cuivre, une petite boule au milieu d'un enorme cratère" src="/blog/images/poisson/copper07.jpg" title="Palabora Mine - 4.1 million tonnes of copper - DILLON MARSH" >}}
+{{< figure alt="Vue d'artiste d'une mine à ciel ouvert avec tout ce qu'elle a extraite en cuivre, une petite boule au milieu d'un enorme cratère" src="/images/poisson/copper07.jpg" title="Palabora Mine - 4.1 million tonnes of copper - DILLON MARSH" >}}
 
 
 ## [41:20](https://youtu.be/gxWwxqIrCa8?t=2471) - La population mondiale, le vrai problème ?
 
-{{< figure alt="Slide de la conférence: vivre à 8 milliards sur la planète OU juste avoir peur du futur" src="/blog/images/poisson/population-bomb.png" title="" >}}
+{{< figure alt="Slide de la conférence: vivre à 8 milliards sur la planète OU juste avoir peur du futur" src="/images/poisson/population-bomb.png" title="" >}}
 
 Certainement car ils n'avaient plus beaucoup de temps, ce passage devient hors sol. Premièrement, un [sophisme de l’homme de paille](https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique)) est utilisé pour qualifier les critiques de “réactionnaires” et qui ont “peur du futur”. Sans la nommer, on entend parler de décroissance mais complètement caricaturée comme la [première page de Valeurs Actuelles](https://www.linkedin.com/posts/bon-pote_daezcroissance-croissanceverte-dictatureverte-activity-6685817418171879424-pUm_/). 
 Est ce que les chercheurs du MIT Donella Meadows, Dennis Meadows et Jorden Randers sont des "réactionnaires" dans leur rapport ["The Limits To Growth"](https://en.wikipedia.org/wiki/The_Limits_to_Growth) ?
 
 Comme on ne peut certainement pas encore parler décroissance à Devoxx en 2022, je fais une parenthèse sur le [projet de décroissance](https://bonpote.com/propos-6-la-decroissance-subie-nexiste-pas/). Ce n'est absolument pas "un retour à la bougie" mais bien un projet de société, comme on peut le lire dans [le rapport du group 3 du GIEC de 2022](https://timotheeparrique.com/degrowth-in-the-ipcc-ar6-wgiii/) ou bien [le Plan de Transformation de l'Economie Française du Shift Project.](https://ilnousfautunplan.fr/)
 
-{{< figure alt="Un tweet retweeté par Quentin Adam de l'édiotorialiste Emmanuelle Ducros" src="/blog/images/poisson/decroissants.png" title="Une éditorialiste, voulant faire du click, tente de faire croire que la décroissance n'a pas de sens car il existe un robot désherbant" >}}
+{{< figure alt="Un tweet retweeté par Quentin Adam de l'édiotorialiste Emmanuelle Ducros" src="/images/poisson/decroissants.png" title="Une éditorialiste, voulant faire du click, tente de faire croire que la décroissance n'a pas de sens car il existe un robot désherbant" >}}
 
 En réponse courte face à un tweet tristement provocateur, on peut citer Ivan Illich dans "La convivialité"
 
@@ -148,7 +148,7 @@ Il faut garder en tête que nos industries du numérique se basent sur l'énergi
 et que pour respecter la vitesse de baisser des émissions pour respecter l’accord de Paris, comme [le rappel BonPote](https://bonpote.com/pourquoi-arreter-lavion-ne-devrait-plus-etre-un-debat/), **“toute baisse d’émissions est bonne à prendre. Ce n’est pas parce que l’autre pollue plus que toi que tu ne dois pas faire d’efforts."** Surtout que la direction actuelle est clairement dirigée vers [une augmentation de gaz à effet de serre.](https://twitter.com/Peters_Glen/status/1522830086906400768)
 
 
-{{< figure class="small" alt="" src="/blog/images/poisson/toutvabien.jpeg" title="GIEC AR6 (2022) - WG3 - Tim Parrique - https://twitter.com/timparrique/status/1516673024728182790" >}}
+{{< figure class="small" alt="" src="/images/poisson/toutvabien.jpeg" title="GIEC AR6 (2022) - WG3 - Tim Parrique - https://twitter.com/timparrique/status/1516673024728182790" >}}
 
 ### Sur la peur et les émotions
 "Avoir peur" face à l'extermination du vivant et les crises climatiques actuelles s'appelle avoir de la lucidité. En tant qu'ingénieur, il est temps d'accepter nos émotions, car c'est elles qui nous mettent en mouvement.

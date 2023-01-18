@@ -44,7 +44,7 @@ Elles possèdent ce format :
 ## Exemple d'exploitation des données
 Pour une analyse sur le thème **des changements climatiques** [un site a été fait](https://polomarcus.github.io/television-news-analyser/website/), il affiche des graphiques [rafraîchis chaque jour par la Github Action](https://github.com/polomarcus/television-news-analyser/blob/380ec0ef09893f37329484afd204ab7e0e5165c5/src/main/scala/com/github/polomarcus/storage/StorageService.scala#L42-L44).
 
-{{< figure class="small" alt="Des graphiques et des tableaux faits à partir des données brutes des JT" src="/blog/images/jts-analyse/tableau-reportages.png" title="Exemple de visuel disponible sur le site du projet fait à partir des données brutes des JT" >}}
+{{< figure class="small" alt="Des graphiques et des tableaux faits à partir des données brutes des JT" src="/images/jts-analyse/tableau-reportages.png" title="Exemple de visuel disponible sur le site du projet fait à partir des données brutes des JT" >}}
 
 Egalement une analyse bientôt disponible à la suite de ce post utilise une base de données SQL, Postgres, et un outil de visualisation, Metabase, à faire fonctionner chez vous avec une seule ligne de commande basée sur Docker Compose : https://github.com/polomarcus/television-news-analyser#requirements
 

@@ -28,11 +28,11 @@ Un point vocabulaire sur le changement climatique du sociologue Jean Baptiste Co
 En guise d'introduction, on peut regarder quels sont les grands thèmes du JT de 20h de France 2 sur les 3 dernieres années, qui sont grossièrement les mêmes que ceux de TF1.
 
 ### 2020 et 2021 - Une explosion des reportages sur le coronavirus
-{{< figure class="small" alt="Covid-19 (775), Etats Unis (109), Vaccin covid (69), Afghanistan (57)" src="/blog/images/jts-analyse/theme-jt-2021.png" title="Thème des JT de France 2 en 2021" >}}
-{{< figure class="small"  alt="Coronavirus (1073), Déconfinement/Confinement (317); États-Unis (137)" src="/blog/images/jts-analyse/theme-jt-2020.png" title="Thème des JT de France 2 en 2020" >}}
+{{< figure class="small" alt="Covid-19 (775), Etats Unis (109), Vaccin covid (69), Afghanistan (57)" src="/images/jts-analyse/theme-jt-2021.png" title="Thème des JT de France 2 en 2021" >}}
+{{< figure class="small"  alt="Coronavirus (1073), Déconfinement/Confinement (317); États-Unis (137)" src="/images/jts-analyse/theme-jt-2020.png" title="Thème des JT de France 2 en 2020" >}}
 
 ### Parenthèse sur la canicule de 2019
-{{< figure class="small"  alt="Gilets jaunes (75) Réforme des retraites (71) États-Unis (64) **Canicule (57)**" src="/blog/images/jts-analyse/theme-jt-2019.png" title="Thème des JT de France 2 en 2019" >}}
+{{< figure class="small"  alt="Gilets jaunes (75) Réforme des retraites (71) États-Unis (64) **Canicule (57)**" src="/images/jts-analyse/theme-jt-2019.png" title="Thème des JT de France 2 en 2019" >}}
 
 Les **canicules de 2019 (juin et juillet)** est le seul thème dont les JT ont le plus parlé lié aux changemements climatiques, hélas quand on zoome sur ce thème on trouve ce genre de reportage loufoque :
 * [Soldes d'été : la canicule et le mouvement des Gilets jaunes **pénalisent** les commerçants - TF1](https://www.tf1info.fr/societe/soldes-d-ete-la-canicule-et-le-mouvement-des-gilets-jaunes-penalisent-les-commercants-2128968.html)
@@ -52,7 +52,7 @@ intense across most land regions since the 1950s **- Résumé pour décideurs GI
 
 ## Les reportages de 2013 à 2021 parlant du climat
 
-{{< figure alt="Nombre de reportages par mois sur les changements climatiques, on oscille surtout entre 1 et 18 reportages par mois sur 400" src="/blog/images/jts-analyse/nombre_reportage_mois_media_theme_ajoute.png" title="Tous les reportages mentionnant les changements climatiques" >}}
+{{< figure alt="Nombre de reportages par mois sur les changements climatiques, on oscille surtout entre 1 et 18 reportages par mois sur 400" src="/images/jts-analyse/nombre_reportage_mois_media_theme_ajoute.png" title="Tous les reportages mentionnant les changements climatiques" >}}
 
 J'ai regardé une centaine de reportages sur 8 ans. J'ai été ému de voir [Nicolas Chateauneuf](https://twitter.com/nchateauneuf), la personne qui présente presque chaque sujet sur le climat, prendre de l'âge, pousser même une barbe plutôt sympathique et commencer à mettre des lunettes. Mais à part cela, le constat est plutôt déplaisant. [Je ne parle pas des voix uniformisées presque caricaturales des reportages](https://www.lemonde.fr/big-browser/article/2017/04/08/pourquoi-les-journalistes-parlent-ils-tous-de-la-meme-facon-dans-les-jt_5108293_4832693.html), mais les rares reportages parlant des changements climatiques mettent souvent son lien avec celui-ci [au conditionnel]((https://www.tf1info.fr/environnement-ecologie/video-rechauffement-climatique-les-cotes-francaises-sensibles-aux-montees-des-eaux-2137634.html)), et parfois le [nient](https://www.francetvinfo.fr/france/meteo-une-douceur-pas-forcement-liee-au-rechauffement-climatique_1325475.html).
 
@@ -61,7 +61,7 @@ On nomme encore plus [rarement](https://www.francetvinfo.fr/monde/environnement/
 
 Par contre, chaque année [on parle de records](https://www.francetvinfo.fr/meteo/climat/records-de-temperatures-cette-journee-pourrait-entrer-dans-l-histoire_3549837.html), en oubliant que l'année dernière on avait déjà battu le record, **en pleine amnésie générale.**
 
-{{< figure alt="Un drame à la patinoire, suivi d'un cri d'alarme des scientifiques sur le climat" src="/blog/images/jts-analyse/cridalarme-apres-fait-divers.png" title="Un JT de France 2, un fait divers en 3ème position, et ensuite le cri d'alarme, même les journalistes ont l'air lassé de les relayer" >}}
+{{< figure alt="Un drame à la patinoire, suivi d'un cri d'alarme des scientifiques sur le climat" src="/images/jts-analyse/cridalarme-apres-fait-divers.png" title="Un JT de France 2, un fait divers en 3ème position, et ensuite le cri d'alarme, même les journalistes ont l'air lassé de les relayer" >}}
 
  Et on alterne entre le pire : 
 
@@ -80,25 +80,25 @@ Le sociologue Jean Baptiste Comby précise que les experts comme Jean Jouzel ou 
 
 Les changements climatiques “sont causés par les ‘activités humaines’. Or le flou de cette catégorie universalisante, illustrée par des fumées d'usines ou des pots d’échappements, **ne favorise pas une discussion sur les logiques productives, industrielles ou financières pouvant aggraver l’effet de serre.**"
 
-{{< figure alt="Des fumées d'une usine" src="/blog/images/jts-analyse/usine-france2.png" title="Le classique pour illustrer un reportage sur le climat" >}}
+{{< figure alt="Des fumées d'une usine" src="/images/jts-analyse/usine-france2.png" title="Le classique pour illustrer un reportage sur le climat" >}}
 
 ##  Vers une augmentation des fréquences de reportages sur les changements climatiques ?
 Le réflexe naturel serait de dire qu'on a de plus en plus de reportages sur les changements climatiques et ses causes. **Non**, toujours la même courbe d’environ 45 reportages dans l’année sur 3000 reportages par an pour TF1 et 5000 pour France 2, **soit entre 0,4 et 1.4% max par an.**
 
-{{< figure alt="Une courbe autour de 45 reportages par an sans augmentation de 2013 à 2021" src="/blog/images/jts-analyse/nombredeportageclimat_paran_parmedia.png" title="Nombre de reportages par an sur le changement climatique" >}}
+{{< figure alt="Une courbe autour de 45 reportages par an sans augmentation de 2013 à 2021" src="/images/jts-analyse/nombredeportageclimat_paran_parmedia.png" title="Nombre de reportages par an sur le changement climatique" >}}
 
 ## L'ordre des reportages
 Comme l'ordre des pages de résultats de Google, **plus on s'éloigne loin de la première page de résultats moins le reportage est pertinent pour les rédactions.** On assiste à une [gaussienne](http://images.math.cnrs.fr/La-courbe-en-cloche.html) centrée **autour du milieu du JT** : 11ème position sur en général 17 ou 20 reportages dans un JT. 
 
 Les JT de France 2 ont ouvert seulement 8 fois depuis 2013 avec un sujet parlant des changements climatiques. Ca a été par exemple [la démission de Nicolas Hulot](https://www.francetvinfo.fr/politique/gouvernement-d-edouard-philippe/nicolas-hulot-les-raisons-de-sa-demission-surprise_2915243.html), ou [la COP21](https://www.francetvinfo.fr/meteo/climat/cop21/cop21-24-heures-pour-finaliser-un-accord_1218971.html).
 
-{{< figure alt="Un presentateur devant le risque d'incendie au Canada" src="/blog/images/jts-analyse/distribution_ordre_dans_jt.png" title="Distribution de l'ordre des JT" >}}
+{{< figure alt="Un presentateur devant le risque d'incendie au Canada" src="/images/jts-analyse/distribution_ordre_dans_jt.png" title="Distribution de l'ordre des JT" >}}
 
 **Un exemple caricaturale**, c'est l'ouverture de [ce JT de France 2](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/jt-de-20h-du-mardi-17-septembre-2019_3594927.html) du 17 septembre 2019 avec ce bon reportage ["Réchauffement climatique : les prévisions encore plus sombres"](https://www.francetvinfo.fr/meteo/climat/rechauffement-climatique-les-previsions-encore-plus-sombres_3620737.html) qui enchaine par contre [avec des petites solutions sur les émissions sur l'élevage de vaches](https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/ecologie-quand-les-eleveurs-decident-d-etre-vertueux_3620801.html) sans mentionner l'importance [d'arreter ou de réduire la viande](https://bonpote.com/wp-content/uploads/2021/05/ALIMENTATION-BON-POTE-1.png) comme le recommandent des [think tank pour décarbonner notre économie](https://ilnousfautunplan.fr/). 
 
 Et bien sûr le reportage d'après sur le **pétrole** parle des **"automobilistes qui se ruent sur les pompes"** sans évoquer les changements climatiques.
 
-{{< figure alt="4 reportages du JT de France 2" src="/blog/images/jts-analyse/caricature-jt-2019.png" title="Les sombres prévisions, et ensuite des vaches et du pétrole" >}}
+{{< figure alt="4 reportages du JT de France 2" src="/images/jts-analyse/caricature-jt-2019.png" title="Les sombres prévisions, et ensuite des vaches et du pétrole" >}}
 
 ### Du pétrole à l'infini ?
 Les énergies fossiles avec le pétrole sont à l'origine des changements climatiques et génèrent des crises pétrolières depuis les années 1970. Des pays comme les Pays Bas ont fait le choix de réduire ses importations avec un réseau cyclable continues et sécurisées à travers tout le pays. Dans les JT, les reportages sur le pétrole avec leur ["facture toujours plus lourdes"](https://www.tf1info.fr/conso/video-carburant-gaz-electricite-fuel-une-facture-toujours-plus-lourde-2206513.html) ou des ["prix qui flambent"](https://www.francetvinfo.fr/economie/automobile/diesel/carburants-pourquoi-les-prix-flambent_2731313.html) s'enchainent en ne mettant presque jamais en avant des solutions comme **[l'utilisation de vélo cargo](https://www.francetvinfo.fr/economie/transports/transport-les-francais-se-passent-de-plus-en-plus-de-voiture_2995925.html) qui fait économiser des milliers d'euro aux familles.**
@@ -127,7 +127,7 @@ Lorsqu'un record de chaleur hivernale est encore une fois battu, le dialogue ave
 
 > “Le réchauffement climatique **pourrait en partie** expliquer l'intensité de ces phénomènes” ["2021 - Intempéries : comment expliquer l'intensification des phénomènes climatiques ?"](https://www.francetvinfo.fr/meteo/orages/intemperies-comment-expliquer-l-intensification-des-phenomenes-climatiques_4674505.html)
 
-{{< figure alt="Un présentateur devant le risque d'incendie au Canada" src="/blog/images/jts-analyse/encauseinterrogation.png" title="Le point d'interrogation qui fatigue" >}}
+{{< figure alt="Un présentateur devant le risque d'incendie au Canada" src="/images/jts-analyse/encauseinterrogation.png" title="Le point d'interrogation qui fatigue" >}}
 
 **L'utilisation de modalisation**, c'est présenter un reportage de façon discutable. Certains reportages ont tendance à abuser de la forme interrogative pour y insérer un élement d'incertitude "qui peut suffire à changer le sens d'une information", explique Clément Viktorovitch, **alors qu'il y a aucun doute dans leur reportage**. Comme dans :
 * ["Incendies en Australie : le réchauffement climatique en cause **?**"](https://www.francetvinfo.fr/faits-divers/incendie/incendies-en-australie-le-rechauffement-climatique-en-cause_3768633.html)
@@ -152,7 +152,7 @@ On assiste alors à une “fait diversification” du problème climatique sans 
 ## La course à l'audience
 La rédactrice en chef de France 2 communique presque uniquement sur [les courbes d'audience sur twitter](https://twitter.com/elsapallot).
 
-{{< figure alt="Le JT de 20h réalise ses 2 meilleures semaines de la saison en PDA (23.3%)" src="/blog/images/jts-analyse/audience.png" title="Tweet sur les audiences rédactrice en chef" >}}
+{{< figure alt="Le JT de 20h réalise ses 2 meilleures semaines de la saison en PDA (23.3%)" src="/images/jts-analyse/audience.png" title="Tweet sur les audiences rédactrice en chef" >}}
 
 Cela engendre plusieurs choses, comme le manque d'analyse de fond du problème précise Jean Baptiste Comby :
 
@@ -186,7 +186,7 @@ On assiste à un paradoxe social où les pauvres et la classe moyenne sont mal v
 
 C'est là où le discours écocitoyen avec lequel on est bercé depuis tout petit est dangereux pour permettre une réelle transition de notre économie. Cela génère qu’à une [Fresque du Climat](https://fresqueduclimat.org/) où j'ai participé, un participant **pourtant sensibilisé à la question climatique** car il était ingénieur de l’ADEME et père, ne concevait pas de réduire l’aviation car ce sont pour lui "ses meilleures vacances". Comme si les vacances se résument à prendre l'avion et partir à l'autre bout du monde, sachant que seulement 11 % de la population mondiale l'a déjà pris, cela revenait à dire que 89% de la population mondiale n'a pas pu avoir d'excellents souvenirs dans leur vie ?
 
-{{< figure class="small" alt="Un aller retour Paris New York dépasse le budget annuel individuel pour respecter l'accord de Paris" src="/blog/images/jts-analyse/aviation.jpg" title="Les voyages en aviation comparé à l'objectif de l'accord de Paris de 2To CO2 par an - Source BonPote" >}}
+{{< figure class="small" alt="Un aller retour Paris New York dépasse le budget annuel individuel pour respecter l'accord de Paris" src="/images/jts-analyse/aviation.jpg" title="Les voyages en aviation comparé à l'objectif de l'accord de Paris de 2To CO2 par an - Source BonPote" >}}
 
 Comby conclut merveilleusement par 
 > L’individualisation des enjeux “permet de mettre l’ordre social capitaliste à l’abri de la critique écologique et fournit (...) **un précieux paravent public.**
@@ -216,7 +216,7 @@ Je vous déconseille donc d'utiliser le mot "capitalisme" dans vos discours car 
 
 > L’alternative écologique, si elle ne disparaît pas complètement des médias généralistes, demeure présentée, dans les rares reportages qui la médiatisent, sur le registre de l’exotisme ou de "l’expérience originale et sympathique"
 
-{{< figure class="small" alt="Des manifestants occupant les rues pour faire un rapport de force" src="/blog/images/jts-analyse/clown.png" title="Des farfelus qui ne vont pas 'durer très très longtemps' d'après ce reportage de TF1" >}}
+{{< figure class="small" alt="Des manifestants occupant les rues pour faire un rapport de force" src="/images/jts-analyse/clown.png" title="Des farfelus qui ne vont pas 'durer très très longtemps' d'après ce reportage de TF1" >}}
 
 2 reportages seulement sur les 21 contenant le mot "capitalisme" remettent le productivisme sans limite du capitalisme doucement en question :
 * ["Monde de la finance : les 'repentis'" - France 2 - 2013](https://www.francetvinfo.fr/monde-de-la-finance-les-repentis_494064.html), mais à la fin du reportage on reste sans espoir sur l'avancement de progrès dans le domaine :
@@ -231,7 +231,7 @@ Le danger avec cette omission [d'autres voies que le capitalisme](https://www.yo
 
 Et on assiste plutôt à son contraire, comme dans **ce reportage d'ouverture** de 2019 de France 2 ["Bourse mondiale : une fin d'année record"](https://www.francetvinfo.fr/monde/usa/bourse-mondiale-une-fin-d-annee-record_3765223.html) ou de 2021 ["Bourse : record historique du CAC 40"](https://www.francetvinfo.fr/economie/bourse/bourse-record-historique-du-cac-40_4831843.html) **où on ne fait jamais le lien avec les changements climatiques.**
 
-{{< figure alt="Reportage de France 2" src="/blog/images/jts-analyse/bourseauplushaut.png" title="Euphorie boursière: Du jamais vu depuis 12 ans !" >}}
+{{< figure alt="Reportage de France 2" src="/images/jts-analyse/bourseauplushaut.png" title="Euphorie boursière: Du jamais vu depuis 12 ans !" >}}
 
 ## De l'espoir
 Avant de conclure je veux quand même lister les bons mais rares reportages qui permettent de faire avancer la remise en question de notre société trop gourmande en énergie fossile :

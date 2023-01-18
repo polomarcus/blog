@@ -52,7 +52,7 @@ En 30 ans, 1/4 des français, [et pas les plus stupides et pas forcément les pl
 
 En 30 ans, toujours 80% de l’énergie mondiale utilisée pour nos sociétés est à base d’énergies fossiles: charbon, gaz et pétrole et a plus que doublé. [ministère de la transition écologique - Page 37](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-11/datalab_70_chiffres_cles_energie_edition_2020_septembre2020_1.pdf)
 
-{{< figure alt="Les energies fossiles passent de 4.5 milliards de tonnes équivalent pétrole à 10.5" src="/blog/images/energy-consumption.png" title="Les énergies fossiles sont à la base de nos sociétés" >}}
+{{< figure alt="Les energies fossiles passent de 4.5 milliards de tonnes équivalent pétrole à 10.5" src="/images/energy-consumption.png" title="Les énergies fossiles sont à la base de nos sociétés" >}}
 
 En 30 ans, certains réalisent que ce monde ne tourne pas rond, et ceux qui le peuvent [quittent leur boulot "à la con"](https://www.france24.com/fr/%C3%A9co-tech/20211015-aux-%C3%A9tats-unis-le-myst%C3%A8re-de-la-grande-d%C3%A9mission-de-millions-d-am%C3%A9ricains) ce qui gènere le phénomène du ["Big Quit"](https://en.wikipedia.org/wiki/Great_Resignation). Ces personnes commencent à critiquer l'utilité de leur travail de surproduction. Ils veulent d'autres imaginaires et d'autres symbôles de réussites sociales car cela fait longtemps qu'ils savent qu'une voiture de sport neuve n'apporte pas le bonheur.
 

@@ -30,7 +30,7 @@ On pourrait condamner cet article sur le fait de critiquer seulement la voiture 
 
 A croire que ces accidents sont inévitables, de la même manière que certains peuples sacrifiaient les leurs en pensant apaiser leur dieu.
 
-{{< figure alt="Une bande dessinée où on compare le sacrifice d'enfants des Astecs, avec les morts d'enfants sur la route" src="/blog/images/violence-motorisee/sacrifice.jpg" title="'Si les motorisées avaient à réduire leur vitesse, cela diminurait les ventes de voitures, et impacterait le PIB et nos emplois !'" >}}
+{{< figure alt="Une bande dessinée où on compare le sacrifice d'enfants des Astecs, avec les morts d'enfants sur la route" src="/images/violence-motorisee/sacrifice.jpg" title="'Si les motorisées avaient à réduire leur vitesse, cela diminurait les ventes de voitures, et impacterait le PIB et nos emplois !'" >}}
 
 Et construire des infrastructures cyclables séparées du traffic automobile marche, les Pays Bas sont le pays qui [a le moins de cyclistes tués par milliards de kilomètres parcourus](https://www.lemonde.fr/blog/transports/2019/05/11/10-chiffres-sur-le-velo-en-europe/) et où le casque n’est pas obligatoire. Ce serait seulement une question de volonté, et **une peur que l’industrie automobile perde quelque part de marché au prix du vélo et de la marche, et avec cela une amélioration de la santé.**
 
@@ -108,7 +108,7 @@ Lorsqu’il dépasse les deux garçons, sans éclairage ni gilets fluo, il voit 
 ## Dans le passé
 Cela n’a pas toujours été comme cela. Il y a quelques décennies les enfants pouvaient jouer dans les rues, ou se déplacer à vélo sans la surveillance extrême de leurs parents. On peut apprendre dans le documentaire [“Comment l’Homme a mangé la terre”](https://www.arte.tv/fr/videos/073938-000-A/l-homme-a-mange-la-terre/) l'existence de manifestations et les monuments sur les meurtres d’enfants par les automobilites qui n'ont plus lieu aujourd'hui.
 
-{{< figure alt="Une bande dessinée où on compare le sacrifice d'enfants des Astecs, avec les morts d'enfants sur la route" src="/blog/images/violence-motorisee/safety.png" title="En 1921, à Pittsburgh, une marche silencieuse réunie 5000 personnes en hommage aux 221 enfants morts cette année là">}}
+{{< figure alt="Une bande dessinée où on compare le sacrifice d'enfants des Astecs, avec les morts d'enfants sur la route" src="/images/violence-motorisee/safety.png" title="En 1921, à Pittsburgh, une marche silencieuse réunie 5000 personnes en hommage aux 221 enfants morts cette année là">}}
 
 Une sorte d’aménisie général nous a frappé, et on est incapable de se souvenir de cela. A l’image de cette élue incapable de savoir que les Grecques qui ont fondé Marseille ne sont pas venus en voiture.
 
