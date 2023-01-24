@@ -3,7 +3,7 @@ languageCode = "fr"
 title = "éPauLer.fr"
 defaultContentLanguage = 'fr'
 description = """
-"Des nains sur des épaules de géants" - Bernard de Chartres
+"Des nains sur des épaules de géants" Bernard de Chartres
 
 Data, climat, sports, congé paternité
 """
@@ -13,22 +13,29 @@ summarylength = 10
 [menu]
 
   [[menu.main]]
-  name = "Home"
+  name = "Épaulons-nous"
   identifier = "home"
   weight = 100
   url = "/"
 
   [[menu.main]]
   name = "Articles"
-  weight = 200
+  weight = 300
   identifier = "articles"
   url = "/article/"  
 
   [[menu.main]]
-  name = "Categories | Tags"
-  weight = 200
+  name = "Mes ressources"
+  weight = 350
+  identifier = "ressources"
+  url = "/mes_ressources/"  
+
+  [[menu.main]]
+  name = "Categories"
+  weight = 400
   identifier = "tags"
   url = "/tags/"
+
 
 [author]
   name = "Paul Leclercq"
@@ -37,9 +44,13 @@ summarylength = 10
 title = "Paul Leclercq 🦕"
 author = "Paul Leclercq 🦕"
 description = """
-"Des nains sur des épaules de géants" - Bernard de Chartres
+"Des nains sur des épaules de géants" 
+Bernard de Chartres
 
 Data, climat, sports, congé paternité"""
+
+mainSections = [] # content/_index.md default -> https://github.com/lxndrblz/anatole/wiki/%F0%9F%93%84-Content-Settings#using-a-static-page-as-your-home-page
+
 profilePicture = "https://avatars.githubusercontent.com/u/4059615?v=4"
 customCss = ["css/custom.css"]
 gtagId = "G-W1N7B2KENY"
