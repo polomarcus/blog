@@ -16,7 +16,7 @@ tags : [
 Le rôle des médias est essentiel à une démocratie en bonne santé, c’est ce qu’on peut apprendre en lisant le tome 2 de “De la démocratie en Amérique” de Tocqueville.
 
 
-En lisant [“Le monde, les médias, et moi”](https://lesmediaslemondeetmoi.com/) de Anne Sophie Novel, j’ai pu apprendre l’existence du [Conseil de Déontologie journalistique et de mediation (CDJM)](https://cdjm.org/decisions/), qui fait de de la “médiation et de l’arbitrage entre les médias, les rédactions et leurs publics” et dont [la charte](https://cdjm.org/les-chartes/) met en avant la **véracité, et la non vérification des faits** comme **les plus graves dérives professionnelles**.
+En lisant [“Le monde, les médias, et moi”](https://lesmediaslemondeetmoi.com/) de Anne Sophie Novel, j’ai pu apprendre l’existence du [Conseil de Déontologie journalistique et de mediation (CDJM)](https://cdjm.org/decisions/), qui fait de la “médiation et de l’arbitrage entre les médias, les rédactions et leurs publics” et dont [la charte](https://cdjm.org/les-chartes/) met en avant la **véracité, et la non vérification des faits** comme **les plus graves dérives professionnelles**.
 
 Mais qu’en est-il en pratique lorsque quelqu’un avec de l’autorité, ici un auteur, revendique un propos faux, digne d’une “galéjade” (histoire inventée ou exagérée) ?
 
