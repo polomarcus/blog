@@ -1,17 +1,20 @@
 ---
-title: "Epaulons nous"
+title: "Épaulons-nous"
 draft: false
-description: "Il y a 30 ans la majeure partie des prix Nobel en sciences émettait un avertissement à l'humanité, étant une civilisation basée sur la science tout devrait bien aller aujourd'hui, non ?"
+description: "Paul Leclercq : Conseil en numérique (Data, DevOps, Eco-conception), ateliers scientifiques (Fresque du Climat, Fresque du Numérique et 2 tonnes) & formations"
+thumbnail: "https://avatars.githubusercontent.com/u/4059615?v=4"
+images:
+    - "https://avatars.githubusercontent.com/u/4059615?v=4"
 ---
 
 # Épaulons-nous
 Bienvenue, moi c'est Paul. Je peux vous épauler dans vos activités à travers ces 3 axes :
 
 ## 📲 Conseils en numérique
-* Data engineering : Entrepôt de données, Apache Kafka, Apache Spark, API *(en gros, je code)*
-* [Culture DevOps](https://www.epauler.fr/article/la-culture-de-la-r%C3%A9silience-%C3%A0-travers-le-devops-devpo-et-devqa/) : collaboration entre équipes, automatisation, déploiement, monitoring *(en gros, je fais en sorte que tout se passe bien dans les équipes)*
-* Ecoconception des services numériques : ["Il faut que ça dure plus longtemps, on ne peut pas vivre dans un monde où les smartphones vont durer 2 à 3 ans"](https://www.linkedin.com/posts/paleclercq_mataezrialitaez-activity-7015982682203394048-kHjh/epau)
-* Facilitateur de réunions : retrospectives, conceptions, priorisation, minimum viable product
+* **Data engineering** : Entrepôt de données, Apache Kafka, Apache Spark, API *(en gros, je code)*
+* [**Culture DevOps**](https://www.epauler.fr/article/la-culture-de-la-r%C3%A9silience-%C3%A0-travers-le-devops-devpo-et-devqa/) : collaboration entre équipes, automatisation, déploiement, monitoring *(en gros, je fais en sorte que tout se passe bien dans les équipes)*
+* **Ecoconception des services numériques** : ["Il faut que ça dure plus longtemps, on ne peut pas vivre dans un monde où les smartphones vont durer 2 à 3 ans"](https://www.linkedin.com/posts/paleclercq_mataezrialitaez-activity-7015982682203394048-kHjh/epau)
+* **Facilitateur de réunions** : retrospectives, conceptions, priorisation, minimum viable product
 
 ## 📊 Ateliers scientifiques de cohésion d'équipes
 * **[Fresque du Climat](https://fresqueduclimat.org/)** : l'incontournable pour mieux comprendre notre économie basée les énergies fossiles avec l'aide des rapports du GIEC.
@@ -23,7 +26,7 @@ Mes travaux pratiques en data engineering, docker, et en écoconception sont dis
 
 Je partage mes slides sur demande, et mieux encore je peux me déplacer, *à vélo et/ou train*, dans votre entreprise. 
 
-### Quelques projets open-source
+## Quelques projets open-source
 
 * [Observatoire des JT sur les changements climatiques](https://observatoire.climatmedias.org/) : Scrapper Scala, construit autour de la CI GitHub Actions
 * [Spark Structured Streaming examples with Kafka / Cassandra / Elastic](https://github.com/polomarcus/Spark-Structured-Streaming-Examples) : une centaine de stars GitHub pour flatter mon égo tout en servant la communauté
