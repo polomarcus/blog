@@ -27,7 +27,7 @@ J’ai saisi ([ici](https://cdjm.org/avis-22-052/) et [là](https://cdjm.org/avi
 
 Alors que **le consensus mondial scientifique est formel et clair**, les activités humaines sont [l'unique raison du réchauffement climatique en cours (source GIEC AR6 WG1)](https://bonpote.com/propos-7-la-part-de-lhomme-dans-le-rechauffement-climatique-nest-plus-discutable/).
 
-Par contre, ce sujet est loin de faire consensus dans le conseil, car il s’est divisé à 8 voix contre 7, les 8 voix pour ont décidé qu’il n’y avait pas de problème avec ce genre de propos **selon le prisme de la liberté d’expression** [(lire l'avis complet ici)]((https://cdjm.org/avis-22-052/)):
+Par contre, ce sujet est loin de faire consensus dans le conseil, car il s’est divisé à 8 voix contre 7, les 8 voix pour ont décidé qu’il n’y avait pas de problème avec ce genre de propos **selon le prisme de la liberté d’expression** [(lire l'avis complet ici)](https://cdjm.org/avis-22-052/):
 
 > Le CDJM rappelle que M. Roucaute **est libre d’exprimer cette opinion** qui ne nie pas le rôle de l’humanité dans le réchauffement climatique, mais la minimise grandement. 
 
