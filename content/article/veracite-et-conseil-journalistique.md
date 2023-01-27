@@ -2,7 +2,7 @@
 title: "Journalisme, véracité et climat"
 draft: false
 description: "« l’Homme n’est “peut-être” pas responsable du réchauffement climatique » - entendu dans de grands médias"
-date: 2023-01-27T16:50:07+02:00
+date: 2023-01-27T01:50:07+02:00
 thumbnail: "images/journalisme/banksy.png"
 images:
     - "images/journalisme/banksy.png"
