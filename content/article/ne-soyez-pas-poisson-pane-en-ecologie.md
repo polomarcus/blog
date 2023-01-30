@@ -159,11 +159,11 @@ et que pour respecter la vitesse de baisser des émissions pour respecter l’ac
 ## [45:30](https://youtu.be/gxWwxqIrCa8?t=2685) - Critique de la comptabilité carbone
 > la comptabilité carbone, juste fait avec des additions et des soustractions, j'y crois pas
 
-Le problème c'est que 80% de l'économie, nos sociétés d'abondance, tourne avec des énergies fossiles, diminuer le carbone c'est forcément allégé les autres limites planétaire : coucou [la 6eme extinction de masse](https://www.nationalgeographic.fr/environnement/la-sixieme-extinction-massive-a-deja-commence), [la pollution chimique](https://bonpote.com/la-5eme-limite-planetaire-vient-detre-officiellement-franchie-et-tout-le-monde-sen-fout), [l’eau douce](https://bonpote.com/la-6e-limite-planetaire-est-franchie-le-cycle-de-leau-douce/)...
+Le problème c'est que 80% de l'économie, nos sociétés d'abondance, tourne avec des énergies fossiles, diminuer le carbone c'est forcément alléger les autres limites planétaire : coucou [la 6eme extinction de masse](https://www.nationalgeographic.fr/environnement/la-sixieme-extinction-massive-a-deja-commence), [la pollution chimique](https://bonpote.com/la-5eme-limite-planetaire-vient-detre-officiellement-franchie-et-tout-le-monde-sen-fout), [l’eau douce](https://bonpote.com/la-6e-limite-planetaire-est-franchie-le-cycle-de-leau-douce/)...
 
 Comme Edgar Morin est cité dans la conférence pour sa pensée complexe, je propose de le citer dans un autre contexte pour prendre un peu plus de hauteur, et de présenter avec beaucoup plus de nuance le projet de décroissance.
 
-> Le confinement fut un enfermement, mais ce fut aussi une libération intérieure par rapport au temps chronométré, au métro boulot dodo des travailleurs, aux horaires surchargés des professions libérales. Nos existences, jusqu'alors régies par une temps de plus en plus accéléré, ont pu à nouveau être managées, ménagées, ralenties (sauf évidemment là où il y  eut surcharge d'obligation)
+> Le confinement fut un enfermement, mais ce fut aussi une libération intérieure par rapport au temps chronométré, au métro boulot dodo des travailleurs, aux horaires surchargés des professions libérales. Nos existences, jusqu'alors régies par une temps de plus en plus accéléré, ont pu à nouveau être managées, ménagées, ralenties (sauf évidemment là où il y  eut surcharge d'obligation).
 Une fois déconfinés, reprendrons nous la course infernale? Garderons nous le goût de la lenteur? Cesserons nous de subordonner le principal, notre propre épanouissement et notre lien affectueux à autrui, au secondaire voire au futile?
 - Edgar Morin - Changeons de voie 2020
 
