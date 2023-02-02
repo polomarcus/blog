@@ -26,15 +26,21 @@ summarylength = 10
 
   [[menu.main]]
   name = "Mes ressources"
-  weight = 350
+  weight = 400
   identifier = "ressources"
   url = "/mes_ressources/"  
 
   [[menu.main]]
   name = "Categories"
-  weight = 400
+  weight = 350  
   identifier = "tags"
   url = "/tags/"
+
+  [[menu.main]]
+  name = "Calculer son empreinte carbone"
+  weight = 500
+  identifier = "nosgestesclimat"
+  url = "https://nosgestesclimat.fr/"
 
 
 [author]
