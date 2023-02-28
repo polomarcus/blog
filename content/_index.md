@@ -6,18 +6,12 @@ thumbnail: "https://avatars.githubusercontent.com/u/4059615?v=4"
 images:
     - "https://avatars.githubusercontent.com/u/4059615?v=4"
 ---
-
-
-<div id="title">
-    <h1>
-        Épaulons-nous
-    </h1>
-</div>
+# Épaulons-nous
 
 Bienvenue, moi c'est Paul. Je lis des longs rapports pour que vous n'ayez pas à le faire. 
 
 ### Je peux vous épauler à travers ces 3 axes
----
+
 ## 📲 Conseils en numérique
 * **Data engineering** : Entrepôt de données, Apache Kafka, Apache Spark, API... *(en gros, je code)*
 * [**Culture DevOps**](https://www.epauler.fr/article/la-culture-de-la-r%C3%A9silience-%C3%A0-travers-le-devops-devpo-et-devqa/) : collaboration entre équipes, automatisation, déploiement, monitoring *(en gros, je fais en sorte que tout se passe bien dans les équipes)*

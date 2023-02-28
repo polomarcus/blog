@@ -7,50 +7,6 @@ h1::first-letter, .post__content h3::first-letter {
     text-transform: uppercase;
 }
 
-@media screen and (min-width: 800px) {
-    #title {
-        max-width: 60%;  
-        line-height: 72px;
-        
-    }
-
-    #title h1 {
-        font-size: 6.6rem !important;
-    }
-}
-
-@media screen and (max-width: 799px) {
-    #title {
-        max-width: 92%;
-        margin: auto;
-        
-    }
-    #title h1 {
-        font-size: 3.5rem !important;
-    }
-}
-
-#title {
-    border: 1px solid #E0E0E0;
-    width: 100%;
-    padding: 10px;
-    --background-color: rgba(249, 249, 249, 0.8);
-    background: rgba(249, 249, 249, 0.8);
-    box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, 0.12);
-    display: grid;
-    place-items: center;
-    grid-row: 1/2;
-    border-radius: 8px 0px 8px 0px;
-}
-
-#title h1 {
-    background: white;
-    font-weight: bold;
-    border: 1px solid #E0E0E0;
-    border-radius: 8px;
-    padding: 20px;
-}
-
 blockquote {
     margin-left: 10px;
     margin-right: 0px;
