@@ -36,11 +36,6 @@ summarylength = 10
   identifier = "nosgestesclimat"
   url = "https://nosgestesclimat.fr/"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [author]
   name = "Paul Leclercq"
   
@@ -52,6 +47,7 @@ description = """
 Bernard de Chartres
 
 Data, climat, sports, congé paternité"""
+copyright = "Copyleft (🄯) - CC-BY-SA"
 
 mainSections = [] # content/_index.md default -> https://github.com/lxndrblz/anatole/wiki/%F0%9F%93%84-Content-Settings#using-a-static-page-as-your-home-page
 
@@ -61,8 +57,11 @@ gtagId = "G-W1N7B2KENY"
 favicon = "favicons/"
 #displayMode = "dark"
 contentratio = 0.78
-singleDateFormat = "2006-01-02"
-indexDateFormat = "2006-01-02"
+singleDateFormat = "02/01/2006"
+indexDateFormat = "02/01/2006"
+listDateFormat = "02/01/2006"
+
+postSectionName = "article"
 readMore = true
 
 params.assets.disableFingerprinting = true
@@ -90,3 +89,4 @@ url = "https://twitter.com/polomarcus"
 icon = "fab fa-medium"
 title = "Medium"
 url = "https://medium.com/@polomarcus"
+

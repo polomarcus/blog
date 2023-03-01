@@ -21,7 +21,7 @@ Bienvenue, moi c'est Paul. Je lis des longs rapports pour que vous n'ayez pas à
 
 ## 📊 Ateliers scientifiques de cohésion d'équipe
 * **[Fresque du Climat](https://fresqueduclimat.org/)** : l'incontournable pour mieux comprendre notre économie basée les énergies fossiles avec l'aide des rapports du GIEC.
-* **[Fresque du Numérique](https://fresquedunumerique.org/)** : pour creuser les différents aspects (mines, santé mentale...) du numérique. *Spoiler: non ce n'est pas une histoire d'email avec des pièces jointes*
+* **[Fresque du Numérique](https://fresquedunumerique.org/)** : pour creuser les différents aspects (mines, santé mentale...) du numérique. *Spoiler: non ce n'est pas une histoire [d'email avec des pièces jointes](https://www.linkedin.com/posts/paleclercq_si-comme-la-ministre-de-la-transition-%C3%A9nerg%C3%A9tique-activity-6934784676515487745-pVeL/)*
 * **[2 Tonnes](https://www.2tonnes.org/)** : comment passer des 10 tonnes de CO2e en moyenne par Français à [2 tonnes de CO2e](https://bonpote.com/objectif-2-tonnes-vrai-defi-ou-mauvaise-cible/) en 2050 ? *Spoiler: ce n'est pas en mettant une ruche sur le toit*
 * **[Ateliers de l’Adaptation au changement climatique](https://ateliers-adaptationclimat.fr/)** : Vous n'avez pas pris le temps de lire [le volet 2 du 6ème rapport du GIEC](https://www.ipcc.ch/report/ar6/wg2/) sur l'atténuation, l'adaptation, et la vulnérabilité ? **Collectivités et entreprises**, passons 3 heures ensemble pour explorer vos politiques et pivots potentiels.
 
