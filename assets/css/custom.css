@@ -1,3 +1,6 @@
+body * {
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 h1, .post__content h3 {
     text-transform: lowercase;
@@ -77,11 +80,20 @@ figcaption h4 {
     }
 }
 
+.post__meta {
+    font-style: italic;
+}
 
-@media screen and (min-width: 800px) {
+
+@media screen and (min-width: 700px) {
     figure.small {
         max-width: 60%;
         margin: auto;
+    }
+
+    .post {
+        margin: auto;
+        max-width: 800px;
     }
 }
 
