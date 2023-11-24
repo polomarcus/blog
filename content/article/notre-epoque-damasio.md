@@ -27,15 +27,15 @@ Je suis la fille sur Insta, trip sous exta, dont le coeur fait tik tok, tik tok,
 
 Dans l'horloge à data : abracadata !
 
-La terre ne s'est pas rechauffée, elle brûle. On est des chipolatas cramées sur une grille d'aération
+La terre ne s'est pas rechauffée, elle brûle. On est des chipolatas cramées sur une grille d'aération.
 
-La mer a le couleur de l'huile, le ciel sent la merde, il ne pleut plus, dieu a tiré la chasse
+La mer a la couleur de l'huile, le ciel sent la merde, il ne pleut plus, dieu a tiré la chasse.
 
-alors climatise la foret, climatise l'océan, climatise ta gosse, et surtout roule, roule, roule, roule...
+alors climatise la foret, climatise l'océan, climatise ta gosse, et surtout : roule, roule, roule, roule...
 
-nous sommes la nature qu'on défonce
+nous sommes la nature qu'on défonce.
 
-nous sommes la terre qui coule juste avant qu'elle s'enfonce
+nous sommes la terre qui coule juste avant qu'elle s'enfonce.
 
 nous... OK ! OK ! Stop. Et maintenant, maintenant qu'est ce que tu proposes ?
 
@@ -43,8 +43,6 @@ Maintenant, la seule croissance que nous supporterons
 
 sera celle des arbres et des enfants
 
-maintenant , nous serons le vivant
+maintenant, nous serons le vivant, le vivant qui tisse et qui bruisse
 
-le vivant qui tisse et qui bruisse
-
-le vivant qui se défend
+le vivant qui se défend.
