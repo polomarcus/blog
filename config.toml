@@ -7,7 +7,7 @@ description = """
 
 Data, climat, sports, congé paternité
 """
-theme = "anatole"
+theme = "anatole-polomarcus"
 enableEmoji = true
 summarylength = 10
 [menu]
