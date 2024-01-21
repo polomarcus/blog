@@ -6,14 +6,15 @@ date: 2024-01-20T16:50:07+02:00
 series: ["lecture"]
 ---
 
-Un livre qui ne se veut surtout pas anti-science, écrit par un astro-physicien ça serait un comble. L'auteur éclaire sur la pseudo neutralité scientifique et de ses limites dans le contexte d'une crise civilisationnelle.
+Un livre qui ne se veut surtout pas anti-science, écrit par un astro-physicien ça serait un comble. L'auteur éclaire sur la pseudo neutralité scientifique et de ses limites dans le contexte **d'une crise civilisationnelle.**
 
-En tant que chercheurs ou scientifiques, il faut ajouter une réflexion sur le sens et la finalité de ce que l'on fait  : passer d'une civilisation du **quand on peut on veut, à quand on veut on peut.** Penser la science, plutôt que de l'utilser.
+En tant que chercheurs ou scientifiques, il faut ajouter une réflexion sur le sens et la finalité de ce que l'on fait  : passer d'une civilisation du **quand on peut on veut, à quand on veut on peut.** Penser la science, plutôt que de l'utilser. Cela réclame des choses essentielles - mais négligées par les sciences dites dures - comme la philosophie et la poésie.
 
-Se moquer des la techno-thaumaturges - qui nous vendent **le nouvel opium du peuple : des solutions miracles réservées à des happy-few qui auront la conscience tranquille**, ou tout simplement arrivant à terme après notre mort.
-Ces réflexions nous indiquant clairement que le camp du sérieux et du réalisme n'est plus celui d’antan. 
+Se moquer des la techno-thaumaturges - qui nous vendent **le nouvel opium du peuple : des solutions miracles 0 carbone réservées à des happy-few qui auront la conscience tranquille**, ou bien tout simplement arrivant à maturité après notre mort.
 
-## Quelques citations extraites de leur contexte
+Qui peut encore dire que le camp du sérieux et du réalisme est celui [des vendeurs de lance-flammes ?](https://www.presse-citron.net/ca-sent-le-roussi-pour-les-proprietaires-du-lance-flammes-qui-nest-pas-un-lance-flammes-delon-musk/) 
+
+## Quelques citations (extraites de leur contexte)
 Le terme d'effort est en lui-même problématique puisqu'il laisse entendre que les évolutions indispensables pour endiguer le délitement relèvent d'un moins bien vivre. Ce n'est généralement pas le cas.
 
 
@@ -45,5 +46,5 @@ Le techno-solutionnisme rate si profondément la problématique qu'il contribue 
 
 Rabelais, peut-être, oserait aujourd'hui : science sans déviance n'est que ruine de l'âme.
 
-
-[Présentation du livr par Camille Etienne.](https://www.youtube.com/watch?v=nfxwoaaK-oY)
+---
+[Présentation du livre par Camille Etienne.](https://www.youtube.com/watch?v=nfxwoaaK-oY)
