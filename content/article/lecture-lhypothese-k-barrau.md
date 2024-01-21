@@ -6,7 +6,7 @@ date: 2024-01-20T16:50:07+02:00
 series: ["lecture"]
 ---
 
-Un livre qui ne se veut surtout pas anti-science, écrit par un astro-physicien ça serait un comble. L'auteur éclaire sur la pseudo neutralité scientifique et de ses limites dans le contexte **d'une crise civilisationnelle.**
+[Un livre](https://www.placedeslibraires.fr/livre/9782246837145-l-hypothese-k-la-science-face-a-la-catastrophe-ecologique-aurelien-barrau/) qui ne se veut surtout pas anti-science, écrit par un astro-physicien ça serait un comble. L'auteur éclaire sur la pseudo neutralité scientifique et de ses limites dans le contexte **d'une crise civilisationnelle.**
 
 En tant que chercheurs ou scientifiques, il faut ajouter une réflexion sur le sens et la finalité de ce que l'on fait  : passer d'une civilisation du **quand on peut on veut, à quand on veut on peut.** Penser la science, plutôt que de l'utilser. Cela réclame des choses essentielles - mais négligées par les sciences dites dures - comme la philosophie et la poésie.
 
