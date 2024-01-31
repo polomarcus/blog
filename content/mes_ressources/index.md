@@ -53,3 +53,6 @@ En plus de décarboner les transports, le vélo ou la marche sont les meilleurs 
 * [Le Plan de Transformation de l'Economie Française - The Shift Project]()
 * [Les limites à la croissance (dans un monde fini) (édition spéciale 50 ans) - Meadows - Randers]()
 * ...
+
+## 🎼 Musique 
+* [Fakaer avec Camille Etienne - Odyssea](https://www.youtube.com/watch?v=bIXtZv_3xZ0)
