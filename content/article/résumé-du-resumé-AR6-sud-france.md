@@ -37,7 +37,6 @@ Et lorsque [certains grands medias](https://twitter.com/MickaCorreia/status/1426
 Il faut absolument garder en tête **qu'on ne peut pas négocier avec la physique**, qui est une science dure, contrairement à l'économie qui, comme le disait Bernard Maris, ancien conseil général de la banque de France, est composée [de choix politiques déguisés en science](https://www.franceculture.fr/emissions/la-bibliotheque-ideale-de-leco/la-bibliotheque-ideale-de-leco-du-vendredi-11-janvier-2019)
 
 Pas encore convaincu à 100% par la véracité des travaux du GIEC ? Il faut noter que chaque ligne de ce résumé a été validé par le gouvernement Français, et tous les autres membres d'ONU, et que ce rapport fait seulement des projections, et non des recommandations. Difficile, donc, de remettre en question ces rapports, [n'est ce pas David Pujadas ?](https://twitter.com/samgontier/status/1408168391584722949?lang=fr)
-{{< twitter_simple 1408168391584722949 >}}
 
 ## Le constat sans précédent
 La concentration de CO2 est la plus haute connue dans l'histoire depuis au moins 2 millions d'années, seuls les *Homo habilis* et *hautengensis* ont pu connaitre ces niveaux (*sapiens* date de -300 000 ans).
@@ -312,8 +311,6 @@ Mais n'oublions pas que le GIEC nous propose **5 projections de gaz à effet de 
 Egalement, quand on demande aux Français, 57% disent qu'il "faut réorienter en profondeur notre économie en soutenant exclusivement les activités qui préservent l'environnement et la santé." plutôt qu'à 43% "relancer l'économie par tous les moyens".
 
 La majorité est donc du côté de la science, et c'est une note d'espoir qui devrait nous motiver à aller encore plus loin, et ne plus se taire lorsqu'on discute avec un climato sceptique ou rassuriste.
-
-{{< twitter_simple 1436307466883633157 >}}
 
 ## Comptabilité carbone - l'accord de Paris
 Toutes ces informations nous font ressentir beaucoup de choses, et ça fait beaucoup à digérer. L'action numéro 1 à prendre en priorité est de faire un calcul d'empreinte carbone avec https://nosgestesclimat.fr/ et de creuser à partir de là **l'accord de Paris**, qui sont la promesse de tout un chacun. *Qui ne s'est pas moqué de Trump lorsqu'il est sorti de l'accord de Paris ?*

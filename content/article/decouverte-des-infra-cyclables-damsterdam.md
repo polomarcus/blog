@@ -82,8 +82,6 @@ J'ai pu demander à une habitante d'Amsterdam, *une Amstellodamienne de 25 ans*,
 
 Depuis mon enfance je suis habitué de l'absence totale d'infrastructure cyclable pour aller de ville en ville, les seuls qui peuvent le faire sont les rares experts du vélo en cuissard. Ces experts peuvent [se retrouver dans la colonne faits divers des quotidiens de presses locaux car la violence motorisée est devenu normale](https://twitter.com/unevoiture_) ce qui n'encourage en rien les parents à pousser leur enfants à se déplacer autrement qu'avec eux dans leur voiture comme des sacs à patate. D'autant plus, que la vitesse est encouragée par la publicité, des moteurs toujours plus puissants, un comportement reconnu comme viril par certaines personnes, [des contrôles de police presque inexistants](https://www.laprovence.com/article/faits-divers-justice/6154108/364-pv-en-trois-heures-au-pied-de-la-gineste.html) et [des systèmes de navigations GPS comme Waze ou Coyote complices des meurtriers de la route.](https://www.lemonde.fr/pixels/article/2020/03/26/confinement-l-application-waze-a-desactive-le-signalement-des-controles-policiers_6034511_4408996.html)
 
-{{< twitter_simple 1456578274503581706 >}}
-
 
  Voulant partager mon amour cyclosportif avec elle, car selon moi si elle me parle de sortir de la ville à vélo c'est qu'elle doit pratiquer ce sport, je lui demande rhétoriquement si elle fait du vélo sportif, et là, morte de rire elle m'a répondu que pour elle le vélo c'est plutôt pour aller en boîte de nuit que faire du sport :see_no_evil:
 

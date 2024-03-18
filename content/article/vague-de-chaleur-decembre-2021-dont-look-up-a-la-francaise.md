@@ -14,7 +14,6 @@ C'est un film parodique sur le traitement de l'information sur le changement cli
 
 Il y a eu fin décembre 2021 des records de température dans tout le sud de l'Europe. Suite à cela, je me suis demandé si l'information diffusée **à des millions de personnes** dans les JTs de TF1 et France 2 était traitée plus ou moins comme dans le film : un fait divers de plus perdu dans un océan d'infobésité.
 
-{{< twitter_simple 1477651622201282560 >}}
 
 ## Avant propos
 Je liste les faits de sources sûres avant de commencer car après plusieurs reportages j'ai moi même commencé à douter de l'effet du changement climatique sur les vagues de chaleur.
