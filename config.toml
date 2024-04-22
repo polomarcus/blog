@@ -3,9 +3,9 @@ languageCode = "fr"
 title = "épauler.fr"
 defaultContentLanguage = 'fr'
 description = """
-"Des nains sur des épaules de géants" Bernard de Chartres
+Torréfacteur de data
 
-Data, climat, sports, congé paternité
+"Des nains sur des épaules de géants" Bernard de Chartres
 """
 theme = "anatole-polomarcus"
 enableEmoji = true
@@ -19,7 +19,7 @@ summarylength = 10
   url = "/"
 
   [[menu.main]]
-  name = "📖 Articles"
+  name = "📖 Blog"
   weight = 300
   identifier = "articles"
   url = "/article/"  
@@ -49,10 +49,11 @@ summarylength = 10
 title = "Paul Leclercq 🦕"
 author = "Paul Leclercq 🦕"
 description = """
+Torréfacteur de data
+
 "Des nains sur des épaules de géants" 
 Bernard de Chartres
-
-Data, climat, sports, congé paternité"""
+"""
 copyright = "Copyleft (🄯) - CC-BY-SA"
 
 mainSections = [] # content/_index.md default -> https://github.com/lxndrblz/anatole/wiki/%F0%9F%93%84-Content-Settings#using-a-static-page-as-your-home-page
@@ -86,13 +87,4 @@ url = "https://github.com/polomarcus/blog"
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/paleclercq/"
-
-[[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/polomarcus"
-[[params.socialIcons]]
-icon = "fab fa-medium"
-title = "Medium"
-url = "https://medium.com/@polomarcus"
 
