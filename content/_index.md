@@ -1,7 +1,7 @@
 ---
 title: "Épaulons-nous"
 draft: false
-description: "Paul Leclercq : Conseil en numérique (Data, DevOps, Eco-conception), ateliers scientifiques (Fresque du Climat, Fresque du Numérique, 2 tonnes...) & formations"
+description: "Torréfacteur de data"
 thumbnail: "https://avatars.githubusercontent.com/u/4059615?v=4"
 images:
     - "https://avatars.githubusercontent.com/u/4059615?v=4"
