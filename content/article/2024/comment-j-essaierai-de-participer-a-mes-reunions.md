@@ -2,7 +2,7 @@
 title: "Comment j'essaierai de participer à mes réunions désormais"
 date: 2024-06-04T08:00:10+01:00
 draft: false
-description: "(re)voir mes bases d’organisation acquises depuis une dizaine d’années dans différents environnements agiles - ou non - dans de petites ou d’énormes structures."
+description: "(Re)voir mes bases d’organisation acquises depuis une dizaine d’années dans différents environnements agiles - ou non - dans de petites ou d’énormes structures."
 thumbnail: "images/fertiles/thumb.png"
 images:
     - "images/fertiles/thumb.png"
@@ -87,7 +87,7 @@ Cette reconnaissance n’est pas à voir seulement pour améliorer ma productivi
 > "Donnez-leur l’environnement et le soutien dont elles ont besoin et faites-leur confiance pour mener à bien le travail." - [Manifeste Agile](https://manifesteagile.fr/)
 
 
-{{< figure alt="Déroulé Réunion - Fertiles" src="/images/fertiles/FACIL_20231111_DEROULE_REUNION_Ressources_Fertiles_FacilitationGraphique.png" >}}
+{{< figure alt="Déroulé Réunion - Fertiles" src="/images/fertiles/deroule.png" >}}
 
 ## Conclusion
 J’ai mis 1 an et demi entre la découverte de Fertiles et mon inscription à leur formation. Mon seul regret est de ne pas l’avoir fait plus tôt. Je ne peux que vous encourager à prendre le temps de vous former avec l’équipe de Fertile, cela valait 1000 conférences Agile condensées en 6 jours - [et l’équipe propose aussi des formats sur-mesure pour les entreprises.](https://fertiles.co/formations-organisations-entreprises/)
