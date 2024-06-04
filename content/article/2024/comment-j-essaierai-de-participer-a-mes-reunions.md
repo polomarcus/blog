@@ -1,7 +1,7 @@
 ---
 title: "Comment j'essaierai de participer à mes réunions désormais"
 date: 2024-06-04T08:00:10+01:00
-draft: true
+draft: false
 description: "(re)voir mes bases d’organisation acquises depuis une dizaine d’années dans différents environnements agiles - ou non - dans de petites ou d’énormes structures."
 thumbnail: "images/fertiles/thumb.png"
 images:
