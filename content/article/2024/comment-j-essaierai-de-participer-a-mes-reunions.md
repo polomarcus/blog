@@ -93,3 +93,6 @@ Cette reconnaissance n’est pas à voir seulement pour améliorer ma productivi
 J’ai mis 1 an et demi entre la découverte de Fertiles et mon inscription à leur formation. Mon seul regret est de ne pas l’avoir fait plus tôt. Je ne peux que vous encourager à prendre le temps de vous former avec l’équipe de Fertile, cela valait 1000 conférences Agile condensées en 6 jours - [et l’équipe propose aussi des formats sur-mesure pour les entreprises.](https://fertiles.co/formations-organisations-entreprises/)
 
 Une phrase d’[Oxmo Puccino dans “Artiste”](https://open.spotify.com/track/0N1hOWvyGl9W6Dogw5jyb6) a longtemps raisonné chez moi, elle dit qu'une chose presque impossible est “d’aller mettre plus de 10 personnes d'accord", desormais je pense qu’avec les bonnes méthodes et du temps, cela devient beaucoup plus réaliste.
+
+---
+*Merci à Olivier Rodriguez, Julien Coudsi, et aux participant.es de la formation PaCOO de mai 2024*
