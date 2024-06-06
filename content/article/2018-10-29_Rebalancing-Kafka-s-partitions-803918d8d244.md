@@ -48,30 +48,32 @@ git clone [git@github.com](mailto:git@github.com):simplesteph/kafka-stack-docker
 git checkout tags/v4.1.0 for example
 
 Choose your favorite yaml file from the repo, in our case we want multiple brokers, so zk-single-kafka-multiple.yml is ideal.
-
+```
 \# the -d is for detached to avoid massive log spam  
 docker-compose -f zk-single-kafka-multiple.yml up -d
-
+```
 #### Create our topic my-topic
 
 Once your containers are ready , you can connect to one of your broker, out of 3, to generate a topics, by sending messages directly
-
+```
 \# get kafka container name --> kafkastackdockercompose\_kafka1\_1  
 docker ps
 
 \# Connect to our broker  
 docker exec -it kafkastackdockercompose\_kafka1\_1 bash
-
+```
 **\# All Kafka's scripts are stored in /usr/bin so available from everywhere**  
+```
 kafka-console-producer --broker-list localhost:9092 --topic my-topic
 
 \> message 1  
 \> message 2
-
+```
 #### Increase the number of partition from 1 to 3
 
 Just to have more partitions to “play” with.
 
+```
 kafka-topics --topic my-topic --alter --partitions 3 --zookeeper zoo1
 
 \# Observe partitions with Number of partition 3 and RF: 1  
@@ -81,23 +83,23 @@ Topic:my-topic PartitionCount:3 ReplicationFactor:1 Configs:
  Topic: my-topic Partition: 0 Leader: 1 Replicas: 1 Isr: 1  
  Topic: my-topic Partition: 1 Leader: 2 Replicas: 2 Isr: 2  
  Topic: my-topic Partition: 2 Leader: 3 Replicas: 3 Isr: 3
-
+```
 #### Describe the topic we want to “move”
 
 [Based on the documentation](http://kafka.apache.org/documentation.html#basic_ops_automigrate), we can use a template to select our topic to move, but we can also generate it by using this TabMo homemade script. It will select all topics and generate our topics-to-move.json
-
+```
 echo '{"topics": \[' > topics-to-move.json && kafka-topics --zookeeper $ZK\_SERVERS --list | perl -ne 'chomp;print "{\\"topic\\": \\"$\_\\"},\\n"' >> topics-to-move.json && truncate --size=-2 topics-to-move.json && echo '\],"version":1}' >>  topics-to-move.json
 
 cat topics-to-move.json  
 {"topics": \[  
 {"topic": "my-topic"}\],"version":1}
-
+```
 #### Generate a plan for our reassignment
-
+```
 kafka-reassign-partitions --zookeeper zoo1:2181 --broker-list "1,2,3" --topics-to-move-json-file topics-to-move.json --generate > full-reassignment-file.json
-
+```
 Keep the rollback json file somewhere, just in case. **Heads up,** you will not be able to rollback your plan until your first plan is completely done.
-
+```
 cat full-reassignment-file.json | grep version | head -n 1 > rollback.json
 
 cat full-reassignment-file.json | grep version | tail -n 1 > reassignment.json
@@ -117,13 +119,13 @@ cat full-reassignment-file.json | grep version | tail -n 1 > reassignment.json
     }  
     \]  
 }
-
+```
 #### Optimize the proposed plan
 
 **_Heads up_**_, Kafka’s kafka-reassign-partitions script is not aware of partitions size, does not limit partition migration between brokers, and does not generate a deterministic plan, so you should not trust it. Just use it as a template and calculate yourself your plan while limiting partitions migrations._
 
 We are going to increase the replication factor (RF) to 3.
-
+```
 sed -i 's/\\\[\[1-3\]\\\]/\[1,2,3\]/g' reassignment.json
 
 cat reassignment.json  
@@ -142,27 +144,27 @@ cat reassignment.json
     }  
     \]  
 }
-
+```
 #### Migrate
-
+```
 kafka-reassign-partitions --zookeeper zoo1 --reassignment-json-file reassignment.json **\--execute**
-
+```
 #### Monitor and verify
-
+```
 kafka-reassign-partitions --zookeeper zoo1 --reassignment-json-file reassignment.json **\--verify**  
 Status of partition reassignment:   
 Reassignment of partition \[my-topic,0\] completed successfully  
 Reassignment of partition \[my-topic,2\] completed successfully  
 Reassignment of partition \[my-topic,1\] still in progress
-
+```
 While all topics are still in progress, we could see on this the Isr, in-sync replicas, different to replicas
-
+```
 root@kafka1:/# kafka-topics --topic my-topic --describe  --zookeeper zoo1  
 Topic:my-topic PartitionCount:3 ReplicationFactor:3 Configs:  
  Topic: my-topic Partition: 0 Leader: 1 Replicas: 1,2,3 Isr: 1,3,2  
  Topic: my-topic Partition: 1 Leader: 2 **Replicas**: 1,2,3 **Isr**: 2,3  
  Topic: my-topic Partition: 2 Leader: 3 Replicas: 1,2,3 Isr: 3,2,1
-
+```
 ### Be safe, not sorry
 
 During partitions reassignment more resources are going to be used, be sure your cluster can handle +20% CPU usage and up to +30% disk.
