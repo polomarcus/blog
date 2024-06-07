@@ -39,7 +39,7 @@ Lorsque le groupe se connaît bien, [comme l’équipe de Fertiles](https://fert
 * **Important mais pas sérieux.** Détendre l’atmosphère avec un peu de légèreté permet de fluidifier les échanges et les apprentissages, même lorsque les enjeux sont importants.
 
 En tant que membre du groupe, je dois savoir adapter le cadre et même le révoquer lorsqu’il est trop lourd. 
-J’ai, et mes équipes, ont pu subir des rituels de [daily standups](https://www.atlassian.com/fr/agile/scrum/standups) sans que quelqu’un n’ait le courage pour le bien de groupe de se poser la question : est ce que c’est encore utile ? ou est ce qu’on pourrait faire évoluer le format ?
+J’ai, et mes équipes, pu subir des rituels de [daily standups](https://www.atlassian.com/fr/agile/scrum/standups) sans que quelqu’un n’ait le courage pour le bien du groupe de se poser la question : est ce que c’est encore utile ? ou est ce qu’on pourrait faire évoluer le format ?
 # Les étapes d’une réunion
 Je ne parlerai que du contexte de réunions récurrentes, où l’équipe se connaît et où des rôles de gardien·ne du temps (autorité acceptée par le groupe pour le respect du temps de chacun), secrétaire (clarifier quoi prendre comme note et pour qui), et de facilitateur·rices (répartir la parole, assurer du cadre, reformulation si nécessaire, permettre les prises de hauteur) sont définies et distribués.
 
@@ -66,13 +66,21 @@ Et lorsque l’ordre du jour est fini, il est temps de fixer les prochains petit
 Lors de longues réunions, il est probable que je n’ai pas tout en tête. Je peux trouver judicieux de relire le compte-rendu en cours et de le corriger collectivement pour bien ancrer ce qu’il s’est dit avant de passer à la suite de ma journée.
 ### Prise de hauteur
 Lorsque je sens que la réunion aurait pu mieux se passer, je peux poser collectivement des questions avec un temps de centrage pour l’amélioration continue de la vie de l’équipe: 
-comment s’est passée la réunion : partager son ressenti avant de monter dans l’analyse. Par exemple, dire que je me sens stressé par rapport aux nouveaux enjeux, serein par rapport au délai fixé, ou confiant. Mais si le groupe se fait confiance, les mots peuvent être plus personnels - en s’aidant d’une liste de mots.
-qu’est ce qu’on a appris ?
-qu’est ce qu’on continue, crée ou cesse (ou C.C.C) pour les prochaines fois ? 
+* comment s’est passée la réunion ?
+* qu’est ce qu’on a appris ?
+* qu’est ce qu’on continue, crée ou cesse (ou C.C.C) pour les prochaines fois ? 
+
+ En partageant d'abord son ressenti avant de monter dans l’analyse progressivement, je dois la possibilité au groupe de mieux se comprendre. Par exemple, dire que je me sens stressé par rapport aux nouveaux enjeux, serein par rapport au délai fixé, ou confiant.
+ 
+ Mais si le groupe se connait et se fait confiance, les mots peuvent être plus personnels - *en s’aidant d’une liste de mots pour éviter d'entendre toujours les mêmes.*
+
 ### Clôturer
-J’ai pu remarquer de nombreuses réunions qui débordent et où des gens partent en plein milieu d’une phrase d’un participant car ils ont un autre engagement ailleurs - ou le pratiquer moi même. Je remarque que l’annoncer avant que la réunion commence peut améliorer ce moment.
+J’ai pu remarquer de nombreuses réunions qui débordent et où des gens partent en plein milieu d’une phrase d’un participant car ils ont un autre engagement ailleurs - ou le pratiquer moi même.
 
 **Je ne peux que ressentir de la gêne et de la frustration lors de ces moments.** Si cela se produit, il faut mieux définir le rôle du gardien·ne du temps, rappeler le cadre, et bien co-responsabiliser tous les participant·es sur la durée **pour le respect du temps de tous.**
+
+Je remarque qu'annoncer au début de la réunion que je suis contraint de partir avant la fin peut améliorer ce moment.
+
 ### Cultiver les manières de célébrer
 Une manière de respecter le travail de chacun peut être de prendre un moment pour célébrer les petites avancées, de la manière la plus adéquate pour le groupe.
 
