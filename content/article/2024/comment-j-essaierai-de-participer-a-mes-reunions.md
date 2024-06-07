@@ -70,7 +70,7 @@ Lorsque je sens que la réunion aurait pu mieux se passer, je peux poser collect
 * qu’est ce qu’on a appris ?
 * qu’est ce qu’on continue, crée ou cesse (ou C.C.C) pour les prochaines fois ? 
 
- En partageant d'abord son ressenti avant de monter dans l’analyse progressivement, je dois la possibilité au groupe de mieux se comprendre. Par exemple, dire que je me sens stressé par rapport aux nouveaux enjeux, serein par rapport au délai fixé, ou confiant.
+ En partageant d'abord son ressenti avant de monter dans l’analyse progressivement, je donne la possibilité au groupe de mieux se comprendre. Par exemple, dire que je me sens stressé par rapport aux nouveaux enjeux, serein par rapport au délai fixé, ou confiant.
  
  Mais si le groupe se connait et se fait confiance, les mots peuvent être plus personnels - *en s’aidant d’une liste de mots pour éviter d'entendre toujours les mêmes.*
 
@@ -103,4 +103,4 @@ J’ai mis 1 an et demi entre la découverte de Fertiles et mon inscription à l
 Une phrase d’[Oxmo Puccino dans “Artiste”](https://open.spotify.com/track/0N1hOWvyGl9W6Dogw5jyb6) a longtemps raisonné chez moi, elle dit qu'une chose presque impossible est “d’aller mettre plus de 10 personnes d'accord", desormais je pense qu’avec les bonnes méthodes et du temps, cela devient beaucoup plus réaliste.
 
 ---
-*Merci à Olivier Rodriguez, Julien Coudsi, et aux participant.es de la formation PaCOO de mai 2024*
+*Merci à Olivier Rodriguez, Julien Coudsi, et aux participant.es de la formation PACoo' de mai 2024*
