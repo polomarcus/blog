@@ -60,7 +60,7 @@ Normalement à ce moment, vous êtes dans les meilleures dispositions pour déro
 Si je facilite : accepter que cet ordre du jour puisse être mouvant, accepter qu'il ne puisse pas être terminé en cas de trop gros dépassement. Mieux vaut clôturer 5 sujets sur 8 en 1h efficacement, que boucler les 3 manquants dans la douleur avec tout le monde en PLS.
 Si l'on est participant, on peut aussi suggérer de reporter un sujet si l'on sent que le temps s'allonge et que tout ne va pas rentrer.
 ### Définition des PPP
-Et lorsque l’ordre du jour est fini, il est temps de fixer les prochains petits pas en répondant à ces questions si besoin : Qui, Quoi, Quand.
+Et lorsque l’ordre du jour est fini, il est temps de fixer les Prochains Petits Pas (PPP) en répondant à ces questions si besoin : Qui, Quoi, Quand.
 
 ### Ancrer les acquis
 Lors de longues réunions, il est probable que je n’ai pas tout en tête. Je peux trouver judicieux de relire le compte-rendu en cours et de le corriger collectivement pour bien ancrer ce qu’il s’est dit avant de passer à la suite de ma journée.
@@ -68,7 +68,7 @@ Lors de longues réunions, il est probable que je n’ai pas tout en tête. Je p
 Lorsque je sens que la réunion aurait pu mieux se passer, je peux poser collectivement des questions avec un temps de centrage pour l’amélioration continue de la vie de l’équipe: 
 * comment s’est passée la réunion ?
 * qu’est ce qu’on a appris ?
-* qu’est ce qu’on continue, crée ou cesse (ou C.C.C) pour les prochaines fois ? 
+* qu’est ce qu’on Continue, Crée ou Cesse (ou C.C.C) pour les prochaines fois ? 
 
  En partageant d'abord son ressenti avant de monter dans l’analyse progressivement, je donne la possibilité au groupe de mieux se comprendre. Par exemple, dire que je me sens stressé par rapport aux nouveaux enjeux, serein par rapport au délai fixé, ou confiant.
  
