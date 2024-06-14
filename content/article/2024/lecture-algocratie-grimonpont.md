@@ -14,10 +14,10 @@ series: ["lecture"]
 ## Mes commentaires 
 Les Sapiens que nous sommes ont besoin de récits pour diffuser l’information, comme l’a montré le livre éponyme de Harari. La montée de l'accumulation du savoir, illustrée par exemple par Wikipédia, a atteint ses limites et bloque désormais sur sa diffusion.
 
-Sa diffusion a comme obstacles notre tendance de notre espèce à subir des biais: 
-* **moindre effort**: notre cerveau adore une nouvel information acquis en un minimum de temps
+Sa diffusion a comme obstacle la tendance de notre espèce à subir des biais: 
+* **moindre effort**: notre cerveau adore une nouvelle information acquise en un minimum de temps.
 * **confirmation**: choisir parmi des milliers de choix le confort de l’information qui confirme ce qu’on pense déjà.
-* **négativité**: le succès des rubriques faits divers n’est plus à démontrer 
+* **négativité**: le succès des rubriques faits divers n’est plus à démontrer.
 * …
 
 Ces biais sur l’information sont exploités par les réseaux sociaux en ligne de la même manière que nous avons du mal à arrêter de manger après la première chips ou bonbon acidulé. Ces réseaux sont capables de toucher des milliards d’individus et leurs bénéfices dépendent du temps que nous passons dessus.
