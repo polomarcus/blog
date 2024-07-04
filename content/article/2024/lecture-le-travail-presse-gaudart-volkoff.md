@@ -25,10 +25,26 @@ Des citations pour vous donner envie de voir sa conférence :
 
 > ça mene toute constestation impossible, pourquoi tu te plains ? tout le monde s'amuse ! c'est fun ici !
 
-## Ma vision de travailleur de la tech
-Lors des sprints, l'absence de prises en compte de moments de transmissions, moment urgents (les bugs fix et autres surprises) 
+## Des similitudes avec la tech - Chapitre 4 "Au carrefour des temps: piloter une équipe"
+Lors des sprints, j'ai souvent pu constater l'absence de prises en compte de moments de transmissions, de temps reserver aux moments urgents (les bugs fix et autres surprises), et les choses imprévisibles pour quelqu'un qui n'a pas une vision globale des infrastructures distribuées de plus en plus complexes des cloud providers.
 
-### Sur la fin de vie au travail 
+> la culture du sprint dans laquelle nous sommes privilégie la quantité plutôt que la qualité. - ["La Culture De La Résilience À Travers Le DevOps, DevPO, Et DevQA" - Paul Leclercq](https://www.epauler.fr/article/la-culture-de-la-r%C3%A9silience-%C3%A0-travers-le-devops-devpo-et-devqa/)
+
+Ces personnes décidant du contenu de ces sprints sont des "équilibristes" ayant un pied - parfois seulement quelques orteils - dans la technique et l'autre dans "le politique et le stratégique". L'équilibre est malaisé à trouver : d'un côté l'agenda est dicté par Jira, et l'autre par le rappel aux réel de ceux et celles qui font.
+
+Il existe pourtant des "manager acrobates" qui arrivent à jongler entre les deux. Ce type profil est décrite par les auteurs du livre comme des "encadrants de proximité" qui sont des "concepteurs locaux", qui sont selon les auteurs, peu reconnu par des hierachies plus élevées, ou en tout cas ne retient pas toute l'attention qu'ils mériteraient.
+
+Les auteurs concluent ce chapitre par :
+> Encadrer revient à bâtier des arrangements d'urgence qui, à terme, sont contre-productifs, voire accroissent les problèmes de santé. Quand le travail est un édifice conçu à la hâte, il se fissure à l'usage.
+
+## Transmettre et apprendre - 
+L'injonction au travail acharné - overwork culture - qui peut faire perdre le caractère création d'un collectif des temps de pause.
+Dans les plateforme d'e-commerce chinoises, on parle du "996" : 9h du matin à 21h 6 jours sur 7.
+
+
+
+
+### Sur la fin de vie au travail - "maladie du temps"
 Ce livre parle de condition difficile dans les hauts fourneaux de Fos-sur-Mer que j'ai l'habitude de voir lors de mes trajets en train, voiture ou vélo entre Montpellier et Marseille.
 
 Cela m'a poussé à mieux apprécier l'espérance de vie, dont la moyenne cache les nombreux morts jeunes :
@@ -36,7 +52,7 @@ Cela m'a poussé à mieux apprécier l'espérance de vie, dont la moyenne cache 
 ![Risques de mortalité selon l’âge](https://www.ined.fr/thumb/f__png/h__768/q__90/w__1024/src/fichier/s_rubrique/225/risques.mortalite.age.png)
 
 ## Quelques extraits du livre
-Quand le travail est un édifice conçu à la hâte, il se fissure à l'usage.
+
 
 Être «agent de fiabilité», c'est déployer dans l'activité du quotidien des stratégies d'anticipation visant à imaginer les risques et à faire en sorte qu'ils n'adviennent pas. Si c'est tout de même le cas, leur récupération, alors sous fortes contraintes temporelles, est possible quand il existe des ressources collectives, quand les personnes sont assez expérimentées pour savoir comment agir, quand elles ont les marges de manœuvre pour le faire. Cette activité est bien souvent invisible et peut se réaliser au détriment de la santé des personnes et des collectifs de travail: santé et sécurité ne font pas tout le temps bon ménage, comme nous le verrons dans les histoires à suivre. Son invisibilité la rend fragile et elle peut être remise en cause par des changements décidés ailleurs. Cette activité est pourtant cruciale.
 
