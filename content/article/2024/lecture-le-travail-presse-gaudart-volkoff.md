@@ -10,7 +10,7 @@ tags:
   - "lecture"
 ---
 
-J'ai pu rencontrer Denis Migot lors du dîner des conférenciers de [l'agile tour de Montpellier 2023](https://www.youtube.com/watch?v=SjUub4oWxxA). Lors d'un tour de présentation de la soirée, en quelques minutes cette personne m'a convaincu de son intelligence et sorté du lot : enfin quelqu'un qui parle des sciences sociales dans un contexte d'organisation de travail.
+J'ai pu rencontrer Denis Migot lors du dîner des conférenciers de [l'agile tour de Montpellier 2023](https://www.youtube.com/watch?v=SjUub4oWxxA). Lors d'un tour de présentation de la soirée, en quelques minutes cette personne m'a convaincu de son intelligence et sortait du lot : enfin quelqu'un qui parle des sciences sociales dans un contexte d'organisation de travail.
 
 Quelques mois plus tard, Denis a donné cette conférence à Rennes : [Souffrance au travail comment l’industrie agile y contribue - Denis Migot](https://www.youtube.com/watch?v=ekyS6nZdUqk) où il recommande quelques livres dont ["Le travail préssé" - 2022](https://www.placedeslibraires.fr/livre/9782363833518-le-travail-presse-corinne-gaudart-serge-volkoff/) écrit par 2 ergonomes. Il mettait clairement des mots sur ce que j'avais pu ressentir à quelques moments de ma carrière.
 
