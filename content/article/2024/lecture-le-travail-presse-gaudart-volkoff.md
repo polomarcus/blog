@@ -1,7 +1,7 @@
 ---
 title: "Notes de lecture: Le travail préssé - Gaudart - Volkoff"
-date: 2024-08-26T08:00:10+01:00
-draft: true
+date: 2024-08-27T08:00:10+01:00
+draft: false
 description: "Le modèle de la hâte tend à s'imposer dans le monde professionnel. Intensité, réactivité, adaptabilité pèsent sur les temps de travail."
 thumbnail: "images/lecture/travail-presse.jpg"
 images:
@@ -12,7 +12,7 @@ tags:
 
 J'ai pu rencontrer Denis Migot lors du dîner des conférenciers de [l'agile tour de Montpellier 2023](https://www.youtube.com/watch?v=SjUub4oWxxA). Lors d'un tour de présentation de la soirée, en quelques minutes cette personne m'a convaincu de son intelligence et sorté du lot : enfin quelqu'un qui parle des sciences sociales dans un contexte d'organisation de travail.
 
-Quelques mois plus tard, Denis a donné cette conférence à Rennes : [Souffrance au travail comment l’industrie agile y contribue - Denis Migot](https://www.youtube.com/watch?v=ekyS6nZdUqk) où il recommande quelques livres dont ["Le travail préssé" - 2022](https://www.placedeslibraires.fr/livre/9782363833518-le-travail-presse-corinne-gaudart-serge-volkoff/) écrit par 2 ergonomes. Il mettait clairement des mots sur ce que j'avais pu recentir à quelques moments de ma carrière.
+Quelques mois plus tard, Denis a donné cette conférence à Rennes : [Souffrance au travail comment l’industrie agile y contribue - Denis Migot](https://www.youtube.com/watch?v=ekyS6nZdUqk) où il recommande quelques livres dont ["Le travail préssé" - 2022](https://www.placedeslibraires.fr/livre/9782363833518-le-travail-presse-corinne-gaudart-serge-volkoff/) écrit par 2 ergonomes. Il mettait clairement des mots sur ce que j'avais pu ressentir à quelques moments de ma carrière.
 
 Des citations pour vous donner envie de voir sa conférence :
 > L’agilité est un cheval de Troie pour vendre des formations
@@ -24,7 +24,7 @@ Des citations pour vous donner envie de voir sa conférence :
 > ça mène toute constestation impossible, pourquoi tu te plains ? tout le monde s'amuse ! c'est fun ici !
 
 ## Des similitudes avec la tech - Chapitre 4 "Au carrefour des temps: piloter une équipe"
-Lors des sprints, j'ai souvent pu constater l'absence de prises en compte de moments de transmissions, de temps reserver aux moments urgents : les bugs fix et autres surprises de production, et les choses imprévisibles pour quelqu'un qui n'a pas une vision globale des infrastructures distribuées de plus en plus complexes des cloud providers.
+Lors des sprints, j'ai souvent pu constater l'absence de prises en compte de moments de transmissions, de temps reservés aux moments urgents : les bugs fix et autres surprises de production, et les choses imprévisibles pour quelqu'un qui n'a pas une vision globale des infrastructures distribuées de plus en plus complexes des cloud providers.
 
 > la culture du sprint dans laquelle nous sommes privilégie la quantité plutôt que la qualité. - ["La Culture De La Résilience À Travers Le DevOps, DevPO, Et DevQA" - Paul Leclercq](https://www.epauler.fr/article/la-culture-de-la-r%C3%A9silience-%C3%A0-travers-le-devops-devpo-et-devqa/)
 
@@ -37,7 +37,7 @@ Les auteurs concluent ce chapitre par :
 
 ## Transmettre et apprendre
 L'injonction au travail acharné - overwork culture - qui peut faire perdre le caractère création d'un collectif des temps de pause.
-Sans aller jusqu’à l’enfer des plateformes d'e-commerce chinoises, où l’on parle du "996" : 9h du matin à 21h 6 jours sur 7. J’ai pu dans ma carrière faire des tunnels de plusieurs semaines sans prendre ou avoir l’occasion de prendre de la hauteur, car il fallait délivrer. Je sais maintenant que c’est temps “perdu” n’en sont pas et en font gagner sur le long terme, tout en permettant une meilleure santé au travail.
+Sans aller jusqu’à l’enfer des plateformes d'e-commerce chinoises, où l’on parle du "996" : 9h du matin à 21h 6 jours sur 7. J’ai pu dans ma carrière faire des tunnels de plusieurs semaines sans prendre ou avoir l’occasion de prendre de la hauteur, car il fallait délivrer. Je sais maintenant que ces temps “perdus” n’en sont pas et en font gagner sur le long terme, tout en permettant une meilleure santé au travail.
 
 Il est parfois difficile de questionner sa santé au travail dans ces effets tunnels. Au début de ma carrière, à cause d’un travail trop intense et mal reconnu, j’ai gagné 10kg en 1 an. Ma balance a été un indicateur que je montais beaucoup trop haut dans les tours. 
 
