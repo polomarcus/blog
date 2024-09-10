@@ -6,7 +6,6 @@ description: >-
 date: '2019-07-02T07:40:46.479Z'
 categories: []
 keywords: []
-slug: /@polomarcus/un-an-de-t%C3%A9l%C3%A9travail-chez-tabmo-e477fc1e8e3a
 ---
 
 Trouver son rythme et ses manières de communiquer pour s’épanouir en travaillant à distance.
