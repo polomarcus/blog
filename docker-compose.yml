@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   blog:
     container_name: hugo

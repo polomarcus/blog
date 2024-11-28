@@ -81,7 +81,7 @@ params.assets.disableFingerprinting = true
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "Github"
-url = "https://github.com/polomarcus/blog"
+url = "https://github.com/polomarcus"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
