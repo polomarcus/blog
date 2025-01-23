@@ -110,7 +110,7 @@ Cela n’a pas toujours été comme cela. Il y a quelques décennies les enfants
 
 Une sorte d’aménisie général nous a frappé, et on est incapable de se souvenir de cela. A l’image de cette élue incapable de savoir que les Grecques qui ont fondé Marseille ne sont pas venus en voiture.
 
-{{< tweet user="MurielDIRUOCCO" id="1167452293488361472" >}}
+{{< x user="MurielDIRUOCCO" id="1167452293488361472" >}}
 
 ## Conclusion
 N’acceptons pas les techniques rhétoriques dans les articles de presse : voix passive, agentivité et proximité. Rappelons nous l’importance des conséquences de la presse dans nos vies, car c’est avec un article intitulé [”Stop aux meutres d’enfants”](https://lesvelosdesetangs.wordpress.com/2020/03/22/des-militants-neerlandais-expliquent-pourquoi-les-pays-bas-sont-desormais-si-favorables-au-velo/) qu’un pays a déclenché sa vélorution dans les années 1970, et une interview de France 3 que Montpellier a lancé son mouvement vélo [#JeSuisUnDesDeux](https://www.youtube.com/watch?v=aW9kfwnk29w). 

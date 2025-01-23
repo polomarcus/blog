@@ -16,7 +16,7 @@ J'ai pour cela [scanné avec un projet numérique](https://github.com/polomarcus
 Il en ressort que **99.2% des reportages ne contiennent pas le mot réchauffement, dérèglement ou changement climatique**, seulement 481 en parlent sur les 60 000 analysés. **J'en ai conclu que mon producteur de légumes me parle plus de climat que les JT de TF1 et de France 2.**
 
 Un constat partagé par des journalistes comme Thomas Baëito dont le tweet a été liké par la rédactrice en chef de France Info et certains journalistes des Echos ou du Temps : 
-{{< tweet user="ThomasBaietto" id="1478987314433040385" >}}
+{{< x user="ThomasBaietto" id="1478987314433040385" >}}
 
 Cet article qui **prend largement appuie sur les travaux du sociologue Jean Baptiste Comby, dans sa thèse ["La question climatique"](https://www.placedeslibraires.fr/livre/9782912107817-la-question-climatique-genese-et-depolitisation-d-un-probleme-public-jean-baptiste-comby/)**. Il a conduit 70 entretiens avec des journalistes en charge de l’environnement dans les médias généralistes nationaux, et analysé 663 reportages sur les enjeux climatiques dans les JT.
 
