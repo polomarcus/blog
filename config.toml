@@ -36,12 +36,6 @@ summarylength = 10
   identifier = "ressources"
   url = "/mes_ressources/"  
 
-  [[menu.main]]
-  name = "🛢️ Calculer son empreinte carbone"
-  weight = 500
-  identifier = "nosgestesclimat"
-  url = "https://nosgestesclimat.fr/"
-
  
 [params]
 title = "Paul Leclercq 🦕"
