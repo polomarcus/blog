@@ -34,8 +34,6 @@ A croire que ces accidents sont inévitables, de la même manière que certains 
 
 Et construire des infrastructures cyclables séparées du traffic automobile marche, les Pays Bas sont le pays qui [a le moins de cyclistes tués par milliards de kilomètres parcourus](https://www.lemonde.fr/blog/transports/2019/05/11/10-chiffres-sur-le-velo-en-europe/) et où le casque n’est pas obligatoire. Ce serait seulement une question de volonté, et **une peur que l’industrie automobile perde quelque part de marché au prix du vélo et de la marche, et avec cela une amélioration de la santé.**
 
-{{< tweet user="LigneOrange" id="1489682709219790851" >}}
-
 ## La rhétorique des articles de presse
 Quand la presse en parle, c’est souvent avec un point de vue pour déculpabiliser la personne dont on se sent le plus proche, et c'est souvent celui ou celle qui tient le volant. Et potentiellement de ne pas abimer l'image de l'industrie qui paye les médias avec la publcité car ["l'automobile reste un des piliers de la publicité en France"](https://www.caradisiac.com/l-automobile-reste-un-des-piliers-de-la-publicite-en-france-176652.htm)
 

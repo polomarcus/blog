@@ -1,7 +1,7 @@
 services:
   blog:
     container_name: hugo
-    image: "peaceiris/hugo:v0.124.0"
+    image: "peaceiris/hugo:v0.142.0"
     ports:
       - 1313:1313
     volumes:
