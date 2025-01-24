@@ -14,7 +14,7 @@ Bienvenue, moi c'est Paul. Je lis des longs rapports pour que vous n'ayez pas à
 ---
 ## 📲 Numérique
 ---
-* **Data engineering** : Entrepôt de données, Apache Kafka, Apache Spark, API... *(en gros, je code)*
+* **Fullstack Data** : Entrepôt de données, Apache Kafka, Apache Spark, API, BI, LLM... *(en gros, je code)*
 * [**Culture DevOps**](https://www.epauler.fr/article/la-culture-de-la-r%C3%A9silience-%C3%A0-travers-le-devops-devpo-et-devqa/) : collaboration entre équipes, automatisation, déploiement, monitoring *(en gros, je fais en sorte que tout se passe bien dans les équipes)*
 * **Ecoconception des services numériques** : ["Il faut que ça dure plus longtemps, on ne peut pas vivre dans un monde où les smartphones vont durer 2 à 3 ans"](https://www.linkedin.com/posts/paleclercq_mataezrialitaez-activity-7015982682203394048-kHjh)
 
