@@ -82,3 +82,8 @@ icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/paleclercq/"
 
+[[params.socialIcons]]
+icon = "fab fa-stack-overflow"
+title = "Stackoverflow"
+url = "https://stackoverflow.com/users/3535853/paul-leclercq"
+
