@@ -7,6 +7,15 @@ theme = "anatole-polomarcus"
 enableEmoji = true
 summarylength = 10
 
+
+
+[sitemap]
+  changeFreq = ''
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
+
+
 [menu]
   [[menu.main]]
   name = "Épaulons-nous"
