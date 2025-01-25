@@ -2,14 +2,11 @@ baseURL = "http://www.epauler.fr/"
 languageCode = "fr"
 title = "épauler.fr"
 defaultContentLanguage = 'fr'
-description = """
-Torréfacteur de data
-
-"Des nains sur des épaules de géants" Bernard de Chartres
-"""
 theme = "anatole-polomarcus"
 enableEmoji = true
 summarylength = 10
+
+
 [menu]
 
   [[menu.main]]
@@ -25,7 +22,7 @@ summarylength = 10
   url = "/article/"  
 
   [[menu.main]]
-  name = "📺 Presse"
+  name = "📺 Dans la presse"
   weight = 350
   identifier = "presse"
   url = "/presse/"  
@@ -42,6 +39,7 @@ title = "Paul Leclercq 🦕"
 name = "Paul Leclercq 🦕"
 author.name="Paul Leclercq 🦕"
 author.email= "Paul Leclercq"
+descriptionseo = "Fullstack Data, Culture DevOps, Ecoconception des services numériques, Formations"
 description = """
 Torréfacteur de data
 <hr>
