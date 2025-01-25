@@ -50,6 +50,7 @@ disableArchiveTitleStyling=false
 mainSections = [] # content/_index.md default -> https://github.com/lxndrblz/anatole/wiki/%F0%9F%93%84-Content-Settings#using-a-static-page-as-your-home-page
 
 profilePicture = "https://avatars.githubusercontent.com/u/4059615?v=4"
+logo = "https://avatars.githubusercontent.com/u/4059615?v=4"
 customCss = ["css/custom.css"]
 gtagId = "G-W1N7B2KENY"
 googleSiteVerify = "WE8cLCZlyZMgkYks0sRlw8vYQhJ0e5lirXSmize3NSc"
