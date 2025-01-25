@@ -1,6 +1,7 @@
 baseURL = "http://www.epauler.fr/"
 languageCode = "fr"
-title = "épauler.fr"
+title = "Paul Leclercq 🦕"
+description = "Fullstack Data, Culture DevOps, Ecoconception des services numériques, Formations"
 defaultContentLanguage = 'fr'
 theme = "anatole-polomarcus"
 enableEmoji = true
