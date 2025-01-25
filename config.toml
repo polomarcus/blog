@@ -6,9 +6,7 @@ theme = "anatole-polomarcus"
 enableEmoji = true
 summarylength = 10
 
-
 [menu]
-
   [[menu.main]]
   name = "Épaulons-nous"
   identifier = "home"
@@ -85,4 +83,9 @@ url = "https://www.linkedin.com/in/paleclercq/"
 icon = "fab fa-stack-overflow"
 title = "Stackoverflow"
 url = "https://stackoverflow.com/users/3535853/paul-leclercq"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Bluesky"
+url = "https://bsky.app/profile/epauler.fr"
 
