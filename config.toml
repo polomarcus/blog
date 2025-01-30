@@ -100,3 +100,9 @@ icon = "fab fa-twitter"
 title = "Bluesky"
 url = "https://bsky.app/profile/epauler.fr"
 
+
+[[params.socialIcons]]
+icon = "fab fa-ubuntu"
+title = "RSS"
+url = "https://www.epauler.fr/index.xml"
+
