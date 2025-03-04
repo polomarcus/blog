@@ -7,8 +7,6 @@ theme = "anatole-polomarcus"
 enableEmoji = true
 summarylength = 10
 
-
-
 [sitemap]
   changeFreq = ''
   disable = false
@@ -56,6 +54,7 @@ Bernard de Chartres
 """
 copyright = "Copyleft (🄯) - CC-BY-SA"
 disableArchiveTitleStyling=false
+disableTitleCapitalization=true
 mainSections = [] # content/_index.md default -> https://github.com/lxndrblz/anatole/wiki/%F0%9F%93%84-Content-Settings#using-a-static-page-as-your-home-page
 
 profilePicture = "https://avatars.githubusercontent.com/u/4059615?v=4"
@@ -102,7 +101,7 @@ url = "https://bsky.app/profile/epauler.fr"
 
 
 [[params.socialIcons]]
-icon = "fab fa-ubuntu"
+icon = "fa fa-rss"
 title = "RSS"
 url = "https://www.epauler.fr/index.xml"
 
