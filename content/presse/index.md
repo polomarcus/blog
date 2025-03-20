@@ -4,6 +4,7 @@ draft: false
 ---
 
 ## Media
+* Télérama - [Quand l’IA se met au service de la lutte contre la désinformation climatique](https://www.telerama.fr/debats-reportages/quand-l-ia-se-met-au-service-de-la-lutte-contre-la-desinformation-climatique-7024750.php)
 * Le Monde - [L’Observatoire des médias sur l’écologie prend son envol](https://www.lemonde.fr/economie/article/2024/11/07/l-observatoire-des-medias-sur-l-ecologie-prend-son-envol_6381428_3234.html)
 * Fondation Jean Jaurès - [Climatoscepticisme : le nouvel horizon du populisme français](https://www.jean-jaures.org/publication/climatoscepticisme-le-nouvel-horizon-du-populisme-francais/)
 * Le Monde - [Déontologie journalistique, climat et Figaro](https://www.lemonde.fr/blog/huet/2023/01/10/deontologie-journalistique-climat-et-figaro/)
