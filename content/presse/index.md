@@ -4,6 +4,8 @@ draft: false
 ---
 
 ## Media
+* Le Monde - [La désinformation climatique prospère dans une partie des médias audiovisuels français](https://www.lemonde.fr/planete/article/2025/04/10/la-desinformation-climatique-prospere-dans-une-partie-des-medias-audiovisuels-francais_6593627_3244.html)
+* France Info - [Selon des ONG, 128 cas de désinformation climatique ont été recensés dans plusieurs médias depuis le début de l'année](https://www.francetvinfo.fr/economie/medias/selon-des-ong-128-cas-de-desinformation-climatique-ont-ete-recenses-dans-plusieurs-medias-depuis-le-debut-de-l-annee_7181466.html)
 * Télérama - [Quand l’IA se met au service de la lutte contre la désinformation climatique](https://www.telerama.fr/debats-reportages/quand-l-ia-se-met-au-service-de-la-lutte-contre-la-desinformation-climatique-7024750.php)
 * Le Monde - [L’Observatoire des médias sur l’écologie prend son envol](https://www.lemonde.fr/economie/article/2024/11/07/l-observatoire-des-medias-sur-l-ecologie-prend-son-envol_6381428_3234.html)
 * Fondation Jean Jaurès - [Climatoscepticisme : le nouvel horizon du populisme français](https://www.jean-jaures.org/publication/climatoscepticisme-le-nouvel-horizon-du-populisme-francais/)
