@@ -1,7 +1,7 @@
 ---
 title: "Scaling Smart: From 60s to 60ms response time with 0 added costs"
 draft: false
-description: "Partitionning, caching and materialized views to save cost and improve performance custom full-scan SQL queries"
+description: "Partitionning, caching and materialized views to save cost and improve performance on custom full-scan SQL queries"
 date: "2025-05-04T12:50:07+02:00"
 thumbnail: "images/2025/from-seconds-to-milliseconds.png"
 images:
