@@ -18,7 +18,7 @@ I implemented this solution pretty quickly thanks to [Metabase persistence model
 
 It seemed good enough for me, but people in a hurry that customize some full-scan queries, they couldn't use the cache and had to wait about a minute for results, and in today's too fast world this was not acceptable for them. 
 
-To make things worse, these were non-technical users who didn’t really grasp the cost of scanning the entire database. Our data is partitioned by time, so applying even a simple time filter could’ve massively improved response time. But from their perspective: More data means always better answers *- even though i don't agree with this -* so they’d often remove the predefined time filters - not realizing the performance hit they were causing.
+A recurring issue when non–data-driven users interact with analytical tools is that they may not grasp the performance impact of certain choices. In our case, the data is partitioned by time, so even a simple date filter could drastically improve query performance. But from a user's perspective, more data often feels like better insight - so they would understandably remove predefined time filters, unaware that this triggered expensive full-scan queries behind the scenes. In exploratory phases where I don't know exactly what I'm looking for, a principle I follow myself is to start with as little data as needed to test a hypothesis and only scale up once the insights are meaningful.
 
 ## Vertical scaling wasn’t sustainable
 There’s a [popular saying in tech that "a one-second delay can cost you 10% of your users."](https://research.google/blog/speed-matters/) Whether or not that number is exact, it reflects a real truth: users expect speed. As a result, many top engineers run oversized, underutilized servers - burning budget just to keep response times low. CPUs often idle at 1%, but hey, the latency graphs look good.
@@ -30,7 +30,7 @@ For months, I kept hearing minor complaints in meetings about slowness. Without 
 But deep down, my ego was hurt and I knew this wasn’t sustainable either, especially for a project that’s here to last.
 
 ## Using materialized views
-Eventually, I've been lucky enough to find a small window of time to work on this case, and successfully prototyped using Data Build Tool (DBT) to pre-calculate (using [a materialized view](https://docs.getdbt.com/docs/build/materializations#materialized-view)) the first query displayed on the website : a percent of information linked to ecology in media by month.
+Eventually, I could find a small window of time to work on this case, and successfully prototyped using Data Build Tool (DBT) to pre-calculate (using [a materialized view](https://docs.getdbt.com/docs/build/materializations#materialized-view)) the first query displayed on the website : a percent of information linked to ecology in media by month.
 
 Thanks to this PoC with automated tests, motivation due to my ego a bit hurt by months of "website being slow" complaints, and helped with the head of data of Quota Climat who identitied a generic root query, we could implement a materialized view on our 25GB of data.
 
