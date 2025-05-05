@@ -16,7 +16,7 @@ The observatory displays a lot of graphs. And for performance, I've relied on ca
 
 I implemented this solution pretty quickly thanks to [Metabase persistence model](https://www.metabase.com/docs/latest/data-modeling/model-persistence), and Metabase slack alerts.
 
-It was good enough for me, but for more (rare) curious users that customize some full-scan queries, they couldn't use the cache and had to wait about a minute for results, and in today's too fast world this was not acceptable for them. 
+It seemed good enough for me, but people in a hurry that customize some full-scan queries, they couldn't use the cache and had to wait about a minute for results, and in today's too fast world this was not acceptable for them. 
 
 To make things worse, these were non-technical users who didn’t really grasp the cost of scanning the entire database. Our data is partitioned by time, so applying even a simple time filter could’ve massively improved response time. But from their perspective: More data means always better answers *- even though i don't agree with this -* so they’d often remove the predefined time filters - not realizing the performance hit they were causing.
 
