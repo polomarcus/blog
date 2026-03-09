@@ -2,24 +2,6 @@ body * {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Eco-UX: section separators sobres, sans surcharge visuelle */
-.post__content hr {
-    border: none;
-    border-top: 1px solid rgba(0,0,0,0.12);
-    margin: 1.2em 0;
-}
-
-/* Densité lisible sans clutter — listes serrées */
-.post__content ul {
-    margin-top: 0.4em;
-    margin-bottom: 0.4em;
-}
-
-/* Respiration après séparateur avant titre de section */
-.post__content hr + h2 {
-    margin-top: 0.5rem;
-}
-
 blockquote {
     margin-left: 10px;
     margin-right: 0px;
